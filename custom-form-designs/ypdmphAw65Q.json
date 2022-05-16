@@ -1,0 +1,1885 @@
+{
+    "sections": [{
+        "title": "Section A. General Information",
+        "instruction": "",
+        "subSections": [{
+                "title": "SME CHEKLIST FOR SUPERVISION",
+                "inputRows": [
+                    [{
+                            "id": "",
+                            "flex": 1,
+                            "label": "Date of Visit",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "eventDate",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "Time of start",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "NL5zAswzWgz",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Type of HF level",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "ehAyC9CL5IT",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Other, Specified",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "hpnzB9SHXHO",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Ownership",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "Cuv6P4FX7kW",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Other; specify",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "EFvwwow9XnR",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Name of health care provider assessed",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "OoPuu2K6bpB",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Health Care Provider Cadre",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "j5HcCaVtxON",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": [{
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "Mobile",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "Email",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": [{
+                                    "id": "UZEABJZa8Mw",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "bFUSAB6R3fJ",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 1,
+                            "label": "Specify other cadre",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "U7YQ2hQLgYp",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Name of supervisor/assessor",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "tcW1VUAvzmu",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Title (Qualification)",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "ysiyEwNWBup",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": [{
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "Mobile",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "Email",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": [{
+                                    "id": "RejCaa378DS",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "Yq2ixMngt0E",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        }
+                    ]
+                ],
+                "instruction": ""
+            },
+            {
+                "title": "SECTION B. List of Core Indicators and Auxiliary Indicators to be assessed",
+                "inputRows": [
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Facility MEEDS/MCN readiness",
+                            "isBolded": true,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 4,
+                            "label": "",
+                            "isBolded": true,
+                            "subInputs": [{
+                                    "id": "",
+                                    "label": "C.1 MEEDS/MCN Staffing",
+                                    "isBolded": false
+                                },
+                                {
+                                    "id": "",
+                                    "label": "C.2 Availability of MEEDS/MCN trained staffs",
+                                    "isBolded": false
+                                },
+                                {
+                                    "id": "",
+                                    "label": "C.3 Availability of  MEEDS and MCN data collection tools",
+                                    "isBolded": false
+                                }
+                            ]
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "MCN/MEEDS DQA",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 4,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": [{
+                                    "id": "",
+                                    "label": "D.1 MCR completeness",
+                                    "isBolded": false
+                                },
+                                {
+                                    "id": "",
+                                    "label": "D.2 MEEDS completeness",
+                                    "isBolded": false
+                                },
+                                {
+                                    "id": "",
+                                    "label": "D.3 Verification of MEEDS booklet",
+                                    "isBolded": false
+                                },
+                                {
+                                    "id": "",
+                                    "label": "D.4 MEEDS reporting timeliness",
+                                    "isBolded": false
+                                },
+                                {
+                                    "id": "",
+                                    "label": "D.5  Verification of the reporting date of MEEDS system and MEEDS booklet",
+                                    "isBolded": false
+                                },
+                                {
+                                    "id": "",
+                                    "label": "D.6 Data consistency (Data sources VS Data reporting system)",
+                                    "isBolded": false
+                                }
+                            ]
+                        }
+                    ]
+                ],
+                "instruction": "",
+                "subSections": []
+            },
+            {
+                "title": "SECTION C. MEEDS/MCN Readiness",
+                "instruction": "",
+                "subSections": [{
+                        "title": "C. 1 Facility readiness to provide MEEDS/MCN service",
+                        "inputRows": [
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "Is there a health worker who has been assigned for MEED/MCN  reporting",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "nzqrY7K9PPY",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "SUB-SCORE: C.1 MEEDS/MCN focal person score",
+                                    "isBolded": true,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "zGLprd14k9W",
+                                    "flex": 2,
+                                    "label": "[__]/5*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        ],
+                        "instruction": " "
+                    },
+                    {
+                        "title": "C.2 MEEDS/MCN Staff training",
+                        "inputRows": [
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "Number of staff working at this facility",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "XKCUz2Awbo5",
+                                    "flex": 2,
+                                    "label": "A.",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "Number of staff working at this facility who have received training on MEEDS/MCN system?",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "FUMLxZi3Zwn",
+                                    "flex": 2,
+                                    "label": "B.",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "SUB-SCORE: C.2 MEEDS/MCN staff training readiness score",
+                                    "isBolded": true,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "TM4QdgqCota",
+                                    "flex": 2,
+                                    "label": "B/A*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        ],
+                        "instruction": "Supervisor, enquire about staff who have received MEEDS/MCN training"
+                    },
+                    {
+                        "title": "C.3 Does the facility have the following data collection tools for malaria?",
+                        "inputRows": [
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "A separate OPD Register for under fives",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "xtqpaKQQxl1",
+                                    "flex": 3,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "A separate OPD Register for above fives",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "izSjb0WIcnp",
+                                    "flex": 3,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "MEEDS weekly data collection booklet",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "eKkD6qKK5XJ",
+                                    "flex": 3,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "MCR (malaria cases register)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "G3TWynLxmRe",
+                                    "flex": 3,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "Functioning MEEDS/MCN mobile phone on the day of visit",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "MDYkLio0Wq7",
+                                    "flex": 3,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                "id": "",
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }],
+                            [{
+                                "id": "",
+                                "label": "Why is the Mobile Phone not functioning?",
+                                "isBolded": false,
+                                "subInputs": []
+                            }],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "A. Defective Battery",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "zswOZvBSPkZ",
+                                    "flex": 3,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "B. Failure of Line",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "YXVzV3e4Sje",
+                                    "flex": 3,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "C. Broken Phone",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "oXBeaiAbjrW",
+                                    "flex": 3,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "D. Unfunctioning Charger",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "WAyV1kefZJl",
+                                    "flex": 3,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "SUB-SCORE: C.3 Malaria Data collection tools availability score",
+                                    "isBolded": true,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "BYfyYYFSEUF",
+                                    "flex": 3,
+                                    "label": "[__]/30*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "Section C.: Health Facility SME Readiness Score",
+                                    "isBolded": true,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 3,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "cwIJ7XHXz2S",
+                                    "flex": 4,
+                                    "label": "[C1-C3]/3",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 3,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        ],
+                        "instruction": ""
+                    }
+                ]
+            },
+            {
+                "title": "SECTION D. MEEDS/MCN DQA",
+                "inputRows": [],
+                "instruction": " Supervisor, review completeness of the following columns in the National Malaria Case Register (MCR) of the previous quarter. If there was no malaria case recorded in the quarter, go to question 4: MEEDS timeliness.",
+                "subSections": [{
+                        "title": "D.1 Completeness of National Malaria Case Register (MCR)",
+                        "inputRows": [
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "Write total number of malaria cases obtained in the review period (N)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "NO30LV0vwGg",
+                                    "flex": 4,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "A Date of positive results (1)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "eIjJK08VCDS",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "AAsWMhn6iWP",
+                                    "flex": 2,
+                                    "label": "A/N*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "B Reference number in the OPD register",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "Tn678ptYcrW",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "rZ50DnkP7tZ",
+                                    "flex": 2,
+                                    "label": "B/N*100 ",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "C Names of the patient (three names) (2)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "CmLzqv49ql9",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "sAKI4TR7KX9",
+                                    "flex": 2,
+                                    "label": "C/N*100 ",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "D Age (3)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "oOhQOxbchL7",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "XLfoZBJkfOp",
+                                    "flex": 2,
+                                    "label": "D/N*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "E Village (6)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "jQtYVPRF9J2",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "epvrypeG5di",
+                                    "flex": 2,
+                                    "label": "E/N*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "F Contact mobile number (patient or relative) (10)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "DaaWgKDwvlJ",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "FPoTc1jhqG5",
+                                    "flex": 2,
+                                    "label": "F/N*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "G Shehia (5)",
+                                    "isBolded": true,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "q4MHK2boWhi",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "XsObAfcPluL",
+                                    "flex": 2,
+                                    "label": "G/N*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 6,
+                                    "label": "Average MCR completeness filling score (average of each row %)",
+                                    "isBolded": true,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "XVH9ejpQdVt",
+                                    "flex": 2,
+                                    "label": "[A-G]/7",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        ],
+                        "instruction": "Note: Make an Average of MCR completeness filling score for all the cases obtained in the period.( Ex. A/N *100)"
+                    },
+                    {
+                        "title": "D.2 Completeness of Malaria Early Epidemic Detection System (MEEDS) weekly data collection booklet",
+                        "inputRows": [
+                            [{
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 6,
+                                    "label": "Under 5 Years",
+                                    "isBolded": true,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 6,
+                                    "label": "5 Year and Above",
+                                    "isBolded": true,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "Monday",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "lOFlkSwkVEx",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "hj3qVPGLsxv",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "TKVq51PZ7Kc",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "sSkfCJ4zqeT",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "DPDnV4dX0mP",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "ohLMQr4oUCy",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "Tuesday",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "XOfFzW3ZthF",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "VOCkthx2vsr",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "aXeu1rnjYuH",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "btMjk3zD1rb",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "OWxVuMy2gtG",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "smN3GJwIjD6",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "Wednesday",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "orbxdzr53wT",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "DU7lLvXWWhF",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "gEspxTlOJcZ",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "JHtazt4joKV",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "eKdBrFob9aV",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "GzY0kiEa46u",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "Thursday",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "Qte5wtO9PAG",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "VSDs742iABx",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "lp0uFK4eArz",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "xpcAuYi8rMi",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "quuEYLbbBgF",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "L21C5Cwc8nC",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "Friday",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "taNmPQnTt5i",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "wjRNUbp8Gsz",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "LoEvAt9EFjd",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "FBK8IQNsVyw",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "FyOFQbgbKEn",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "jcfdZk5wyoY",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "Saturday/Sunday",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "q4e3prtgn2v",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "CFuW4SIz6kx",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "qPESFpAbQnZ",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "FAyjM4vCz8m",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "BJ7ffbeDk7K",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "LdVpHBgFijx",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 10,
+                                    "label": "SUB SCORE D.2 Sum of total for raw available data/days",
+                                    "isBolded": true,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "moAim7YimYq",
+                                    "flex": 4,
+                                    "label": "[__]/36*100 ",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        ],
+                        "instruction": "Assess completeness of the MEEDS weekly data collection booklet, refer to the last week of the previous quarter. Note: To complete this table scroll to the left"
+                    },
+                    {
+                        "title": "D.4 MEEDS reporting timeliness",
+                        "inputRows": [
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "Select day on which the report was submitted (Refer to MEEDS system report)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "gLKTWTXihh4",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "SUB-SCORE: D.4 MEEDS Timeline Score",
+                                    "isBolded": true,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "CI27R1jh8Mm",
+                                    "flex": 2,
+                                    "label": "[__]/5*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        ],
+                        "instruction": "Download and print out the MEEDS timeliness report of the last week (of the previous quarter) from the MEEDS system."
+                    },
+                    {
+                        "title": "D.5 Verification of the reporting date of MEEDS system and MEEDS booklet",
+                        "inputRows": [
+                            [{
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 3,
+                                    "label": "MEEDS weekly data collection booklet (A)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "ZAMEP MEEDS system  (B)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "Consistency check",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "Reporting date",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "Ga4QHvCZ4bZ",
+                                    "flex": 3,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "GSwllskeXos",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "RPbXTzXeAd5",
+                                    "flex": 2,
+                                    "label": "Is A=B?",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 6,
+                                    "label": "SUB SCORE D.5 Consistence in dates of MEEDS system and MEEDS booklet reporting date score",
+                                    "isBolded": true,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "WG5xmG61LEx",
+                                    "flex": 2,
+                                    "label": "[__]/5*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        ],
+                        "instruction": "Verify if the reporting date of MEEDS system and MEEDS booklet match for the last week (of the previous quarter)"
+                    },
+                    {
+                        "title": "D.6 Assess the data consistence of the following collection tools for the last week of the previous quarter",
+                        "inputRows": [
+                            [{
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "SN",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "OPD Register (A)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "MEEDS weekly Data collection booklet (B)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "ZMCP MEEDS system (C)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "Malaria Laboratory book (sum mRDT and BS MPS) (D)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "National Malaria Case Register © (E)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "MCN system (Coconut surveillance) (F)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "Consistency check #1",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "Consistency Check #2 is A =C",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "Consistency Check #3 is E =F",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "1",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "Total OPD visits < 5",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "KmYhhFq05XQ",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "M2tUanI8CQu",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "vSVM07k0WgL",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "M85pUVI0YmD",
+                                    "flex": 2,
+                                    "label": "A = B = C ?",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "2",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "Total OPD visits > 5",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "Cg56ROIcLJ8",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "txzTzRGst1G",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "Hb7YUa0vim4",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "ZgF5micAlhZ",
+                                    "flex": 2,
+                                    "label": "A = B = C ?",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "3",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "Malaria negative < 5",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "DLQ15PHihGo",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "k9KG7X5p9Gn",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "khpKinvuguX",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "KFXwQpS2AcJ",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "t6MPXtpSXrn",
+                                    "flex": 2,
+                                    "label": "A = B = C = D?",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "j1dBqerlwZK",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "4",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "Malaria negative > 5",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "cxmqLvtuWsz",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "k9EOaOTnlQz",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "PCADVKi1Sj0",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "uJBhHu8jGKb",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "OfUM5k87doa",
+                                    "flex": 2,
+                                    "label": "A = B = C = D?",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "iTnsxGaf0g9",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "5",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "Malaria positive < 5",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "y4iugsvSMjg",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "BQQO1YM0wUX",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "VnjBPawnjwt",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "kZMGUcrIV3l",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "K1W0VKuvaOx",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "m9Yq7rpRZRr",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "jK0iSYzWhZB",
+                                    "flex": 2,
+                                    "label": "A = B = C = D = E = F?",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "ug3pXO6EfnZ",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "xj9ccYy7yi8",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "6",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "Malaria positive > 5",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "khNRMQEMfqt",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "m1XalQ83t3R",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "mO6hrP9JTSv",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "XNq4EQ3bmUQ",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "dEA2qwzkcqL",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "HnZ8UCdrwOw",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "gsmXdIZRLH7",
+                                    "flex": 2,
+                                    "label": "A = B = C = D = E = F?",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "UznsfY1lu2N",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "ZXhmr224zWf",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 14,
+                                    "label": "Consistency Check Score (sum of totals for raw 1 to 6 divide by 12)",
+                                    "isBolded": true,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "xumrnP8es8m",
+                                    "flex": 6,
+                                    "label": "[__]/12*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 14,
+                                    "label": "SCORE: Section D. MCN/MEEDS DQA Score",
+                                    "isBolded": true,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "Mn0221J0YZf",
+                                    "flex": 6,
+                                    "label": "[D1-D6]/6 ",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 14,
+                                    "label": "End Time",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "fxr66P7d4AL",
+                                    "flex": 6,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        ],
+                        "instruction": "Download and print out the MEEDS system report and MCN system report of the last week of the previous quarter and use the data to measure consistence. For Hospitals Use Laboratory booklets (Take totals of all the laboratories in the hospital) Note: To complete this table, scroll left"
+                    }
+                ]
+            }
+        ]
+    }],
+    "programStage": "SAkod4HL99O"
+}

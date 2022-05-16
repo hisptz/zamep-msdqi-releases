@@ -1,0 +1,989 @@
+{
+    "sections": [{
+            "title": "Section A. General Information",
+            "instruction": "",
+            "subSections": [{
+                "title": "IPD CHECKLIST FOR SUPERVISION",
+                "inputRows": [
+                    [{
+                            "id": "",
+                            "label": "Date of Visit"
+                        },
+                        {
+                            "id": "eventDate",
+                            "label": ""
+                        },
+                        {
+                            "id": "",
+                            "label": "Time of start"
+                        },
+                        {
+                            "id": "NL5zAswzWgz",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Type of HF level"
+                        },
+                        {
+                            "id": "ehAyC9CL5IT",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Other, Specified"
+                        },
+                        {
+                            "id": "hpnzB9SHXHO",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Ownership"
+                        },
+                        {
+                            "id": "Cuv6P4FX7kW",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Other; specify"
+                        },
+                        {
+                            "id": "EFvwwow9XnR",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Name of health care provider assessed"
+                        },
+                        {
+                            "id": "OoPuu2K6bpB",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Health Care Provider Cadre"
+                        },
+                        {
+                            "id": "j5HcCaVtxON",
+                            "label": ""
+                        },
+                        {
+                            "id": "",
+                            "label": "",
+                            "subInputs": [{
+                                    "id": "",
+                                    "label": "Mobile"
+                                },
+                                {
+                                    "id": "",
+                                    "label": "Email"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "",
+                            "label": "",
+                            "subInputs": [{
+                                    "id": "UZEABJZa8Mw",
+                                    "label": ""
+                                },
+                                {
+                                    "id": "bFUSAB6R3fJ",
+                                    "label": ""
+                                }
+                            ]
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "label": "Specify other cadre"
+                        },
+                        {
+                            "id": "U7YQ2hQLgYp",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Name of supervisor/assessor"
+                        },
+                        {
+                            "id": "tcW1VUAvzmu",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Title (Qualification)"
+                        },
+                        {
+                            "id": "ysiyEwNWBup",
+                            "label": ""
+                        },
+                        {
+                            "id": "",
+                            "label": "",
+                            "subInputs": [{
+                                    "id": "",
+                                    "label": "Mobile"
+                                },
+                                {
+                                    "id": "",
+                                    "label": "Email"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "",
+                            "label": "",
+                            "subInputs": [{
+                                    "id": "RejCaa378DS",
+                                    "label": ""
+                                },
+                                {
+                                    "id": "Yq2ixMngt0E",
+                                    "label": ""
+                                }
+                            ]
+                        }
+                    ]
+                ],
+                "instruction": ""
+            }]
+        },
+        {
+            "title": "SECTION B. List of Core Indicators and Auxiliary Indicators to be assessed",
+            "inputRows": [
+                [{
+                        "id": "",
+                        "label": "Core QI Indicators",
+                        "isBolded": true
+                    },
+                    {
+                        "id": "",
+                        "label": "Auxiliary Indicators",
+                        "isBolded": true
+                    }
+                ],
+                [{
+                        "id": "",
+                        "label": "C. Facility readiness to provide severe malaria management"
+                    },
+                    {
+                        "id": "",
+                        "label": "",
+                        "subInputs": [{
+                                "id": "",
+                                "label": "C.1 Staffing Training"
+                            },
+                            {
+                                "id": "",
+                                "label": "C.2 Reference Materials"
+                            },
+                            {
+                                "id": "",
+                                "label": "C.3 Materials and Furniture"
+                            },
+                            {
+                                "id": "",
+                                "label": "C.4 Emergency Care Medicines"
+                            }
+                        ]
+                    }
+                ],
+                [{
+                        "id": "",
+                        "label": "D. Severe Malaria Treatment"
+                    },
+                    {
+                        "id": "",
+                        "label": "",
+                        "subInputs": [{
+                            "id": "",
+                            "label": "D.1 Preparation and Administration of Artesunate Injectable"
+                        }]
+                    }
+                ]
+            ],
+            "instruction": ""
+        },
+        {
+            "title": "Section C: IPD Readiness to Provide Severe Malaria Management",
+            "instruction": "",
+            "subSections": [{
+                    "title": "C.1 Staff Training",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Total number of clinical staff (doctors and nurses) working at IPD"
+                            },
+                            {
+                                "id": "DVXldYnKIGe",
+                                "label": "A."
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "How many have been trained on severe Malaria Case Management using Artesunate injection?"
+                            },
+                            {
+                                "id": "IHMQPKLWOlz",
+                                "label": "B."
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "Rt7LrUDN4O5",
+                                "label": "B/A*100"
+                            }
+                        ]
+                    ],
+                    "instruction": "Instruction: Supervisor, enquire about staff who have received training on malaria case management"
+                },
+                {
+                    "title": "C.2 IPD Reference Materials",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": ""
+                            },
+                            {
+                                "id": "",
+                                "label": "Available",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "",
+                                "label": "Accessible",
+                                "isBolded": true
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Current guidelines for malaria diagnosis and treatment"
+                            },
+                            {
+                                "id": "shmWITNFF0H",
+                                "label": ""
+                            },
+                            {
+                                "id": "f98HXJgQNC0",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Artesunate injection job aid"
+                            },
+                            {
+                                "id": "Sz4nIU3z6s4",
+                                "label": ""
+                            },
+                            {
+                                "id": "CvA20JPeCht",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE: C.2 IPD Reference Material Scores",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "MaleWhFjQVx",
+                                "label": "[ ]/8*100"
+                            }
+                        ]
+                    ],
+                    "instruction": "Are the following reference materials for malaria case management available and accessible at this facility? Verify availability, if the material is obtained with minimal effort or put on the table then it is accessible"
+                },
+                {
+                    "title": "C.3 Materials and Furniture",
+                    "inputRows": [
+                        [{
+                            "id": "",
+                            "flex": 4,
+                            "label": "Are the following available in the ward on the day of the visit?",
+                            "isBolded": true
+                        }],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Patient beds with at least 2 bed sheets"
+                            },
+                            {
+                                "id": "k7fJkERu38m",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Each patient beds with mosquito nets"
+                            },
+                            {
+                                "id": "TkDqd2GO1NA",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "At least 1 locker per every 2 beds"
+                            },
+                            {
+                                "id": "utgcWBGoTQ5",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Screen"
+                            },
+                            {
+                                "id": "DcdKz7fyHH2",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Drip Stands"
+                            },
+                            {
+                                "id": "hIvhLyLlRyv",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE: C.3 Materials and Furniture Score",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "v2MaY8VwmtO",
+                                "label": "[ ]/10*100"
+                            }
+                        ]
+                    ],
+                    "instruction": "Instructions: Verify that each of the following materials/furniture are available at the facility. These should be visible at the site"
+                },
+                {
+                    "title": "C.4 Emergency Care Medicines",
+                    "inputRows": [
+                        [{
+                            "id": "",
+                            "flex": 4,
+                            "label": "Are the following available in the ward the day of the visit?",
+                            "isBolded": true
+                        }],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Oxygen and functional delivery apparatus or oxygen concentrator"
+                            },
+                            {
+                                "id": "PpEvtROaRro",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Glucose 5%/10%/25% injection"
+                            },
+                            {
+                                "id": "FLJ4RTJL2oA",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Diazepam injection"
+                            },
+                            {
+                                "id": "Fvt1GZXhj5L",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Ringer lactate IV fluid"
+                            },
+                            {
+                                "id": "S3wBdfJVGtx",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Normal saline IV fluid"
+                            },
+                            {
+                                "id": "EX5V590Xc54",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Artesunate injection"
+                            },
+                            {
+                                "id": "VHVo5znPHqF",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Benzylpenicillin or Ampicillin injection"
+                            },
+                            {
+                                "id": "TlGUM4arBvS",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Adrenaline injection"
+                            },
+                            {
+                                "id": "naHVxbEh79b",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Hydrocortisone injection"
+                            },
+                            {
+                                "id": "jHPEDMvSueR",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "IV/suppository paracetamol"
+                            },
+                            {
+                                "id": "Jf0F5SCTfqt",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Ceftriaxone/Gentamycin"
+                            },
+                            {
+                                "id": "VQdM7tb2iTS",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE: C.4 Emergence Care Medicines Score",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "lZplMvmG8zF",
+                                "label": "[ ]/11*100"
+                            }
+                        ]
+                    ],
+                    "instruction": "Instructions: Verify that each of the following emergency care medicines are available at the facility."
+                },
+                {
+                    "title": "C.5 Essential Equipment and Supplies",
+                    "inputRows": [
+                        [{
+                            "id": "",
+                            "flex": 4,
+                            "label": "Are the following available in the ward the day of the visit?",
+                            "isBolded": true
+                        }],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Ambu bag or mask of different sizes"
+                            },
+                            {
+                                "id": "bV2fyxfEr6D",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Catheters"
+                            },
+                            {
+                                "id": "faUY6ylQBrI",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Suction machines or suction tubes of different sizes"
+                            },
+                            {
+                                "id": "rAWq5vyYbNv",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Nasogastric tubes (paediatric and adult)"
+                            },
+                            {
+                                "id": "YD2VDdr8EYz",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Needles or syringes (paediatric and adult)"
+                            },
+                            {
+                                "id": "OxiRKCM2xQv",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Cannulas (paediatric and adult)"
+                            },
+                            {
+                                "id": "bfNC7G4F9E2",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Thermometer"
+                            },
+                            {
+                                "id": "WC2UZe0VHQn",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Glucometer and sticks"
+                            },
+                            {
+                                "id": "Bb17ySai1Fc",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Tourniquet"
+                            },
+                            {
+                                "id": "tAWYo02n474",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Surgical gloves"
+                            },
+                            {
+                                "id": "gveLv3DBFDW",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE: C.5 Essential Equipment and Supplies",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "okP2GftSjOU",
+                                "label": "[ ]/10*100"
+                            }
+                        ]
+                    ],
+                    "instruction": "Instructions: Verify that each of the following essential equipment's/supplies are available at the facility."
+                },
+                {
+                    "title": "C.6 IPD Data Collection Tools",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Data Collection Tool",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "",
+                                "label": "Available",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "",
+                                "label": "Standard Format",
+                                "isBolded": true
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Inpatient Register"
+                            },
+                            {
+                                "id": "WQ9Z5N44aU1",
+                                "label": ""
+                            },
+                            {
+                                "id": "U6Zp41dnWPr",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "IPD Report form"
+                            },
+                            {
+                                "id": "eo13RIIPc2Z",
+                                "label": ""
+                            },
+                            {
+                                "id": "h2KNyKqwl6b",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE: C.6 IPD Data Collection HMIS Tools score",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "yOcVHuNxJi2",
+                                "label": "[ ]/8*100"
+                            }
+                        ]
+                    ],
+                    "instruction": "Does the facility have the followings data collection tools for malaria?"
+                },
+                {
+                    "title": "",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Section C:IPD Readiness Score",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "Ji78NQMd5PB",
+                                "label": "[C1-C6]/6"
+                            }
+                        ]
+                    ],
+                    "instruction": ""
+                }
+            ]
+        },
+        {
+            "title": "Section D. Severe Malaria Treatment",
+            "instruction": "",
+            "subSections": [{
+                "title": "D.1 Preparation & Administration of Injectable Artesunate for Severe Malaria ",
+                "inputRows": [
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": ""
+                        },
+                        {
+                            "id": "",
+                            "label": "Observation 1",
+                            "isBolded": true
+                        },
+                        {
+                            "id": "",
+                            "label": "Observation 2",
+                            "isBolded": true
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Was this observation completed on"
+                        },
+                        {
+                            "id": "jKulUyDYSHB",
+                            "label": ""
+                        },
+                        {
+                            "id": "f9MGHmWocVu",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 1: Gets the contents correctly out of the package (check for the availability of the following three items: sodium bicarbonate ampoule, Artesunate vials and 5% Dextrose/0.9 saline ampoule)"
+                        },
+                        {
+                            "id": "ZolrTxBwwLG",
+                            "label": ""
+                        },
+                        {
+                            "id": "pEAPzG2lTZV",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 2: Draws 1ml of sodium bicarbonate into the syringe"
+                        },
+                        {
+                            "id": "SwpT4cpNEcR",
+                            "label": ""
+                        },
+                        {
+                            "id": "VwuV2p1nIi9",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 3: Adds 1ml of sodium bicarbonate into Artesunate vials (60mg)"
+                        },
+                        {
+                            "id": "eLaXsYjJWig",
+                            "label": ""
+                        },
+                        {
+                            "id": "tKnHhFHj8by",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 4: Shakes for 2-3 minutes"
+                        },
+                        {
+                            "id": "LErhpwg5Pmi",
+                            "label": ""
+                        },
+                        {
+                            "id": "U9sekX24cUP",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 5: Waits until completely dissolve and a solution is clear"
+                        },
+                        {
+                            "id": "gb5ugdTKbRI",
+                            "label": ""
+                        },
+                        {
+                            "id": "frKh5SpfRAL",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 6: Draws into syringe 5% Dextrose/0.9 saline (2ml for IM; 5ml for IV)"
+                        },
+                        {
+                            "id": "xymuUYzkx6r",
+                            "label": ""
+                        },
+                        {
+                            "id": "y3GviQyV77W",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 7: Adds the contents into Artesunate vial"
+                        },
+                        {
+                            "id": "sojbPtfYTa0",
+                            "label": ""
+                        },
+                        {
+                            "id": "KC06kFYbdGh",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 8: Shakes for 30 seconds"
+                        },
+                        {
+                            "id": "An32vPnElDc",
+                            "label": ""
+                        },
+                        {
+                            "id": "mj5j514JIja",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 9: Determines the dose (round up to the nearest ml)"
+                        },
+                        {
+                            "id": "T88jTYN6LlD",
+                            "label": ""
+                        },
+                        {
+                            "id": "Rla5R9OiAdk",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 10: Draws the required dose into the syringe"
+                        },
+                        {
+                            "id": "RAJW7KGM18O",
+                            "label": ""
+                        },
+                        {
+                            "id": "npjw8FdWMK6",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 11: Discarded al the syringes and needles into safety box immediately after use"
+                        },
+                        {
+                            "id": "t93cEDhJm45",
+                            "label": ""
+                        },
+                        {
+                            "id": "rT5WcjPU6R9",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Absence of any diluted Artesunate not used within one hour from reconstitution in the injection area"
+                        },
+                        {
+                            "id": "DB5j5nErw20",
+                            "label": ""
+                        },
+                        {
+                            "id": "YNoGB9D5sQA",
+                            "label": ""
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Artesunate Administration Observation sub-score",
+                            "isBolded": true
+                        },
+                        {
+                            "id": "d6NgzCbfb44",
+                            "label": "[ ]/10*100"
+                        },
+                        {
+                            "id": "OQi1yUXBbfu",
+                            "label": "[ ]/10*100"
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "SUB-SCORE: D.1 Artesunate Administration",
+                            "isBolded": true
+                        },
+                        {
+                            "id": "jmrg0VTlALb",
+                            "label": "[ ]/20"
+                        }
+                    ]
+                ],
+                "instruction": "Instructions: Observe a staff person who regularly treats severe malaria patients while they prepare and administer injectable Artesunate - either through demonstration or observation of actual patient interaction. Do not interrupt unless the patient is critically ill and needs immediate intervention/attention or if the practice of the clinician will put the patient in danger. If you are not able to observe, please fill out the reason at the end of this observation and complete the knowledge section below. If there is no client with severe malaria during a facility visit, simulation should be done.                "
+            }]
+        },
+        {
+            "title": "",
+            "inputRows": [
+                [{
+                        "id": "",
+                        "flex": 3,
+                        "label": "End Time"
+                    },
+                    {
+                        "id": "fxr66P7d4AL",
+                        "label": ""
+                    }
+                ]
+            ],
+            "instruction": ""
+        }
+    ],
+    "programStage": "Dtb7qyKaMLX"
+}

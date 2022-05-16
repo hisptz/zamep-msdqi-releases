@@ -1,0 +1,3689 @@
+{
+    "sections": [{
+            "title": "Section A. General Information",
+            "instruction": "",
+            "subSections": [{
+                "title": "",
+                "inputRows": [
+                    [{
+                            "id": "",
+                            "flex": 1,
+                            "label": "Date of Visit"
+                        },
+                        {
+                            "id": "eventDate",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "Time of Start"
+                        },
+                        {
+                            "id": "NL5zAswzWgz",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Type of HF level",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "ehAyC9CL5IT",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Other, Specified",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "hpnzB9SHXHO",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Ownership",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "Cuv6P4FX7kW",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Other;specify",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "EFvwwow9XnR",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Name of health care provider assessed",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "OoPuu2K6bpB",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 1,
+                            "label": "Health Care Provider Cadre",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "JsAveUjpAev",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": [{
+                                    "id": "",
+                                    "label": "Mobile",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "label": "Email",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": [{
+                                    "id": "UZEABJZa8Mw",
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "bFUSAB6R3fJ",
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 1,
+                            "label": "Specify other cadre",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "U7YQ2hQLgYp",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 2,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Name of supervisor/assessor",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "tcW1VUAvzmu",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 1,
+                            "label": "Title (Qualification)",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "ysiyEwNWBup",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": [{
+                                    "id": "",
+                                    "label": "Mobile",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "label": "Email",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": [{
+                                    "id": "RejCaa378DS",
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "Yq2ixMngt0E",
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        }
+                    ]
+                ],
+                "instruction": ""
+            }]
+        },
+        {
+            "title": "SECTION B. List of Core Indicators and Auxiliary Indicators to be assessed",
+            "inputRows": [
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "Core Indicators",
+                        "isBolded": true,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 4,
+                        "label": "Auxiliary Indicators",
+                        "isBolded": true,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "C. Facility Readiness to Provide Dispensing Services",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 4,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [{
+                                "id": "",
+                                "label": "C.1 Staffing Levels",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "label": "C.2 Staff Training",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "label": "C.3  Reference Materials",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "label": "C.4  Logistic Health Management Information System Tools Availability",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "label": "C.5  Essential Equipment-Store Room",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "label": "C.6  Essential Equipment-Injection Room",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "label": "C.7  Essential Equipment – Dispensing Site/Area",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "D. Health Care Worker Observation",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 4,
+                        "label": "D.  Dispensing Observations",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "E.  Stock Status (Anti-malarial and supportive medicines for malaria)",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 4,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [{
+                                "id": "",
+                                "label": "E.1  Stock Status for 1st Line ACTs, Primaquine & mRDT",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "label": "E.2  Stock Status for Artesunate Injection and supportive commodities/medicines",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "label": "E.3  Stock Status for 2nd Line Artemether Lumefantrine",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "F. Commodity Levels",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 4,
+                        "label": "F.1 Stock Outs and Expiry of Malaria Commodities",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "G. Logistics DQA",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 4,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [{
+                                "id": "",
+                                "label": "G.1  Logistics-DQA  Readiness",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "label": "G.2 Logistic Register Review and Verification",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "instruction": "",
+            "subSections": []
+        },
+        {
+            "title": "SECTION C: Facility Readiness to Provide Dispensing Services",
+            "inputRows": [],
+            "instruction": "",
+            "subSections": [{
+                    "title": "C.1 Staffing Level",
+                    "inputRows": [
+                        [{
+                            "id": "",
+                            "flex": 4,
+                            "label": "Are the following staff available at a facility on the day of the visit?",
+                            "isBolded": true,
+                            "subInputs": []
+                        }],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "1. Is this facility a",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "niR7exZ80wq",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": true,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "2. If yes is there clinician for dispensing medication",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "QlvilvXEp0v",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "3. If yes is there at least one Pharmaceutical Technician",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "fP17wELfPbv",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "4. If yes is there at least one Pharmacist",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "hdCgV3v3oqG",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "SUB-SCORE: C.1 Staffing Level Score ",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "k6Ko9J8zKGa",
+                                "flex": 2,
+                                "label": "[   ]/4",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": "Determine the number of staff members present at the facility on the day of the visit depending on the level"
+                },
+                {
+                    "title": "C.2 Staff Training",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Number of staff working at the dispensing/pharmacy",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "SaQKKjz9Vqq",
+                                "flex": 1,
+                                "label": "A.",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Number of staff working at the dispensing/pharmacy who have received training on electronic Logistics Management System (eLMIS)",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "nu4ueTwYa9T",
+                                "flex": 1,
+                                "label": "B.",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE: C.2 Proportion of staff trained on electronic Logistics Management System (eLMIS)",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "eHLu7SiMdoN",
+                                "flex": 1,
+                                "label": "B/A",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": "Supervisor, enquire about staff who have received eLMIS training"
+                },
+                {
+                    "title": "C.3 Reference Materials",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Available",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Accessible",
+                                "isBolded": true,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Are the Job aid/manual on the treatment of malaria using ACT+ Primaquine available?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "UwjrShXRo40",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "o2Ngc1RrNCa",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Is the current Zanzibar Guideline for Malaria Diagnosis and Treatment available?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Wei36DuoFOW",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "FwYHozc5UGS",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Is the malaria Case Management job aid/manual on Artesunate injection reconstitution available?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "IzAAjbXlBFd",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "KMxE6O0Fpxt",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE: C.3 Reference Material Scores",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "mXWYjZLL9GW",
+                                "flex": 1,
+                                "label": "[  ]/6",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": "Are the following reference materials for malaria case management available and accessible at this facility? Verify availability, if the material is obtained with minimal effort or put on the table then it is accessible"
+                },
+                {
+                    "title": "C.4  Logistic Health Management Information System Tools Availability",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Available",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "Standard Format (A manual or electronic data collection tool provided by MoH)",
+                                "isBolded": true,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Store Ledger book",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "iQZZ3jxikhm",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "zOVvCsnthnu",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Sales invoice",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "pKmVtKi7KBw",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "R and R forms",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "pHUfrh9jhIX",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "AKC7DjFfvv4",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Requisition and issue vouchers (Applicable at Hospital level only)",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "uBbovaE9Slo",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "MUfnSHT5zvN",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Suspensory ledger/unserviceable",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "CojqAUMrQr7",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "nCZkeaovgzk",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Daily dispensing register (DD)",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "sH3t851zjqo",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "t74rS6yfGqM",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Dispensing tally sheet",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "VhoNnc4Wn7y",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Bi9dxg0HyrV",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Dispensing monthly summary",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "vK9eroBPXim",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "vGsdQUiEMc0",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE: C.4: Logistic Health Management Information System Tools Availability",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "f4fEGNSz2Y7",
+                                "flex": 2,
+                                "label": "[   ]/30",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": "Check the following information system tools"
+                },
+                {
+                    "title": "C.5 Essential Equipment-Store Room",
+                    "inputRows": [
+                        [{
+                            "id": "",
+                            "label": "Are the following available in the store room on the day of the visit?",
+                            "isBolded": true,
+                            "subInputs": []
+                        }],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Fan/AC/Open window",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "mp4zK8bNKzj",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Premise neat and clean",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "itDNO8EN4pN",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Lock and key for the store?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "UzSI5LMAkIo",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Shelves for supplies and commodities storage",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Htth0vOywt7",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "If available, are they enough?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "fjVYAJ4dHAr",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Pallets or equivalent to keep boxes above floor level",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "xkP5gBV8iqk",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "If available, are they enough?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "kYqIPXtZMmt",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Commodity arrangement in FEFO?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "BlmummBVuRb",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Expired/unserviceable stock separated from facility usable stock",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "izYbpeobljJ",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Commodity stored away from direct sunlight",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "JEJrNTaF0UD",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Spacious",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "kCpFxrg2Zfp",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Wall thermometer",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "IkYmSxCztWu",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE: C.5 Essential Equipment -Store Room",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "VXhPFskKW1x",
+                                "flex": 2,
+                                "label": "[   ]/24",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": "Verify that each of the following essential equipment’s/supplies is available at the facility"
+                },
+                {
+                    "title": "C.6 Essential Equipment-Injection Room",
+                    "inputRows": [
+                        [{
+                            "id": "",
+                            "label": "Are the following available in the injection room on the day of the visit?",
+                            "isBolded": true,
+                            "subInputs": []
+                        }],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Patient bed",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "M7yUO1ZxHrX",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Safety box",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "c7Iavm3afuo",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Injection register",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "PHlFXhUS6q4",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Emergency Tray",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "HEk4g9VSyRG",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Disposable syringes stock of 10- 50 pieces",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "HCiCmYs5I8U",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Swabs",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "RUqcNplwTSL",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE: C.6 Essential Equipment -Injection Room",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "bvg9IyaczYj",
+                                "flex": 2,
+                                "label": "[   ]/12",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": "Verify that each of the following essential equipment’s/supplies are available at injection room."
+                },
+                {
+                    "title": "C.7 Essential Equipment-Dispensing Site/Area",
+                    "inputRows": [
+                        [{
+                            "id": "",
+                            "label": "Are the following available in the dispensing site/area on the day of the visit?",
+                            "isBolded": true,
+                            "subInputs": []
+                        }],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Shelves",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Piy67my09Lz",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Table and chair",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "SUbYSkJrUmN",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Dispensing window",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "NjkZnCY5N4x",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Dispensing bags",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "QAmczGEXRJn",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Spoon (for medicine counting)",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "zfv2RnEx1U5",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE: C.7 Essential Equipment -Dispensing Site/Area",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "UjQaj7e6Tu6",
+                                "flex": 2,
+                                "label": "[   ]/10",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": "Verify that each of the following essential equipment’s/supplies is available at the facility."
+                },
+                {
+                    "title": "C.8 General mRDT Storage Conditions",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "mRDT kits are protected from direct sunlight",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "PzLunrXFNGe",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "mRDT kits are protected from humidity, rain or water",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "tuxIvNgPopp",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Are there  no mRDTs kits/device expired",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ijd3Q1ENHIa",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "mRDTs used on first expired first out basis",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "MoMgqABoANe",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Is store ledger available for mRDT",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "DpbmW7kfLIN",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Is mRDT information up to date",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "jjNzH0sSqCd",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "There is a  two way thermometer at the mRDT storage site",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "qTovaOsFsgB",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE: C.8 General mRDT storage conditions scores",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "xXIS7DtTiCn",
+                                "flex": 2,
+                                "label": "[ ]/7 ",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Section C: Logistics Readiness Score",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "tpmoV0z1xR4",
+                                "flex": 2,
+                                "label": "[C1-C8]/8",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": ""
+                }
+            ]
+        },
+        {
+            "title": "Section D. Dispensing Observations",
+            "inputRows": [
+                [{
+                    "id": "",
+                    "label": "Did the health provider do the following?",
+                    "isBolded": true,
+                    "subInputs": []
+                }],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 2,
+                        "label": "Observation 1",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 2,
+                        "label": "Observation 2",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "Was this observation completed on",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "jKulUyDYSHB",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "f9MGHmWocVu",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "Read off the prescription?",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "QvVFC7Dxc4D",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "wLb5oCNHEse",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "Issue correct medicine(s)?",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "z4FVSu6tqR6",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "klQDUhpswkC",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "Correctly label the dispensing envelope(s)?",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "Qo4KxRacN7a",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "CASrPoEIZSF",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "Record the medicine in the daily dispensing register?",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "ShAqTxBbFlv",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "DDY18kPb23q",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "Correctly instruct the patient on medicine use?",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "QPCDvNpP5s2",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "WZ464c3yF5w",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "Ask the patient to repeat instructions on medicine use?",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "DHNU4sSGeNi",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "WZ464c3yF5w",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "Explain to the patient any other instructions given by the clinician?",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "dt8QKznc4IQ",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "jnFDkM5KzEo",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "Dispensing Observations Scores",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "RQ8KFhkarpC",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "hLvetYSHcKb",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "SUB-SCORE: D Overall Dispensing Observations",
+                        "isBolded": true,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "ndPsoczGgLg",
+                        "flex": 2,
+                        "label": "[ ]/28",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ]
+            ],
+            "instruction": " Observe the dispenser while dispensing medicines to patients with fever. If a facility has more than one dispenser observations should be made to different dispensers, if there is only one dispenser then all observations should be done on that dispenser. Do not interrupt unless the patient is severely ill or if the practice of the dispenser would put the patient in danger. If a patient is severely ill then the supervisor should help refer the patient to relevant clinicians for care.",
+            "subSections": []
+        },
+        {
+            "title": "Section E. Stock status (Anti-malarial and supportive medicines for malaria)",
+            "inputRows": [],
+            "instruction": "",
+            "subSections": [{
+                    "title": "E.1  Stock Status for 1st Line ACTs, Primaquine & mRDT",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Verify availability of 1st Line ACTs",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "Available on the day of the visit?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "Was there no stock out in the last 3 months?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 3,
+                                "label": "If there was stock out, write total stock out days in the last three months",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Artesunate/Amodiaquine 25mg/67.5 mg, 3 tabs",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "JBB8mjE1OEw",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "DaXZo4Ha2Kz",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "mvY42gUbvzR",
+                                "flex": 3,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Artesunate/Amodiaquine 50 mg/ 135 mg, 3 tabs",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "dpZ81FdPgFI",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "TeCT5qQPp7P",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "uKrkgivwG7v",
+                                "flex": 3,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Artesunate/Amodiaquine 100 mg/ 270 mg, 3 tabs",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "v69of3IZrJR",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "TZoHgIRkUKx",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "tEkoZFURiPS",
+                                "flex": 3,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Artesunate/Amodiaquine 100 mg/ 270 mg, 6 tabs",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "CVihp4ixNZX",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "XkFnmtSuaX9",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "htKARGFh1I1",
+                                "flex": 3,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Primaquine phosphate 7.5 mg",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "botxKOtxIWx",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "CrB4PghAB3w",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "yoTBTVK06iV",
+                                "flex": 3,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Primaquine phosphate 15 mg",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "rTxOyUBKwrR",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "tpNMgvaZK1x",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "tpNMgvaZK1x",
+                                "flex": 3,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "mRDT",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "iRqM4pZkC6m",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "iPzt5QBk5rk",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "dZGdnoGiu0N",
+                                "flex": 3,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Stock Status Antimalarial Score per event",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "iOcMEbBCo4F",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "G12CqcWFnlB",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 3,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 6,
+                                "label": "SUB-SCORE: E.1 Stock Status Antimalarial Score",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "dw9KqX7RZaF",
+                                "flex": 3,
+                                "label": "[ ]/14",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": ""
+                },
+                {
+                    "title": "E.2 Stock status for Artesunate Injection and supportive commodities/medicines",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Verify availability of 2nd Line ACTs, injectable and other supportive medicines for severe malaria",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Available on the day of the visit?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Was there no stock out in the last 3 months?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "If there was stock out, write total stock out days in the last three months",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Artesunate Injection",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ciZBumYvqhy",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "D6ikAQNjPEh",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "RZofTLqkUoT",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Artemether Injection",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "XXFtlQ6ynK4",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "JZuQ2NVKj4X",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "RWqdRnbInry",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Antipyretics (Paracetamol)",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ebOJxHdHTk6",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "wvk1UxAwClQ",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "wPD0GcR0qLT",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Dextrose 5%, 10% and 50%",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "w3wxZVHa1LL",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "N6EPhGPiJSR",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "zmbFOU92F62",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Normal saline",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "SmrROqbjR6P",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "P4YQpy4OsFf",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "wNw2dj0gXV1",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Diazepam injection",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "eLWGzwEmJls",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "jreuDOJ69aU",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "O6EIQBt6DE0",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Other anticonvulsants",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "D0J5ymEMuLK",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "tIWe3NHNTOb",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "waSQhiDJ810",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Stock Status Artesunate Injection Score per event",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "JG1x0dAxRLJ",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ZIUXqZ6nDue",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "SUB-SCORE: E.2  Stock Status Artesunate Injection Score",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "grFy2phOgjH",
+                                "flex": 2,
+                                "label": "[ ]/16",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": ""
+                },
+                {
+                    "title": "E.3 Stock status for 2nd Line Artemether Lumefantrine",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Verify availability of 2nd Line ACTs, injectable and other supportive medicines for severe malaria",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Available on the day of the visit?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Was there no stock out in the last 3 months?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "If there was stock out, write total stock out days in the last three months",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Artemether Lumefantrine (ALU)- 6x1",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "VNoeA6f009H",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "llGG9yBxPcg",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "BEKnqyOZRKu",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Artemether Lumefantrine (ALU)- 6x2",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "tmTMgNct959",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "X3cQ4CnMIhV",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "HylcAENr2WV",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Artemether Lumefantrine (ALU) - 6x3",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ie3ivlOgkUi",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "XBKXYbpNKwL",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "qKCyAUfrLHZ",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Artemether Lumefantrine (ALU) - 6x4",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Hdh6OHndnyY",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Hj7M1Tz7WYd",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "vRB49uGvCIq",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Stock Status Artemether Lumefantrine Score per event",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "NiOPaXVfi1a",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "mZj2ZwZGtRv",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "SUB-SCORE: E.3  Stock Status for 2nd Line AL Score ",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "zYbaJJVxj0u",
+                                "flex": 2,
+                                "label": "[ ]/8",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "SCORE: Section E.  Stock Out Level Score",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "IbAeWNGFvME",
+                                "flex": 2,
+                                "label": "[E1-E3]/3",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": ""
+                }
+            ]
+        },
+        {
+            "title": "Section F. Stock outs and expiry of malaria commodities",
+            "inputRows": [
+                [{
+                        "id": "",
+                        "flex": 5,
+                        "label": "Qtr: write months of the quarter reviewed ",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "QiclgpIZJrF",
+                        "flex": 2,
+                        "label": "Start month",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "rK4djE3Dg5n",
+                        "flex": 3,
+                        "label": "End month",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 3,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 4,
+                        "label": "Stock Status",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 3,
+                        "label": "Expiry Status",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 3,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 4,
+                        "label": "Store Ledger",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 3,
+                        "label": "Was the quantity of commodities that were expiring within three months greater than the quantity of consumable stocks?",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "Product",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 1,
+                        "label": "Unit of measure",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 2,
+                        "label": "Was there a stock out of the item for 7 days or more in the last 3 months?",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 2,
+                        "label": "Was there a stock out of the item on the day of the visit?",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 3,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "Artesunate Amodiaquine (ASU/AQ) 100/ 270 mg -3Tabs",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 1,
+                        "label": "Pack",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "M6SNokNWqc0",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "ADB3yrbAqKB",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "j43aGnqAn6X",
+                        "flex": 3,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "Artesunate Amodiaquine (ASU/AQ) 100/ 270 mg -6Tabs",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 1,
+                        "label": "Pack",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "pFT1pZReiGC",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "DdepsXtMAQ1",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "pGfauwBDh7b",
+                        "flex": 3,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "mRDT",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 1,
+                        "label": "Cassette",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "kqhOwOWZtIJ",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "yKdj3IcMfPG",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "snMYXCIe2oZ",
+                        "flex": 3,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "Primaquine",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 1,
+                        "label": "Tab",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "aDN9Cod5wen",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "uWxAKCsNrz5",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "ESDbGotqNKx",
+                        "flex": 3,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "Artesunate injection.",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 1,
+                        "label": "Vial",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "GRTt8IjiPe8",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "NolFEMbLLQC",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "vN1Kq6hEPuy",
+                        "flex": 3,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "LLIN",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 1,
+                        "label": "pc",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "Av2V357QbIR",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "lwI2zUsBokw",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "ydMzvm08eYP",
+                        "flex": 3,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 3,
+                        "label": "F.1 No stock-outs of malaria commodities",
+                        "isBolded": true,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "HI2zr77HH7x",
+                        "flex": 2,
+                        "label": "[ ]/6",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "gbabjqQNKO0",
+                        "flex": 2,
+                        "label": "[ ]/6",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 3,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 7,
+                        "label": "F.2 No expired commodities",
+                        "isBolded": true,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "QRqKzbEwY06",
+                        "flex": 3,
+                        "label": "[ ]/6",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 7,
+                        "label": "SUB-SCORES (Averages)  Commodities",
+                        "isBolded": true,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "H631KimKXiO",
+                        "flex": 3,
+                        "label": "[ ]/12",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ]
+            ],
+            "instruction": "If no stock out or expired commodities, check the box “no” (assigned score of 1)."
+        },
+        {
+            "title": "SECTION G. Logistics DQA",
+            "inputRows": [],
+            "instruction": "",
+            "subSections": [{
+                    "title": "G.1 Logistics DQA Readiness",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "Is there a staff assigned for recording monthly/quarterly summary forms for eLMIS?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "V9EbPJSuQFP",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "Is there a staff designated for reviewing filled R&R prior to submission to the council level?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "FXsHEI4PpGK",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "Has the relevant staff received training on electronic Logistic Management Information System(eLMIS)?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "WRQhYLJaXoq",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "Does the facility has written guidelines (Zanzibar Integrated Logistics System -ZILS guideline) to the service delivery point on reporting requirements and deadlines?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "CReCkWphXLZ",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "Do the Medicine and Therapeutic committee of the facility use Logistic data for Planning and decision making? (Applicable for Cottage and Referral hospitals)",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "yHVmzDJeEty",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "SCORE: SECTION: G.1 Logistics - DQA Readiness",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "v9e7d1OxqAR",
+                                "flex": 2,
+                                "label": "[ ]/10",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": "Interviews the person or person(s) involved in Logistics data entry and management at the facility to complete this section."
+                },
+                {
+                    "title": "G.2 Ledger Documentation and Consistency Check",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 4,
+                                "label": "Store Ledger",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "Invoice",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "Store",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "Ledger Documentation",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 4,
+                                "label": "Consistency Check",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Product",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Unit of measure",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "Received in a ledger (last 3 months cycle)",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "Ledger balance on the day of the visit",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "Quantity received last three months cycle in sales Invoice from CMS",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "Physical count on the day of visit at the store",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "Is the documented in the correct unit in the ledger",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "Check #1: Received items (MSD-sales ledger/invoice)",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "Check #2: SOH (Physical count/ledger)",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "Physical count of the commodities that will expire within three months",
+                                "isBolded": true,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "A",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "B",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "C",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "D",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "IS A=C",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "IS B=D",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "H",
+                                "isBolded": true,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Artesunate Amodiaquine (ASU/AQ) 100/270mg",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Pack of 3tab",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "cHVv6ZDFG9k",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "yYl9MpSKIX4",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "qj1JWkdYR36",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "dzDJwq73Ofj",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "zNZn5GdVNro",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "fudbrvUjP7A",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "CJaYMZ5pjBg",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "FDttnTcqhr0",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Artesunate Amodiaquine (ASU/AQ) 100/270mg",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Pack of 6Tab",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "chSOYLChrBa",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "wjLtbyAY2MA",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "eERLEoadGbX",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "FaMUZ3xZ3An",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "K789xCW0Kfp",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "uEWfOqqdOZX",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "G3oC04BAIWs",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "qdnfi36XvTN",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Artesunate Injection",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Vial",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "CjmAf68A5dA",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "T8kbe39J1WN",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "IPpCKHO9PJy",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "LI9XQxSOueS",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "klM6i7fpuUd",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ay2DFB4HzyA",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "LpU8CIzqPP9",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "kX8j3706t6M",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Primaquine",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Tabs",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "x7Pvj4pWdgN",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "MYFjXjzfTVv",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "vooHvoJLUQZ",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ki7PkY6vOC3",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "nZsDHXNpXwb",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "zESUnvOBqJf",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "iuVsMA48QiX",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "WVCVjNuFGSv",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "mRDT",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Cassette",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "s9KqlxxAL0v",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "uDX0i5jSQu6",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "t2kRRhLlfTO",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "mswKkzg8XJ9",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "nEbsjOlEfoW",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ptptO61gZG8",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "QDtBe0YqfHT",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "bDfodVWKn5z",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "LLINs",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "pc",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "sUPVf4SxDsU",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "mZzXZrcFI2d",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Ks6NXO07aSu",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "x58dCsijJko",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Pq1BooeL6fp",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "zsppYbBSHyT",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "cZsvblBqvrH",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "KZoRHumIVLl",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 11,
+                                "label": "Sub score G.2 Ledger documentation and Consistency Check Score",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Nv7GvuCWLjN",
+                                "flex": 2,
+                                "label": "[__]/6% = ",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "xRWlhvrduew",
+                                "flex": 2,
+                                "label": "[__]/6% = ",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "JbkYyLNf85o",
+                                "flex": 2,
+                                "label": "[__]/6% = ",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 7,
+                                "label": "SCORE: Section G.   Logistics DQA Score  ",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "mizgrAoOp90",
+                                "flex": 10,
+                                "label": "[ G1-G2]/2",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 9,
+                                "label": "End Time",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "fxr66P7d4AL",
+                                "flex": 10,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": "Review the information system record from the last quarter and enter the number of products in the below table.: Write months of the review period    Note: To complete this table scroll left"
+                }
+            ]
+        }
+    ],
+    "programStage": "q7y5QTXv6NG"
+}

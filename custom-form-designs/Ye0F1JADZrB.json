@@ -1,0 +1,2521 @@
+{
+    "sections": [{
+            "title": "Section A. General Information",
+            "instruction": "",
+            "subSections": [{
+                "title": "mRDT CHECKLIST FOR SUPERVISION",
+                "inputRows": [
+                    [{
+                            "id": "",
+                            "flex": 1,
+                            "label": "Date of Visit"
+                        },
+                        {
+                            "id": "eventDate",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "Time of Start"
+                        },
+                        {
+                            "id": "NL5zAswzWgz",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Type of HF level",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "ehAyC9CL5IT",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Other, Specified",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "hpnzB9SHXHO",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Ownership",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "Cuv6P4FX7kW",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Other;specify",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "EFvwwow9XnR",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Name of health care provider assessed",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "OoPuu2K6bpB",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 1,
+                            "label": "Health Care Provider Cadre",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "JsAveUjpAev",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": [{
+                                    "id": "",
+                                    "label": "Mobile",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "label": "Email",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": [{
+                                    "id": "UZEABJZa8Mw",
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "bFUSAB6R3fJ",
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 1,
+                            "label": "Specify other cadre",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "U7YQ2hQLgYp",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 2,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Name of supervisor/assessor",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "tcW1VUAvzmu",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 1,
+                            "label": "Title (Qualification)",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "ysiyEwNWBup",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": [{
+                                    "id": "",
+                                    "label": "Mobile",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "label": "Email",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": [{
+                                    "id": "RejCaa378DS",
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "Yq2ixMngt0E",
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ]
+                        }
+                    ]
+                ],
+                "instruction": ""
+            }]
+        },
+        {
+            "title": "SECTION B. List of Core Indicators and Auxiliary Indicators to be assessed",
+            "inputRows": [
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "C. Health Facility mRDT Readiness",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 2,
+                        "label": "C.1 Staffing Levels",
+                        "isBolded": false,
+                        "subInputs": [{
+                                "id": "",
+                                "label": "C.2 Staff Training",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "label": "C.3 Testing Site Availability",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "C.4 mRDT Availability At The Testing Site",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "C.5 Availability of reference materials and equipment",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "C.6 mRDT Data Collection Tools",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "C.7 General mRDT Storage Conditions",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "D mRDT Competence",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 2,
+                        "label": "D. mRDT Observations",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 2,
+                        "label": "F. mRDT QC System",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [{
+                                "id": "",
+                                "label": "F.1 mRDT Retaining System",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "label": "F.2 Verified Devices According to SOPs",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "instruction": ""
+        },
+        {
+            "title": "Section C: Health Facility mRDT Readiness",
+            "inputRows": [],
+            "instruction": "",
+            "subSections": [{
+                    "title": "C.1 Staffing Levels",
+                    "inputRows": [
+                        [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Number of health workers working in the health facility",
+                            "isBolded": false,
+                            "subInputs": []
+                        }],
+                        [{
+                            "id": "IQqMQrrzMSG",
+                            "flex": 2,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }]
+                    ],
+                    "instruction": ""
+                },
+                {
+                    "title": "C.2 Staff Training",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Number of health workers  performing mRDT",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "UFOJ0SssYoD",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Number of health workers trained on mRDT",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ugzeOylX87E",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "SUB-SCORE:C 2 Staff Training",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [{
+                                    "id": "ABav53FQEet",
+                                    "label": "(B/A)*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }]
+                            }
+                        ]
+                    ],
+                    "instruction": ""
+                },
+                {
+                    "title": "C.3 Testing Site Availability",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "OPD",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ZmP2fyDesB0",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "ANC",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "eXqg8DSFv6B",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Laboratory",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "rkUQbvjDv3S",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "SUB-SCORE:C 3. Testing Site Availability",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [{
+                                    "id": "DAYHjahImpm",
+                                    "label": "[ ]/3*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }]
+                            }
+                        ]
+                    ],
+                    "instruction": ""
+                },
+                {
+                    "title": "C.4 mRDT Availability at Testing Site",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "OPD",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "JXWT1BQzmZY",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "ANC",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "TXBk0tvkwPc",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Laboratory",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "USjDHNCemg0",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "SUB-SCORE:C 4 mRDT Availability at the Testing Site",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [{
+                                    "id": "S1ttcPAKGsg",
+                                    "label": "[ ]/3*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }]
+                            }
+                        ]
+                    ],
+                    "instruction": "Are mRDTs available at the following test sites?"
+                },
+                {
+                    "title": "C.5 Availability of Reference Materials and Equipments",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Test Site",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "OPD",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "ANC",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Laboratory",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Doe this facility have this site?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "UqFFhJNrdwm",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "hC33W36yk3X",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "b9iooXCvWec",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Are training protocols for mRDT available at this facility?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "KlIpVrSOlI1",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "qF3v8paBUER",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "v6kBVBcexob",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Are job aids of mRDT available at this facility?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "N13IWIhY8gv",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "wk1Sj4594XP",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "yL8PiRnFxk6",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Timer/clock",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "zH1aAReFHft",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "tWobIFNCOmI",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "rv9vZg9sQm2",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Safety box",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "clXEhOLQMuO",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ov29YJYfKmY",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "BxJqooBBVro",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Reference material sub-score",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [{
+                                    "id": "ekoQemR9GgT",
+                                    "label": "[__]/4*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }]
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [{
+                                    "id": "cR9uiv8s4DB",
+                                    "label": "[__]/4*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }]
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [{
+                                    "id": "pDkCre9by8K",
+                                    "label": "[__]/4*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }]
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE:C .5  Reference Material Score",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [{
+                                    "id": "IcHzti6PnEq",
+                                    "label": "[___]/12*100",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }]
+                            }
+                        ]
+                    ],
+                    "instruction": ""
+                },
+                {
+                    "title": "C.6 mRDT Data Collection Tools",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Data Collection Tool",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Available",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Standard Format",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Malaria test register",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "lWb7zpeJODv",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "gWE2nH3PUFk",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "National Malaria Case register",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "RE2mB80aKs9",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "zGNv2drO70s",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Monthly summary form",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Ptaekbmhfy2",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "AuXpXbJykXr",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE:C.6 mRDT Data Collection Tools Readiness Score",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Hg8EoWp2WoA",
+                                "flex": 1,
+                                "label": "[___]/6*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Section C:Health Facility mRDT Readiness Score",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "FvMXIMSIvx6",
+                                "flex": 1,
+                                "label": "[___]/6",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": "Check the following information system tools:"
+                },
+                {
+                    "title": "Section D. mRDT Observations",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Test Site",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "OPD",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "ANC",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Laboratory",
+                                "isBolded": true,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Does this facility have this testing site?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "noMMDydRpds",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "uoPHViRAzq9",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "aw8By9Shgp3",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "What was cadre of the health service provider observed?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Lf49GMbgUS2",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "UWsCBrhRgj7",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "K5LnNdQVfUu",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Other cadre (Specify)",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "DBZf5aFJoVq",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "u4eWUMrvEAZ",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "jnpG08jEcG6",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Has the observed provider received training on mRDT",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "P8QmoPc6GyN",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ZJsKH81g0t6",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "nviLtDPCApb",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Patient correctly identified and procedure explained to the patient/caregiver",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "oMMzmqSWkk4",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "CaviLpiU4id",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ZgVM00Lfo7U",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Working area well organised",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "jmgfdapsFVC",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "utgnFXS1VEa",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "W55QJinfpjl",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Working area clean",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "HzMBGkLiENE",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "chBGWZDuiK9",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "k4w4dVgAQUj",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "mRDT job aid available",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "DwyZibY77ld",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "xgNLKyJLDvQ",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "K6pnpD5JCAj",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Expiry date checked",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "OUxmJyY1o6Z",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Ew8jNcS2tAF",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "LwPDHFrPfbg",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Device correctly labelled with patient's name",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "VeZKTvkxUjj",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "VFeHksC3ffD",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "q8SHr2ihRGr",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Device correctly labelled with date",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "rmOZ6UNFS3s",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "EE7w6Q3tcd5",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "OWTnMmPNxjA",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Protective gloves worn",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "FWvxNGV4THW",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "bh5EcxBsAmX",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "TQGoNu2aJOy",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Finger disinfected and allowed to dry before pricking",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "qgVijZ4s4Cr",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Wxcjq0M5Xl4",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "VGwanwUe6fJ",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "New sterile lancet used for each patient",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "zTZKOebnbT1",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "QRlCQdrPB3r",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "H3vvFhgUw6S",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Used lancet disposed immediately in appropriate sharps container",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "aoQ8yhCRAM8",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "AhjUYRg1bPK",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "VG0zooDIbGW",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Right amount of blood collected with the blood transfer device",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "FzFA5GlV6ae",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "YDwwb1X9NCq",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "U8ouzQjEZ1p",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "All collected blood deposited in correct well",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "stTUklRo0hb",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "k61Bns6rjnP",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "dhCtUdpSyFI",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Correct number of buffer drops deposited in correct well",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Z1RoXdrIR3f",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "GxSCd5Ny54g",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "dqRneKFOrzL",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Device correctly labelled with starting and ending time",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "rt3sI9PlgnC",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "QuYJfQEcJza",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "sgaOelzWsKH",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Used test store in appropriate container",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "KTNwBdGIWlE",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "AsUDyuQmVNQ",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "U17eImgW6sc",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Capillary tube disposed in appropriate container",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "RYwuKJJYOWu",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "qbD1mOk9i9d",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "yhhaOV9Crvu",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Alcohol swab disposed in appropriate container",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "MyLgzjI6J5t",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "SMhZcf3Ftk3",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "MTpVbRY7XIk",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "roper timing observed before reading test results (according to kit instruction)",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "WoGPONTvtts",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ZOc2DKEucQt",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "KHfwUHcfFKw",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Proper interpretation of test result",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Uc3tSjhsxOX",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "j7WL7270q4c",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "W9tArncdE69",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Result recorded accurately in the register ",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "o3IXAmqje6r",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "v1XKW9x6kul",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ia1WQWNgtCU",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Result recorded accurately on the patient's card/book/form",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "yRLaZYUsVTR",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "UBj5ddsnxeF",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "eHV0Ct9nbqm",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "mRDT Observation Score",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "p8KXhHVRYd2",
+                                "flex": 1,
+                                "label": "[__]/22*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "C6IMLt3d5ox",
+                                "flex": 1,
+                                "label": "[__]/22*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "G8YvT3poKsJ",
+                                "flex": 1,
+                                "label": "[__]/22*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SCORE:Section D. mRDT Observation Score",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "hpFPORxxzOx",
+                                "flex": 1,
+                                "label": "[__]/66",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": "Instructions: Supervisor for mRDT will observe competency in all the 3 testing sites",
+                    "subSections": []
+                }
+            ]
+        },
+        {
+            "title": "Section E. mRDT register Data Consistency Check",
+            "inputRows": [
+                [{
+                        "id": "",
+                        "flex": 1,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 1,
+                        "label": "Malaria Test Register (A)",
+                        "isBolded": true,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 1,
+                        "label": "Malaria Case Register (MCR) Positive B",
+                        "isBolded": true,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 1,
+                        "label": "Check if Register = MCR    A=B",
+                        "isBolded": true,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 1,
+                        "label": "Total mRDT Positive tested",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "ilyqBlIO5gZ",
+                        "flex": 1,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "UmCoeA3z6d4",
+                        "flex": 1,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "AWX72vcqiDh",
+                        "flex": 1,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 3,
+                        "label": "SCORE:Section E. Consistency Check Score ",
+                        "isBolded": true,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "lRCFQWIaY3u",
+                        "flex": 1,
+                        "label": "[__]/2*100",
+                        "isBolded": false,
+                        "subInputs": []
+                    }
+                ]
+            ],
+            "instruction": "Choose the most recent three months from mRDT Malaria register and malaria case register for positive cases and write the values in each of the blank box. Compare the values as directed in the table below. Give 2 point for each of the matching numbers",
+            "subSections": []
+        },
+        {
+            "title": "Section F. mRDT QC System",
+            "inputRows": [],
+            "instruction": "Instructions: Answer the question below for the sites testing for mRDT",
+            "subSections": [{
+                    "title": "F.1 mRDT Retaining System",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Test site",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "OPD",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "ANC",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Laboratory",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Does this facility have this testing site? If yes....",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "RuakKhByK9E",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ieBOnFu3o8o",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "bF14NXZAL3I",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Are used mRDT devices retained the last quarter? Verify",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "QETK9VNMt3c",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "RjRfEignjmX",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "QGaLvFjv5tg",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Are retained mRDT devices stored in separate QC boxes*?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "wXEvxv3E5XE",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "YUIz3A50sVA",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "bPrBGQZcLQB",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Are the QC boxes labelled according to the month?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "vJRNEOoXpiW",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "LO2BWcarK3a",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "XrskOK82TQA",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "mRDT Retaining System Sub Score",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Y7DFtdsGK2D",
+                                "flex": 1,
+                                "label": "[__]/3*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "DRSgWUVlOb8",
+                                "flex": 1,
+                                "label": "[__]/3*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "OKGLtj9y7ey",
+                                "flex": 1,
+                                "label": "[__]/3*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE:F.1 mRDT Retaining System Score",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Y0O1kccOJbw",
+                                "flex": 1,
+                                "label": "[__]/9",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": ""
+                },
+                {
+                    "title": "F.2 Verified Devices According to SOPS",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "OPD",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "ANC",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Laboratory",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Number of verified devices",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "kUCVL3xObil",
+                                "flex": 1,
+                                "label": "A.",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "xIQ9rxgIyH2",
+                                "flex": 1,
+                                "label": "A.",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "j3yRY5gOb6m",
+                                "flex": 1,
+                                "label": "A.",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Patient’s name or ID",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "pPILaKEs3Kz",
+                                "flex": 1,
+                                "label": "B.",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "TBdFOflpkPZ",
+                                "flex": 1,
+                                "label": "B.",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "AiHHUU3Xcxl",
+                                "flex": 1,
+                                "label": "B.",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Be8N76uSEN4",
+                                "flex": 1,
+                                "label": "B/A*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "va3qGkEEZcI",
+                                "flex": 1,
+                                "label": "B/A*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "pLfMTNkfICi",
+                                "flex": 1,
+                                "label": "B/A*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Label includes: Date of testing",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "DIJnvpSKJq5",
+                                "flex": 1,
+                                "label": "C.",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "tjkDapR5gQn",
+                                "flex": 1,
+                                "label": "C.",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ruHuWfFFaWT",
+                                "flex": 1,
+                                "label": "C.",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "AfLsE4t9aaT",
+                                "flex": 1,
+                                "label": "C/A*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "AIq18K90Xne",
+                                "flex": 1,
+                                "label": "C/A*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "U88mWR6UvLE",
+                                "flex": 1,
+                                "label": "C/A*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Label includes: Start & reading time",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "x2mVZCrzsnA",
+                                "flex": 1,
+                                "label": "D.",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "F3c7vJCULlv",
+                                "flex": 1,
+                                "label": "D.",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Cdnf1Mhm3vO",
+                                "flex": 1,
+                                "label": "D.",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ecsvaddR96L",
+                                "flex": 1,
+                                "label": "D/A*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "P58p6Z6eGiM",
+                                "flex": 1,
+                                "label": "D/A*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "cCUZCafJ5FQ",
+                                "flex": 1,
+                                "label": "D/A*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Test device with a white/colorless reading zone",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "xpWBqQic15I",
+                                "flex": 1,
+                                "label": "E.",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "JfiZYN4rh9F",
+                                "flex": 1,
+                                "label": "E.",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "hwhJr5INN5o",
+                                "flex": 1,
+                                "label": "E.",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "V3zCBnM7EcC",
+                                "flex": 1,
+                                "label": "E/A*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "VfiVB92KHJW",
+                                "flex": 1,
+                                "label": "E/A*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "tvvFG3JBeFF",
+                                "flex": 1,
+                                "label": "E/A*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "No blood splatter",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "gwaXRPOdJzB",
+                                "flex": 1,
+                                "label": "F.",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "tCtHYKSfTjG",
+                                "flex": 1,
+                                "label": "F.",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "AddlasxSuUE",
+                                "flex": 1,
+                                "label": "F.",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "hqlUpzyW4UX",
+                                "flex": 1,
+                                "label": "F/A*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "gCXZuQBEucX",
+                                "flex": 1,
+                                "label": "F/A*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "LHaa6aftxC7",
+                                "flex": 1,
+                                "label": "F/A*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Invalid device",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "wJJQRwr2KHF",
+                                "flex": 1,
+                                "label": "G.",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "lmTBRrKCzy0",
+                                "flex": 1,
+                                "label": "G.",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "L3usbxRK1We",
+                                "flex": 1,
+                                "label": "G.",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Invalid devices labelled “invalid”",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "nkmzECPbuha",
+                                "flex": 1,
+                                "label": "H.",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "esU7mac7bBv",
+                                "flex": 1,
+                                "label": "H.",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "wQBnbFul5DI",
+                                "flex": 1,
+                                "label": "H.",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "OJtC4y3SPLO",
+                                "flex": 1,
+                                "label": "H/G*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "wGFpyNAG2TM",
+                                "flex": 1,
+                                "label": "H/G*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Xs1Q8BK5muH",
+                                "flex": 1,
+                                "label": "H/G*100",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "End Time",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "fxr66P7d4AL",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": "Randomly select 100 retained used mRDT cassettes (if facility has less than 100 take all), assess and write the number and percentage of correct performance on the following."
+                }
+            ]
+        }
+    ],
+    "programStage": "GBvvfW1wyal"
+}
