@@ -1,2282 +1,2480 @@
 {
-    "sections": [{
-            "title": "Section A. General Information",
-            "instruction": "",
-            "subSections": [{
-                "title": "ANC CHECKLIST FOR SUPERVISION",
-                "inputRows": [
-                    [{
-                            "id": "",
-                            "label": "Date of Visit"
-                        },
-                        {
-                            "id": "eventDate",
-                            "label": ""
-                        },
-                        {
-                            "id": "",
-                            "label": "Time of start"
-                        },
-                        {
-                            "id": "NL5zAswzWgz",
-                            "label": ""
-                        }
-                    ],
-                    [{
-                            "id": "",
-                            "flex": 3,
-                            "label": "Type of HF level"
-                        },
-                        {
-                            "id": "ehAyC9CL5IT",
-                            "label": ""
-                        }
-                    ],
-                    [{
-                            "id": "",
-                            "flex": 3,
-                            "label": "Other, Specified"
-                        },
-                        {
-                            "id": "hpnzB9SHXHO",
-                            "label": ""
-                        }
-                    ],
-                    [{
-                            "id": "",
-                            "flex": 3,
-                            "label": "Ownership"
-                        },
-                        {
-                            "id": "Cuv6P4FX7kW",
-                            "label": ""
-                        }
-                    ],
-                    [{
-                            "id": "",
-                            "flex": 3,
-                            "label": "Other; specify"
-                        },
-                        {
-                            "id": "EFvwwow9XnR",
-                            "label": ""
-                        }
-                    ],
-                    [{
-                            "id": "",
-                            "flex": 3,
-                            "label": "Name of health care provider assessed"
-                        },
-                        {
-                            "id": "OoPuu2K6bpB",
-                            "label": ""
-                        }
-                    ],
-                    [{
-                            "id": "",
-                            "flex": 2,
-                            "label": "Health Care Provider Cadre"
-                        },
-                        {
-                            "id": "j5HcCaVtxON",
-                            "label": ""
-                        },
-                        {
-                            "id": "",
-                            "label": "",
-                            "subInputs": [{
-                                    "id": "",
-                                    "label": "Mobile"
-                                },
-                                {
-                                    "id": "",
-                                    "label": "Email"
-                                }
-                            ]
-                        },
-                        {
-                            "id": "",
-                            "label": "",
-                            "subInputs": [{
-                                    "id": "UZEABJZa8Mw",
-                                    "label": ""
-                                },
-                                {
-                                    "id": "bFUSAB6R3fJ",
-                                    "label": ""
-                                }
-                            ]
-                        }
-                    ],
-                    [{
-                            "id": "",
-                            "label": "Specify other cadre"
-                        },
-                        {
-                            "id": "U7YQ2hQLgYp",
-                            "label": ""
-                        }
-                    ],
-                    [{
-                            "id": "",
-                            "flex": 3,
-                            "label": "Name of supervisor/assessor"
-                        },
-                        {
-                            "id": "tcW1VUAvzmu",
-                            "label": ""
-                        }
-                    ],
-                    [{
-                            "id": "",
-                            "flex": 2,
-                            "label": "Title (Qualification)"
-                        },
-                        {
-                            "id": "ysiyEwNWBup",
-                            "label": ""
-                        },
-                        {
-                            "id": "",
-                            "label": "",
-                            "subInputs": [{
-                                    "id": "",
-                                    "label": "Mobile"
-                                },
-                                {
-                                    "id": "",
-                                    "label": "Email"
-                                }
-                            ]
-                        },
-                        {
-                            "id": "",
-                            "label": "",
-                            "subInputs": [{
-                                    "id": "RejCaa378DS",
-                                    "label": ""
-                                },
-                                {
-                                    "id": "Yq2ixMngt0E",
-                                    "label": ""
-                                }
-                            ]
-                        }
-                    ]
-                ],
-                "instruction": ""
-            }]
-        },
+  "sections": [
+    {
+      "title": "Section A. General Information",
+      "instruction": "",
+      "subSections": [
         {
-            "title": "SECTION B. List of Core Indicators and Auxiliary Indicators to be assessed",
-            "inputRows": [
-                [{
-                        "id": "",
-                        "label": "Core QI Indicators",
-                        "isBolded": true
-                    },
-                    {
-                        "id": "",
-                        "label": "Auxiliary Indicators",
-                        "isBolded": true
-                    }
-                ],
-                [{
-                        "id": "",
-                        "label": "D. Health Facility ANC Readiness"
-                    },
-                    {
-                        "id": "",
-                        "label": "",
-                        "subInputs": [{
-                                "id": "",
-                                "label": "D.1 Staff Training"
-                            },
-                            {
-                                "id": "",
-                                "label": "D.2 ANC Reference"
-                            },
-                            {
-                                "id": "",
-                                "label": "D.3 ANC Data Collection tools"
-                            },
-                            {
-                                "id": "",
-                                "label": "D.4 Essential Equipment"
-                            }
-                        ]
-                    }
-                ],
-                [{
-                        "id": "",
-                        "label": "E.ANC Competence in managing pregnant women"
-                    },
-                    {
-                        "id": "",
-                        "label": "",
-                        "subInputs": [{
-                                "id": "",
-                                "label": "E.2 Clinical History and Physical Exam"
-                            },
-                            {
-                                "id": "",
-                                "label": "E.3 Assessment of Danger Signs/Symptoms"
-                            },
-                            {
-                                "id": "",
-                                "label": "E.4 Preventive Services at ANC"
-                            },
-                            {
-                                "id": "",
-                                "label": "E.5 Laboratory Testing"
-                            },
-                            {
-                                "id": "",
-                                "label": "E.6 Treatment Services at ANC-Uncomplicated Malaria"
-                            },
-                            {
-                                "id": "",
-                                "label": "E.7 Treatment Services at ANC-Complicated Malaria"
-                            },
-                            {
-                                "id": "",
-                                "label": "E.8 Diagnosis & Treatment"
-                            },
-                            {
-                                "id": "",
-                                "label": "E.9 Counselling & Communication"
-                            }
-                        ]
-                    }
-                ],
-                [{
-                        "id": "",
-                        "label": "F.Health Education"
-                    },
-                    {
-                        "id": "",
-                        "label": "",
-                        "subInputs": [{
-                            "id": "",
-                            "label": "F. Maternal Health Education"
-                        }]
-                    }
-                ],
-                [{
-                        "id": "",
-                        "label": "G.ANC Exit Interview"
-                    },
-                    {
-                        "id": "",
-                        "label": "",
-                        "subInputs": [{
-                            "id": "",
-                            "label": "G. Patient Satisfaction"
-                        }]
-                    }
-                ]
+          "title": "ANC CHECKLIST FOR SUPERVISION",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "label": "Date of Visit"
+              },
+              {
+                "id": "eventDate",
+                "label": ""
+              },
+              {
+                "id": "",
+                "label": "Time of start"
+              },
+              {
+                "id": "NL5zAswzWgz",
+                "label": ""
+              }
             ],
-            "instruction": ""
-        },
-        {
-            "title": "Section C: Previous Performance Review",
-            "instruction": "",
-            "subSections": [{
-                "title": "C.1 HMIS Indicator Review",
-                "inputRows": [
-                    [{
-                            "id": "",
-                            "flex": 3,
-                            "label": "ANC Total attendance"
-                        },
-                        {
-                            "id": "wIEILBXomgu",
-                            "label": ""
-                        }
-                    ],
-                    [{
-                            "id": "",
-                            "flex": 3,
-                            "label": "% pregnant women who provided LLIN at ANC"
-                        },
-                        {
-                            "id": "xNx7EKky61a",
-                            "label": ""
-                        }
-                    ]
-                ],
-                "instruction": "Instructions:Download and print out the previous quarter's HMIS data from the ZAMEP MSDQI EDS.Attach document or write in numbers below.Note: This is information will not be entered into the ZAMEP MSDQI EDS."
-            }]
-        },
-        {
-            "title": "Secton D.Health Facility ANC Readiness",
-            "instruction": "",
-            "subSections": [{
-                    "title": "D.1 Staff training",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Total number of ANC staff employed at this facility"
-                            },
-                            {
-                                "id": "oK2TEeAPV7v",
-                                "label": "A:"
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "How many RCH staff received ANC/malaria case management training?(both formal and on job trainings)"
-                            },
-                            {
-                                "id": "RAtwMVoL59R",
-                                "label": "B:"
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Proportion of ANC staffs trained on malaria case management"
-                            },
-                            {
-                                "id": "hLRxSVtz7K1",
-                                "label": "C: B/A*100"
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "How many ANC staff received mRDT training?(both formal and on job trainings)"
-                            },
-                            {
-                                "id": "vqH08yHzce2",
-                                "label": "D:"
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Proportion of ANC staffs trained on mRDT"
-                            },
-                            {
-                                "id": "lbtcwvNPt3t",
-                                "label": "E:"
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "SUB-SCORE: D.1 Staff Training",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "fM92nIY7CPA",
-                                "label": "[C+E]/2*100"
-                            }
-                        ]
-                    ],
-                    "instruction": "Instructions:Supervisor,enquire about staff who have received ANC training parkage"
-                },
-                {
-                    "title": "D.2 ANC References (full score=2 available, 0=not available)",
-                    "inputRows": [
-                        [{
-                            "id": "",
-                            "flex": 4,
-                            "label": "Is the following reference or job aid available and visible at the facility"
-                        }],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "ANC Guidelines"
-                            },
-                            {
-                                "id": "lJzVq5a6bmj",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Zanzibar Guidelines for Malaria Diagnosis and Treatment"
-                            },
-                            {
-                                "id": "xsHxJKPgKJg",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "PMTCT Guidelines"
-                            },
-                            {
-                                "id": "ARWEROqKI4v",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "SUB-SCORE: D.2 ANC Reference Material Score",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "pJPEmJ3i2x7",
-                                "label": "[ ]/6 *100"
-                            }
-                        ]
-                    ],
-                    "instruction": "Instructions:Verify that each of the following references are available at the facility.These should be visible at the site"
-                },
-                {
-                    "title": "D.3 ANC Data Collection Tools",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Data Collection Tool",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "",
-                                "label": "Available",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "",
-                                "label": "Standard Format",
-                                "isBolded": true
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "ANC Register"
-                            },
-                            {
-                                "id": "KSbhOfB2Q3o",
-                                "label": ""
-                            },
-                            {
-                                "id": "M8pKbdX4TPr",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Monthly Summary"
-                            },
-                            {
-                                "id": "dJOeObg2Ill",
-                                "label": ""
-                            },
-                            {
-                                "id": "wKW8CWgxLFj",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "ANC Card"
-                            },
-                            {
-                                "id": "EF2trwD6SQH",
-                                "label": ""
-                            },
-                            {
-                                "id": "kcxEwSvbO3F",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "TT Card"
-                            },
-                            {
-                                "id": "R4vwH31SyEI",
-                                "label": ""
-                            },
-                            {
-                                "id": "xL8nq2jFeIr",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "SUB-SCORE: D.3 ANC Data Collection Tools Readiness",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "JDdkauaZrJA",
-                                "label": "[ ]/16 *100"
-                            }
-                        ]
-                    ],
-                    "instruction": "Check the following information system tools(Standard format means the printed version from the ministry)"
-                },
-                {
-                    "title": "D.4 Essential Equipment and Drugs (full score=2 available & functional ,0= not available/nonfunctional)",
-                    "inputRows": [
-                        [{
-                            "id": "",
-                            "flex": 4,
-                            "label": "Are the following equipment available at the ANC?"
-                        }],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Thermometer"
-                            },
-                            {
-                                "id": "Zv7riVBbjQi",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "BP machine"
-                            },
-                            {
-                                "id": "tuOMoMaPlXB",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Weighing scale"
-                            },
-                            {
-                                "id": "gXs0nUZtHk3",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Hb testing machine"
-                            },
-                            {
-                                "id": "nZJI0KGNlsz",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Glucometer"
-                            },
-                            {
-                                "id": "lO3AUC5ogjZ",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Fetal scope"
-                            },
-                            {
-                                "id": "p19J7cNk10T",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Doppler"
-                            },
-                            {
-                                "id": "nLj4hS73sYI",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Albustix"
-                            },
-                            {
-                                "id": "sEd0hX7mFOB",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Emergence Tray"
-                            },
-                            {
-                                "id": "zKOyz1KF6wj",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Gloves"
-                            },
-                            {
-                                "id": "GlsfZOZmEE5",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "mRDT test kits"
-                            },
-                            {
-                                "id": "ur7wmchdzPI",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "HIV test kits"
-                            },
-                            {
-                                "id": "pSNTvK1igc0",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Mebendazole"
-                            },
-                            {
-                                "id": "jVdaEYOvCls",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Albendazole"
-                            },
-                            {
-                                "id": "lRn2eORh1jo",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "FEFO"
-                            },
-                            {
-                                "id": "HUQmWOPFudo",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Cotrimoxazole"
-                            },
-                            {
-                                "id": "TQx3aVEXVKM",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "SUB-SCORE: D.4 Equipment Availability and Functionality",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "D38ujWKIb3Y",
-                                "label": "[ ]/32 *100"
-                            }
-                        ]
-                    ],
-                    "instruction": "Instructions:Supervisor,check availability and functionality of the following equipment and drugs at ANC"
-                },
-                {
-                    "title": "",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "SCORE: Section D. ANC Readiness Score",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "c3jKPBJR2JE",
-                                "label": "[ ]/4 *100"
-                            }
-                        ]
-                    ],
-                    "instruction": ""
-                }
-            ]
-        },
-        {
-            "title": "Section E.ANC Observations",
-            "instruction": "",
-            "subSections": [{
-                    "title": "E.1 Health Provider Information",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": ""
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 1",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 2",
-                                "isBolded": true
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was this observation complete on"
-                            },
-                            {
-                                "id": "jKulUyDYSHB",
-                                "label": ""
-                            },
-                            {
-                                "id": "f9MGHmWocVu",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "What is the cadre of the observed health provider?"
-                            },
-                            {
-                                "id": "vwGaJUKbVX9",
-                                "label": ""
-                            },
-                            {
-                                "id": "BCEPDr3dekz",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Other cadre"
-                            },
-                            {
-                                "id": "U7ddtqs6Dzw",
-                                "label": ""
-                            },
-                            {
-                                "id": "GEXvwWvLrvn",
-                                "label": ""
-                            }
-                        ]
-                    ],
-                    "instruction": ""
-                },
-                {
-                    "title": "E.2 Clinical History and Physical Exam",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": ""
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 1",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 2",
-                                "isBolded": true
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Fever"
-                            },
-                            {
-                                "id": "qUzm1BvSwiT",
-                                "label": ""
-                            },
-                            {
-                                "id": "bZUD1pfBCm4",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Use of LLIN (Long Lasting Insecticide-treated bed net)"
-                            },
-                            {
-                                "id": "mtDdjgaUPpP",
-                                "label": ""
-                            },
-                            {
-                                "id": "Y36zplx2Seu",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "If the patient has been previously screened for malaria during the current pregnancy using mRDT"
-                            },
-                            {
-                                "id": "saQzEqP498B",
-                                "label": ""
-                            },
-                            {
-                                "id": "idApMcQh8fp",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                            "id": "",
-                            "flex": 4,
-                            "label": "Did the provider take the following vital signs:",
-                            "isBolded": true
-                        }],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Blood pressure and pulse"
-                            },
-                            {
-                                "id": "fl8NNAHFy8Y",
-                                "label": ""
-                            },
-                            {
-                                "id": "dHApulyiifo",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Temperature if woman complains of fever(N/A if no fever)"
-                            },
-                            {
-                                "id": "Be9jx4DFNM2",
-                                "label": ""
-                            },
-                            {
-                                "id": "mQzpsn4mNHc",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Clinical History & Physical Exam observation sub score",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "ybdEOgnPoNh",
-                                "label": "[ ]/8 *100"
-                            },
-                            {
-                                "id": "DWK4i710ELL",
-                                "label": "[ ]/8 *100"
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "SUB-SCORE: E.2 Clinical History & Physical Exam<",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "TEej36nNtuQ",
-                                "label": "[ ]/16 *100"
-                            }
-                        ]
-                    ],
-                    "instruction": ""
-                },
-                {
-                    "title": "E.3 Assessment of Danger Signs/Symptoms",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": ""
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 1",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 2",
-                                "isBolded": true
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Pallor"
-                            },
-                            {
-                                "id": "PPyCXSfHOFA",
-                                "label": ""
-                            },
-                            {
-                                "id": "sAPmx0YjkZe",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Severe headache"
-                            },
-                            {
-                                "id": "br7jNQhWjVD",
-                                "label": ""
-                            },
-                            {
-                                "id": "fQK4GkgY3vq",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "PV bleeding"
-                            },
-                            {
-                                "id": "IQmM2kN1MWg",
-                                "label": ""
-                            },
-                            {
-                                "id": "angyZU2nG7z",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Leaking"
-                            },
-                            {
-                                "id": "fJfZTXM9DlH",
-                                "label": ""
-                            },
-                            {
-                                "id": "NAcXrgsh36n",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Dizziness"
-                            },
-                            {
-                                "id": "DqOBpsLYM49",
-                                "label": ""
-                            },
-                            {
-                                "id": "fhVH9mtOTCG",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Assessment Danger Signs observation sub score",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "Uhde0IdqUcf",
-                                "label": "[ ]/10 * 100"
-                            },
-                            {
-                                "id": "ff36QFT9ZtA",
-                                "label": "[ ]/10 * 100"
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "SUB-SCORE: E.3 Assessment Danger Signs",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "XBK9PanEPBL",
-                                "label": "[ ]/20 * 100"
-                            }
-                        ]
-                    ],
-                    "instruction": "Instructions: Obseve the service provider while attending a pregnant woman.At least two observations have to be conducted.If a facility has more than one service provider,observation should be made to different providers.If there is only one provider then all observations should be done for that health service provider.Do not interrupt unless the patient is severely ill or if the practice of the service provider will put the client in danger.If a patient is severely ill then the supervisor should assist in giving treatment while doing mentorship to the available clinicians and other health service providers.Did the health service provider ask/check for the following danger symptoms and signs?"
-                },
-                {
-                    "title": "E.4 Preventive Services at ANC",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": ""
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 1",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 2",
-                                "isBolded": true
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Did the health service provider ask if the client had any symptoms(fever or any other sysmptom) for malaria?"
-                            },
-                            {
-                                "id": "q2D3EoflkyZ",
-                                "label": ""
-                            },
-                            {
-                                "id": "eZlWZexltFM",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "If the mother reported the symptoms of malaria ,was this patient tested for malaria?"
-                            },
-                            {
-                                "id": "A4h9JeCfMV3",
-                                "label": ""
-                            },
-                            {
-                                "id": "pTuTCeDgm6q",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "If test results were positive,was the patient escorted to OPD for treatment?"
-                            },
-                            {
-                                "id": "U7blEvo7wsv",
-                                "label": ""
-                            },
-                            {
-                                "id": "jSv3lBteAwi",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Did the provider counsel the patient about malaria prevention?"
-                            },
-                            {
-                                "id": "Blj6q0xGpA7",
-                                "label": ""
-                            },
-                            {
-                                "id": "pw8eARyiGmX",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was the patient provided with LLIN?<em>(Choose NA if this is not client's first visit)"
-                            },
-                            {
-                                "id": "yUEpGMzLlCQ",
-                                "label": ""
-                            },
-                            {
-                                "id": "v1lQsWKpzPq",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was iron and folic acid supplements given to the pregnant woman?"
-                            },
-                            {
-                                "id": "ncMx4ykRR5o",
-                                "label": ""
-                            },
-                            {
-                                "id": "Sh8MdXLBEJ2",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Preventive Services observation sub score",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "yn9yiHQQGzT",
-                                "label": "[ ]/10 * 100"
-                            },
-                            {
-                                "id": "KJSA5EkRmYJ",
-                                "label": "[ ]/10 * 100"
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "SUB-SCORE: E.4 Preventive Services",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "db4fUvHG3Jy",
-                                "label": "[ ]/24 * 100"
-                            }
-                        ]
-                    ],
-                    "instruction": "Observe 2 clients who have attended ANC while receiving service from the health service provider.Note if the provider does the following . Did the health service provider ask/check for the following?"
-                },
-                {
-                    "title": "E.5 Diagnosis and Treatment",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": ""
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 1",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 2",
-                                "isBolded": true
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Does the provider order an mRDT ?(N/A if no fever"
-                            },
-                            {
-                                "id": "PFkNRcqpkcY",
-                                "label": ""
-                            },
-                            {
-                                "id": "JzUSPb7X89a",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "If Yes, does the provider perform the correct follow up actions based on mRDT result.\n\nIf positive, treats with ant-malaria"
-                            },
-                            {
-                                "id": "nCpTHMS6Dz0",
-                                "label": ""
-                            },
-                            {
-                                "id": "drzqLGoeDby",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Is the patient HIV positive?"
-                            },
-                            {
-                                "id": "J1bvekCsfkc",
-                                "label": ""
-                            },
-                            {
-                                "id": "EWJsWgui2n5",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "If yes, does the provider advice and prescribe&nbsp; Cotrimoxazole 960 mg tabs for CPT daily?"
-                            },
-                            {
-                                "id": "uDT7gr7bk2p",
-                                "label": ""
-                            },
-                            {
-                                "id": "y0iQvB7L1DW",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                            "id": "",
-                            "flex": 4,
-                            "label": "Does the provider:"
-                        }],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Provide enough ferrous sulphate /folic acid /FEFOL to last until the next visit?"
-                            },
-                            {
-                                "id": "lwFTPzQ9SGK",
-                                "label": ""
-                            },
-                            {
-                                "id": "DhZ6uvxRwmb",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Explain the side effects of taking ferrous sulphate?"
-                            },
-                            {
-                                "id": "cTjmwMzjHfF",
-                                "label": ""
-                            },
-                            {
-                                "id": "ihoUBnVLJVp",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Administer (or prescribe)Mebendazole 500mg/Albendazole 400 mg by DOT once by chewing after 1st trimester ?(N/A if 1st trimester or already had dose)"
-                            },
-                            {
-                                "id": "QSeYFfKWV8u",
-                                "label": ""
-                            },
-                            {
-                                "id": "apddAXulfv9",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "ncourage the use of LLINs?"
-                            },
-                            {
-                                "id": "KSQbOqnH0QF",
-                                "label": ""
-                            },
-                            {
-                                "id": "qUepU7LKTb6",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Diagnosis &amp; Treatment observation sub score",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "FpzemIFV0XG",
-                                "label": "[ ]/7 * 100"
-                            },
-                            {
-                                "id": "jkktyWPF6RM",
-                                "label": "[ ]/7 * 100"
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "SUB-SCORE: E.5 Diagnosis & Treatment",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "U5Hfim67OSK",
-                                "label": "[ ]/14 * 100"
-                            }
-                        ]
-                    ],
-                    "instruction": "Instructions:Observe the service provider while attending a pregnant woman.At least two observations have to be conducted.If a facility has more than one service provider, observations should be made to different providers.If there is only one provider then all observations should be done for that health service provider.Do not interrupt unless the patient is severely ill or if the practise of the service provider will put the client in danger.If the patient is severely ill then the supervisor should assist in giving treatment while doing mentorship to the available clinicians and other health service providers.If there is no cient during facility visit, simulation should be done"
-                },
-                {
-                    "title": "E.6 Other Laboratory Tests",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": ""
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 1",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 2",
-                                "isBolded": true
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Hemoglobin"
-                            },
-                            {
-                                "id": "Yv9CXtbEvfW",
-                                "label": ""
-                            },
-                            {
-                                "id": "NpojuCVcPcz",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Syphilis test"
-                            },
-                            {
-                                "id": "AcAjL7kvc5v",
-                                "label": ""
-                            },
-                            {
-                                "id": "ifw2pmVr5JE",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "HIV test"
-                            },
-                            {
-                                "id": "FydM7hn5VYq",
-                                "label": ""
-                            },
-                            {
-                                "id": "DeLMobr0AVY",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "*Urinarysis"
-                            },
-                            {
-                                "id": "NO4NUyT7ib2",
-                                "label": ""
-                            },
-                            {
-                                "id": "rTy8d1Hd9lX",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Laboratory Testing observation sub score",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "eBLXr1rrGeq",
-                                "label": "[ ]/8 * 100"
-                            },
-                            {
-                                "id": "RTyZnvPvqBW",
-                                "label": "[ ]/8 * 100"
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "SUB-SCORE: E.6 Laboratory Testing",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "wRkZ6rkf7pa",
-                                "label": "[ ]/16 * 100"
-                            }
-                        ]
-                    ],
-                    "instruction": "Instructions:Observe the service provider while attending a pregnant woman.At least two observations have to be conducted.If a facility has more than one service providers,observations should be made to different providers.If there is only one provider then all observations should be done for that health service provider.Do not interrupt unless the patient is severely ill or if the practise of the service provider will put the client in danger.If a patient is severely ill then the supervisor should assist in giving treatment while doing mentorship to the available clinicians and other health service providers.Did the health service provider request or check the patient's records for the following tests?"
-                },
-                {
-                    "title": "E.7 Treatment Services at ANC",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": ""
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 1",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 2",
-                                "isBolded": true
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was the patient in first trimester of pregnancy?"
-                            },
-                            {
-                                "id": "GoBM3X9OUcX",
-                                "label": ""
-                            },
-                            {
-                                "id": "ouXg4M4ZitQ",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "If yes, was quinine available?"
-                            },
-                            {
-                                "id": "gH0Be2lq90i",
-                                "label": ""
-                            },
-                            {
-                                "id": "xkhvKTyirQM",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Did the provider ensure that the patient adhere to treatment?"
-                            },
-                            {
-                                "id": "ApYj0oKxIWH",
-                                "label": ""
-                            },
-                            {
-                                "id": "aDpIkUijIbO",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "If yes was this patient treated using tablets Quinine ?"
-                            },
-                            {
-                                "id": "gYAPIj3FNb6",
-                                "label": ""
-                            },
-                            {
-                                "id": "ujxUCqicJN7",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was Quinine tablets prescribed in correct dose for the weight of the patient?"
-                            },
-                            {
-                                "id": "K7Z6jeiQt9t",
-                                "label": ""
-                            },
-                            {
-                                "id": "NQUlp4ARmQh",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was Quinine tablets prescribed in correct regimen and duration?"
-                            },
-                            {
-                                "id": "uSDhzR9KDeT",
-                                "label": ""
-                            },
-                            {
-                                "id": "ExP5CK4JXxr",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was clindamycin prescribed to be taken along with Quinine tablets?"
-                            },
-                            {
-                                "id": "xJmBEkCpjj2",
-                                "label": ""
-                            },
-                            {
-                                "id": "GwEbphPilPq",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was clindamycin prescribed in correct dose for the weight of the patient?"
-                            },
-                            {
-                                "id": "E02lM07DlAO",
-                                "label": ""
-                            },
-                            {
-                                "id": "lBd9C16sgy5",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was clindamycin prescribed in correct regimen?"
-                            },
-                            {
-                                "id": "h3uUuaAcUeA",
-                                "label": ""
-                            },
-                            {
-                                "id": "lcLvnxUOtg8",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                            "id": "",
-                            "flex": 4,
-                            "label": "If Quinine was not available or there was uncertainity of adherence",
-                            "isBolded": true
-                        }],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was the patient treated using Artesunate + Amodiaquine (AS+ AQ)"
-                            },
-                            {
-                                "id": "aE9bedQjkw2",
-                                "label": ""
-                            },
-                            {
-                                "id": "Ap6JUeXr2K5",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was the AS+AQ prescribed in correct dose for the weight of the patient?"
-                            },
-                            {
-                                "id": "hD3HssnSWkb",
-                                "label": ""
-                            },
-                            {
-                                "id": "BJ0qy05l7DV",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was the AS+AQ prescribed in correct regimen?"
-                            },
-                            {
-                                "id": "dYya2OtYNTq",
-                                "label": ""
-                            },
-                            {
-                                "id": "MPQ2FTrIEBC",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                            "id": "",
-                            "flex": 4,
-                            "label": "If the patient was in 2nd or 3rd trimester of pregnancy",
-                            "isBolded": true
-                        }],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was the patient treated using AS + AQ or Artemeter + Lumefantrine (ALu)?"
-                            },
-                            {
-                                "id": "UhMQJOfBilO",
-                                "label": ""
-                            },
-                            {
-                                "id": "kP3sB0rVfmF",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was the AS+AQ or ALu prescribed in correct dosage for the weight of the patient?"
-                            },
-                            {
-                                "id": "BBaivj9dcpV",
-                                "label": ""
-                            },
-                            {
-                                "id": "I2D80WHhqsR",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was the AS+AQ or ALu prescribed in correct regimen?"
-                            },
-                            {
-                                "id": "t9kkIRxcujI",
-                                "label": ""
-                            },
-                            {
-                                "id": "vjwdvwQfmYC",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Uncomplicated Malaria Treat observation sub score",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "GEtQBPSrPfk",
-                                "label": "[ ]/10 * 100"
-                            },
-                            {
-                                "id": "Vh81qhZ2AUH",
-                                "label": "[ ]/10 * 100"
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "SUB-SCORE: E.7 Uncomplicated Malaria Treat",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "NqmXiDMnnIz",
-                                "label": "[ ]/20 * 100"
-                            }
-                        ]
-                    ],
-                    "instruction": "Use this section if the patient was diagnosed to have uncomplicated malaria\n\nInstruction:If the ANC client had symptoms/signs of malaria,was tested and was treated,use the following section to assess the treatment provided.Supervisor to follow the patient to the treatment point i.e ANC or OPD .If there is no client during facility visit or client not diagnosed to have uncomplicated malaria, simulation should be done."
-                },
-                {
-                    "title": "E.8 Severe Malaria Treatment Services at ANC",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": ""
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 1",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 2",
-                                "isBolded": true
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was injection Artesunate prescribed for this patient?"
-                            },
-                            {
-                                "id": "oQcH7l41lSm",
-                                "label": ""
-                            },
-                            {
-                                "id": "Wv83Hs0FLHB",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was Artesunate prescribed in correct dose for the patient's weight?"
-                            },
-                            {
-                                "id": "v3Q7TsXT4Om",
-                                "label": ""
-                            },
-                            {
-                                "id": "sdpiHzFOeJC",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was Artesunate prescribed in correct regimen?"
-                            },
-                            {
-                                "id": "l3A46QC4DYG",
-                                "label": ""
-                            },
-                            {
-                                "id": "B8ZkNoXoNY8",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Was the patient admitted or referred?"
-                            },
-                            {
-                                "id": "l41cl3vAmWO",
-                                "label": ""
-                            },
-                            {
-                                "id": "al4dmfjfbhQ",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Severe Malaria Treatment observation sub score",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "yeY0oeTDn9m",
-                                "label": "[ ]/8 * 100"
-                            },
-                            {
-                                "id": "FBSVnpiHQKh",
-                                "label": "[ ]/8 * 100"
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "SUB-SCORE: E.8 Severe Malaria Treatment",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "XFLJ3b7mgSb",
-                                "label": "[ ]/16 * 100"
-                            }
-                        ]
-                    ],
-                    "instruction": "Use this section if the patient was diagnosed to have complicated malaria\n\nObserve 2 clients who have attended ANC while receiving service from the health service provider. If there is no client during facility visit or client not diagnosed to have severe malaria, simulation should be done."
-                },
-                {
-                    "title": "E.9 Counselling and Communication",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": ""
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 1",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "",
-                                "label": "Observation 2",
-                                "isBolded": true
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Sets date for the next visit with the client and encourages her to return to the next scheduled visit"
-                            },
-                            {
-                                "id": "I2YD7kHHP7P",
-                                "label": ""
-                            },
-                            {
-                                "id": "CeBvbiG2S2S",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Informs the woman that she can come anytime if she has any of the danger symptoms and signs or any concerns"
-                            },
-                            {
-                                "id": "dKw4F5KUFPO",
-                                "label": ""
-                            },
-                            {
-                                "id": "t7HED1IfQt5",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Legibly records all required information on ANC,TT Cards,Register and other registers. (mark partial if information recorded in some tools leaving others not recorded)"
-                            },
-                            {
-                                "id": "ZDzYzc6JBzM",
-                                "label": ""
-                            },
-                            {
-                                "id": "p8gEUNkLa9e",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Advises the client on nutrition"
-                            },
-                            {
-                                "id": "JWdTdUx3Cdu",
-                                "label": ""
-                            },
-                            {
-                                "id": "bXHzo57aCJy",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Ask the woman to repeat back the most important points of the counseling"
-                            },
-                            {
-                                "id": "t8UGfrEoPvT",
-                                "label": ""
-                            },
-                            {
-                                "id": "GEegsm0RTEW",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Ask about,and responds to,any question that the woman asked"
-                            },
-                            {
-                                "id": "a0vu7Cbmcg0",
-                                "label": ""
-                            },
-                            {
-                                "id": "wyi5is17qJt",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Counselling and Communication observation sub score",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "OTzd9dc1nJL",
-                                "label": "[ ]/12 * 100"
-                            },
-                            {
-                                "id": "xYH5cxHVrp0",
-                                "label": "[ ]/12 * 100"
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "SUB-SCORE: E.9 Counselling and Communication",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "hI5m6s8EcWf",
-                                "label": "[ ]/ 24 * 100"
-                            }
-                        ]
-                    ],
-                    "instruction": "Instructions:Observe the service provider while attending a pregnant woman.At least two observations have to be conducted.If a facility has more than one service provider,observations should be made to different providers.If there is only one provider then all observations should be done for that health service provider.Do not interrupt unless the patient is severely ill or if the practice of the service provider will put the client in danger.If a patient is severely ill then the supervisor should assist in giving treatment while doing mentorship to the available clinicians and other health service providers.\n\nIf there is no client during facility visit,, simulation should be done."
-                },
-                {
-                    "title": "",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Section E: ANC Competence in managing pregnant women Score",
-                                "isBolded": true
-                            },
-                            {
-                                "id": "FrvXDLqUhA7",
-                                "label": "[ ]/8 * 100"
-                            }
-                        ]
-                    ],
-                    "instruction": ""
-                }
-            ]
-        },
-        {
-            "title": "Section F: Health Education at ANC",
-            "inputRows": [
-                [{
-                        "id": "",
-                        "flex": 3,
-                        "label": "Did the health workers conduct any malaria education session to clients to day in the past three months?"
-                    },
-                    {
-                        "id": "lk62HCdJcUE",
-                        "label": ""
-                    }
-                ],
-                [{
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Type of HF level"
+              },
+              {
+                "id": "ehAyC9CL5IT",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Other, Specified"
+              },
+              {
+                "id": "hpnzB9SHXHO",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Ownership"
+              },
+              {
+                "id": "Cuv6P4FX7kW",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Other; specify"
+              },
+              {
+                "id": "EFvwwow9XnR",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Name of health care provider assessed"
+              },
+              {
+                "id": "OoPuu2K6bpB",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Health Care Provider Cadre"
+              },
+              {
+                "id": "j5HcCaVtxON",
+                "label": ""
+              },
+              {
+                "id": "",
+                "label": "",
+                "subInputs": [
+                  {
                     "id": "",
-                    "flex": 4,
-                    "label": "If Yes, which topic was presented or discussed?",
-                    "isBolded": true
-                }],
-                [{
-                        "id": "",
-                        "flex": 3,
-                        "label": "Continuous use of LLINs"
-                    },
-                    {
-                        "id": "WwPmUgvG64H",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 3,
-                        "label": "Use of mosquito repellants/fumigants"
-                    },
-                    {
-                        "id": "ej0UaEM4C3a",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 3,
-                        "label": "Environmental management for source reduction of vector density e.g drainage of breeding sites"
-                    },
-                    {
-                        "id": "GIcx7xDkadN",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 3,
-                        "label": "Importance of blood screening through mRDT/Microscopy before treatment"
-                    },
-                    {
-                        "id": "DuiZMZy35f3",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 3,
-                        "label": "Prompt treatment of children with fever-taking antimalaria medicine the same or next day of fever onset"
-                    },
-                    {
-                        "id": "ORUzU0QqGpC",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 3,
-                        "label": "Adherence to dosing regimen"
-                    },
-                    {
-                        "id": "yBtiD5Rglwf",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 3,
-                        "label": "Supportive treatment ;such as fever management and uptake of adequate fluids & food"
-                    },
-                    {
-                        "id": "OACVt4CcEsq",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 3,
-                        "label": "SECTION F:Maternal Health Education Score",
-                        "isBolded": true
-                    },
-                    {
-                        "id": "RjgvuNldbRG",
-                        "label": "[]/14 * 100"
-                    }
+                    "label": "Mobile"
+                  },
+                  {
+                    "id": "",
+                    "label": "Email"
+                  }
                 ]
-            ],
-            "instruction": "Instructions:Ask if there is continuous maternal health education at the ANC encouraging the use of all interventions and services"
-        },
-        {
-            "title": "Section G.ANC Exit Interviews",
-            "inputRows": [
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": ""
-                    },
-                    {
-                        "id": "",
-                        "label": "Client 1",
-                        "isBolded": true
-                    },
-                    {
-                        "id": "",
-                        "label": "Client 2",
-                        "isBolded": true
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Were you able to get a client for interview?"
-                    },
-                    {
-                        "id": "UvUNFsATrOq",
-                        "label": ""
-                    },
-                    {
-                        "id": "ia6DSqPMZMt",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Was the length of time taken to wait in order to be seen by the health care provider reasonable?"
-                    },
-                    {
-                        "id": "HpRqgQtf99r",
-                        "label": ""
-                    },
-                    {
-                        "id": "Ud4mMUGjcRR",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Did the health care provider listen to you when you were explaining your problem or child's problem?"
-                    },
-                    {
-                        "id": "L2FFTQbK9w4",
-                        "label": ""
-                    },
-                    {
-                        "id": "zG9HOTK8QmA",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Did the health care provider ask /tell what is wrong with you or your child?"
-                    },
-                    {
-                        "id": "MwoTt9LDYHN",
-                        "label": ""
-                    },
-                    {
-                        "id": "Cf8rZSo1sXl",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Were you given enough privacy when treated or advised?(The door was closed no other clients inside,not exposed during procedure etc)"
-                    },
-                    {
-                        "id": "Rpi5Tg2TsDO",
-                        "label": ""
-                    },
-                    {
-                        "id": "F2DcWubsM9k",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Were you confident with the health care provider who was treating/advising you or your child?(probe)"
-                    },
-                    {
-                        "id": "QpH9Bw1R4YD",
-                        "label": ""
-                    },
-                    {
-                        "id": "crhg7EB5ylB",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Did the health care provider involve you in decision about the treatment?"
-                    },
-                    {
-                        "id": "hjsuVVlhtgx",
-                        "label": ""
-                    },
-                    {
-                        "id": "hBj0nTPyYFT",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Did the health care provider give you the instructions on how to use the medicines in a way that you could understand?"
-                    },
-                    {
-                        "id": "emW66QdmJbo",
-                        "label": ""
-                    },
-                    {
-                        "id": "KQAUNmYJpBX",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Does the health facility environment meet your expectation of cleanliness?"
-                    },
-                    {
-                        "id": "hRWbYbuQZjJ",
-                        "label": ""
-                    },
-                    {
-                        "id": "rLHEdaDvam0",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Were you educated about malaria prevention and control?"
-                    },
-                    {
-                        "id": "Qjc2WKYSJGb",
-                        "label": ""
-                    },
-                    {
-                        "id": "Brxys7Fb9RF",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Do you think you can recommend the service you received from this HFs to your family and other people?"
-                    },
-                    {
-                        "id": "zXDOEllW4tR",
-                        "label": ""
-                    },
-                    {
-                        "id": "idRrfSPT208",
-                        "label": ""
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Client Satisfication observation sub score",
-                        "isBolded": true
-                    },
-                    {
-                        "id": "ktgshhWd9qB",
-                        "label": "[ ]/20 * 100"
-                    },
-                    {
-                        "id": "vLKkePOU7EZ",
-                        "label": "[ ]/20 * 100"
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "SECTION G: Client Satisficatio",
-                        "isBolded": true
-                    },
-                    {
-                        "id": "euyqmLd7gFj",
-                        "label": "[]/40 * 100"
-                    }
+              },
+              {
+                "id": "",
+                "label": "",
+                "subInputs": [
+                  {
+                    "id": "UZEABJZa8Mw",
+                    "label": ""
+                  },
+                  {
+                    "id": "bFUSAB6R3fJ",
+                    "label": ""
+                  }
                 ]
+              }
             ],
-            "instruction": "Instructions:Conduct exit interview to two clients who have just received services at ANC before they leave a facility to assess client satisfication"
-        },
-        {
-            "title": "",
-            "inputRows": [
-                [{
-                        "id": "",
-                        "flex": 3,
-                        "label": "End Time"
-                    },
-                    {
-                        "id": "fxr66P7d4AL",
-                        "label": ""
-                    }
+            [
+              {
+                "id": "",
+                "label": "Specify other cadre"
+              },
+              {
+                "id": "U7YQ2hQLgYp",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Name of supervisor/assessor"
+              },
+              {
+                "id": "tcW1VUAvzmu",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Title (Qualification)"
+              },
+              {
+                "id": "ysiyEwNWBup",
+                "label": ""
+              },
+              {
+                "id": "",
+                "label": "",
+                "subInputs": [
+                  {
+                    "id": "",
+                    "label": "Mobile"
+                  },
+                  {
+                    "id": "",
+                    "label": "Email"
+                  }
                 ]
-            ],
-            "instruction": ""
+              },
+              {
+                "id": "",
+                "label": "",
+                "subInputs": [
+                  {
+                    "id": "RejCaa378DS",
+                    "label": ""
+                  },
+                  {
+                    "id": "Yq2ixMngt0E",
+                    "label": ""
+                  }
+                ]
+              }
+            ]
+          ],
+          "instruction": ""
         }
-    ],
-    "programStage": "Ciyu5w7iW9Z"
+      ]
+    },
+    {
+      "title": "SECTION B. List of Core Indicators and Auxiliary Indicators to be assessed",
+      "inputRows": [
+        [
+          {
+            "id": "",
+            "label": "Core QI Indicators",
+            "isBolded": true
+          },
+          {
+            "id": "",
+            "label": "Auxiliary Indicators",
+            "isBolded": true
+          }
+        ],
+        [
+          {
+            "id": "",
+            "label": "D. Health Facility ANC Readiness"
+          },
+          {
+            "id": "",
+            "label": "",
+            "subInputs": [
+              {
+                "id": "",
+                "label": "D.1 Staff Training"
+              },
+              {
+                "id": "",
+                "label": "D.2 ANC Reference"
+              },
+              {
+                "id": "",
+                "label": "D.3 ANC Data Collection tools"
+              },
+              {
+                "id": "",
+                "label": "D.4 Essential Equipment"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "id": "",
+            "label": "E.ANC Competence in managing pregnant women"
+          },
+          {
+            "id": "",
+            "label": "",
+            "subInputs": [
+              {
+                "id": "",
+                "label": "E.2 Clinical History and Physical Exam"
+              },
+              {
+                "id": "",
+                "label": "E.3 Assessment of Danger Signs/Symptoms"
+              },
+              {
+                "id": "",
+                "label": "E.4 Preventive Services at ANC"
+              },
+              {
+                "id": "",
+                "label": "E.5 Laboratory Testing"
+              },
+              {
+                "id": "",
+                "label": "E.6 Treatment Services at ANC-Uncomplicated Malaria"
+              },
+              {
+                "id": "",
+                "label": "E.7 Treatment Services at ANC-Complicated Malaria"
+              },
+              {
+                "id": "",
+                "label": "E.8 Diagnosis & Treatment"
+              },
+              {
+                "id": "",
+                "label": "E.9 Counselling & Communication"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "id": "",
+            "label": "F.Health Education"
+          },
+          {
+            "id": "",
+            "label": "",
+            "subInputs": [
+              {
+                "id": "",
+                "label": "F. Maternal Health Education"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "id": "",
+            "label": "G.ANC Exit Interview"
+          },
+          {
+            "id": "",
+            "label": "",
+            "subInputs": [
+              {
+                "id": "",
+                "label": "G. Patient Satisfaction"
+              }
+            ]
+          }
+        ]
+      ],
+      "instruction": ""
+    },
+    {
+      "title": "Section C: Previous Performance Review",
+      "instruction": "",
+      "subSections": [
+        {
+          "title": "C.1 HMIS Indicator Review",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "ANC Total attendance"
+              },
+              {
+                "id": "wIEILBXomgu",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "% pregnant women who provided LLIN at ANC"
+              },
+              {
+                "id": "xNx7EKky61a",
+                "label": ""
+              }
+            ]
+          ],
+          "instruction": "Instructions:Download and print out the previous quarter's HMIS data from the ZAMEP MSDQI EDS.Attach document or write in numbers below.Note: This is information will not be entered into the ZAMEP MSDQI EDS."
+        }
+      ]
+    },
+    {
+      "title": "Secton D.Health Facility ANC Readiness",
+      "instruction": "",
+      "subSections": [
+        {
+          "title": "D.1 Staff training",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Total number of ANC staff employed at this facility"
+              },
+              {
+                "id": "oK2TEeAPV7v",
+                "label": "A:"
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "How many RCH staff received ANC/malaria case management training?(both formal and on job trainings)"
+              },
+              {
+                "id": "RAtwMVoL59R",
+                "label": "B:"
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Proportion of ANC staffs trained on malaria case management"
+              },
+              {
+                "id": "hLRxSVtz7K1",
+                "label": "C: B/A*100"
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "How many ANC staff received mRDT training?(both formal and on job trainings)"
+              },
+              {
+                "id": "vqH08yHzce2",
+                "label": "D:"
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Proportion of ANC staffs trained on mRDT"
+              },
+              {
+                "id": "lbtcwvNPt3t",
+                "label": "E:"
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "SUB-SCORE: D.1 Staff Training",
+                "isBolded": true
+              },
+              {
+                "id": "fM92nIY7CPA",
+                "label": "[C+E]/2*100"
+              }
+            ]
+          ],
+          "instruction": "Instructions:Supervisor,enquire about staff who have received ANC training parkage"
+        },
+        {
+          "title": "D.2 ANC References (full score=2 available, 0=not available)",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "flex": 4,
+                "label": "Is the following reference or job aid available and visible at the facility"
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "ANC Guidelines"
+              },
+              {
+                "id": "lJzVq5a6bmj",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Zanzibar Guidelines for Malaria Diagnosis and Treatment"
+              },
+              {
+                "id": "xsHxJKPgKJg",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "PMTCT Guidelines"
+              },
+              {
+                "id": "ARWEROqKI4v",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "SUB-SCORE: D.2 ANC Reference Material Score",
+                "isBolded": true
+              },
+              {
+                "id": "pJPEmJ3i2x7",
+                "label": "[ ]/6 *100"
+              }
+            ]
+          ],
+          "instruction": "Instructions:Verify that each of the following references are available at the facility.These should be visible at the site"
+        },
+        {
+          "title": "D.3 ANC Data Collection Tools",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Data Collection Tool",
+                "isBolded": true
+              },
+              {
+                "id": "",
+                "label": "Available",
+                "isBolded": true
+              },
+              {
+                "id": "",
+                "label": "Standard Format",
+                "isBolded": true
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "ANC Register"
+              },
+              {
+                "id": "KSbhOfB2Q3o",
+                "label": ""
+              },
+              {
+                "id": "M8pKbdX4TPr",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Monthly Summary"
+              },
+              {
+                "id": "dJOeObg2Ill",
+                "label": ""
+              },
+              {
+                "id": "wKW8CWgxLFj",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "ANC Card"
+              },
+              {
+                "id": "EF2trwD6SQH",
+                "label": ""
+              },
+              {
+                "id": "kcxEwSvbO3F",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "TT Card"
+              },
+              {
+                "id": "R4vwH31SyEI",
+                "label": ""
+              },
+              {
+                "id": "xL8nq2jFeIr",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "SUB-SCORE: D.3 ANC Data Collection Tools Readiness",
+                "isBolded": true
+              },
+              {
+                "id": "JDdkauaZrJA",
+                "label": "[ ]/16 *100"
+              }
+            ]
+          ],
+          "instruction": "Check the following information system tools(Standard format means the printed version from the ministry)"
+        },
+        {
+          "title": "D.4 Essential Equipment and Drugs (full score=2 available & functional ,0= not available/nonfunctional)",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "flex": 4,
+                "label": "Are the following equipment available at the ANC?"
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Thermometer"
+              },
+              {
+                "id": "Zv7riVBbjQi",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "BP machine"
+              },
+              {
+                "id": "tuOMoMaPlXB",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Weighing scale"
+              },
+              {
+                "id": "gXs0nUZtHk3",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Hb testing machine"
+              },
+              {
+                "id": "nZJI0KGNlsz",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Glucometer"
+              },
+              {
+                "id": "lO3AUC5ogjZ",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Fetal scope"
+              },
+              {
+                "id": "p19J7cNk10T",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Doppler"
+              },
+              {
+                "id": "nLj4hS73sYI",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Albustix"
+              },
+              {
+                "id": "sEd0hX7mFOB",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Emergence Tray"
+              },
+              {
+                "id": "zKOyz1KF6wj",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Gloves"
+              },
+              {
+                "id": "GlsfZOZmEE5",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "mRDT test kits"
+              },
+              {
+                "id": "ur7wmchdzPI",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "HIV test kits"
+              },
+              {
+                "id": "pSNTvK1igc0",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Mebendazole"
+              },
+              {
+                "id": "jVdaEYOvCls",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Albendazole"
+              },
+              {
+                "id": "lRn2eORh1jo",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "FEFO"
+              },
+              {
+                "id": "HUQmWOPFudo",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Cotrimoxazole"
+              },
+              {
+                "id": "TQx3aVEXVKM",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "SUB-SCORE: D.4 Equipment Availability and Functionality",
+                "isBolded": true
+              },
+              {
+                "id": "D38ujWKIb3Y",
+                "label": "[ ]/32 *100"
+              }
+            ]
+          ],
+          "instruction": "Instructions:Supervisor,check availability and functionality of the following equipment and drugs at ANC"
+        },
+        {
+          "title": "",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "SCORE: Section D. ANC Readiness Score",
+                "isBolded": true
+              },
+              {
+                "id": "c3jKPBJR2JE",
+                "label": "[ ]/4 *100"
+              }
+            ]
+          ],
+          "instruction": ""
+        }
+      ]
+    },
+    {
+      "title": "Section E.ANC Observations",
+      "instruction": "",
+      "subSections": [
+        {
+          "title": "E.1 Health Provider Information",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": ""
+              },
+              {
+                "id": "",
+                "label": "Observation 1",
+                "isBolded": true
+              },
+              {
+                "id": "",
+                "label": "Observation 2",
+                "isBolded": true
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was this observation complete on"
+              },
+              {
+                "id": "jKulUyDYSHB",
+                "label": ""
+              },
+              {
+                "id": "f9MGHmWocVu",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "What is the cadre of the observed health provider?"
+              },
+              {
+                "id": "vwGaJUKbVX9",
+                "label": ""
+              },
+              {
+                "id": "BCEPDr3dekz",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Other cadre"
+              },
+              {
+                "id": "U7ddtqs6Dzw",
+                "label": ""
+              },
+              {
+                "id": "GEXvwWvLrvn",
+                "label": ""
+              }
+            ]
+          ],
+          "instruction": ""
+        },
+        {
+          "title": "E.2 Clinical History and Physical Exam",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": ""
+              },
+              {
+                "id": "",
+                "label": "Observation 1",
+                "isBolded": true
+              },
+              {
+                "id": "",
+                "label": "Observation 2",
+                "isBolded": true
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Fever"
+              },
+              {
+                "id": "qUzm1BvSwiT",
+                "label": ""
+              },
+              {
+                "id": "bZUD1pfBCm4",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Use of LLIN (Long Lasting Insecticide-treated bed net)"
+              },
+              {
+                "id": "mtDdjgaUPpP",
+                "label": ""
+              },
+              {
+                "id": "Y36zplx2Seu",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "If the patient has been previously screened for malaria during the current pregnancy using mRDT"
+              },
+              {
+                "id": "saQzEqP498B",
+                "label": ""
+              },
+              {
+                "id": "idApMcQh8fp",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 4,
+                "label": "Did the provider take the following vital signs:",
+                "isBolded": true
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Blood pressure and pulse"
+              },
+              {
+                "id": "fl8NNAHFy8Y",
+                "label": ""
+              },
+              {
+                "id": "dHApulyiifo",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Temperature if woman complains of fever(N/A if no fever)"
+              },
+              {
+                "id": "Be9jx4DFNM2",
+                "label": ""
+              },
+              {
+                "id": "mQzpsn4mNHc",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Clinical History & Physical Exam observation sub score",
+                "isBolded": true
+              },
+              {
+                "id": "ybdEOgnPoNh",
+                "label": "[ ]/8 *100"
+              },
+              {
+                "id": "DWK4i710ELL",
+                "label": "[ ]/8 *100"
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "SUB-SCORE: E.2 Clinical History & Physical Exam<",
+                "isBolded": true
+              },
+              {
+                "id": "TEej36nNtuQ",
+                "label": "[ ]/16 *100"
+              }
+            ]
+          ],
+          "instruction": ""
+        },
+        {
+          "title": "E.3 Assessment of Danger Signs/Symptoms",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": ""
+              },
+              {
+                "id": "",
+                "label": "Observation 1",
+                "isBolded": true
+              },
+              {
+                "id": "",
+                "label": "Observation 2",
+                "isBolded": true
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Pallor"
+              },
+              {
+                "id": "PPyCXSfHOFA",
+                "label": ""
+              },
+              {
+                "id": "sAPmx0YjkZe",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Severe headache"
+              },
+              {
+                "id": "br7jNQhWjVD",
+                "label": ""
+              },
+              {
+                "id": "fQK4GkgY3vq",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "PV bleeding"
+              },
+              {
+                "id": "IQmM2kN1MWg",
+                "label": ""
+              },
+              {
+                "id": "angyZU2nG7z",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Leaking"
+              },
+              {
+                "id": "fJfZTXM9DlH",
+                "label": ""
+              },
+              {
+                "id": "NAcXrgsh36n",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Dizziness"
+              },
+              {
+                "id": "DqOBpsLYM49",
+                "label": ""
+              },
+              {
+                "id": "fhVH9mtOTCG",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Assessment Danger Signs observation sub score",
+                "isBolded": true
+              },
+              {
+                "id": "Uhde0IdqUcf",
+                "label": "[ ]/10 * 100"
+              },
+              {
+                "id": "ff36QFT9ZtA",
+                "label": "[ ]/10 * 100"
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "SUB-SCORE: E.3 Assessment Danger Signs",
+                "isBolded": true
+              },
+              {
+                "id": "XBK9PanEPBL",
+                "label": "[ ]/20 * 100"
+              }
+            ]
+          ],
+          "instruction": "Instructions: Obseve the service provider while attending a pregnant woman.At least two observations have to be conducted.If a facility has more than one service provider,observation should be made to different providers.If there is only one provider then all observations should be done for that health service provider.Do not interrupt unless the patient is severely ill or if the practice of the service provider will put the client in danger.If a patient is severely ill then the supervisor should assist in giving treatment while doing mentorship to the available clinicians and other health service providers.Did the health service provider ask/check for the following danger symptoms and signs?"
+        },
+        {
+          "title": "E.4 Preventive Services at ANC",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": ""
+              },
+              {
+                "id": "",
+                "label": "Observation 1",
+                "isBolded": true
+              },
+              {
+                "id": "",
+                "label": "Observation 2",
+                "isBolded": true
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Did the health service provider ask if the client had any symptoms(fever or any other sysmptom) for malaria?"
+              },
+              {
+                "id": "q2D3EoflkyZ",
+                "label": ""
+              },
+              {
+                "id": "eZlWZexltFM",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "If the mother reported the symptoms of malaria ,was this patient tested for malaria?"
+              },
+              {
+                "id": "A4h9JeCfMV3",
+                "label": ""
+              },
+              {
+                "id": "pTuTCeDgm6q",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "If test results were positive,was the patient escorted to OPD for treatment?"
+              },
+              {
+                "id": "U7blEvo7wsv",
+                "label": ""
+              },
+              {
+                "id": "jSv3lBteAwi",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Did the provider counsel the patient about malaria prevention?"
+              },
+              {
+                "id": "Blj6q0xGpA7",
+                "label": ""
+              },
+              {
+                "id": "pw8eARyiGmX",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was the patient provided with LLIN?<em>(Choose NA if this is not client's first visit)"
+              },
+              {
+                "id": "yUEpGMzLlCQ",
+                "label": ""
+              },
+              {
+                "id": "v1lQsWKpzPq",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was iron and folic acid supplements given to the pregnant woman?"
+              },
+              {
+                "id": "ncMx4ykRR5o",
+                "label": ""
+              },
+              {
+                "id": "Sh8MdXLBEJ2",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Preventive Services observation sub score",
+                "isBolded": true
+              },
+              {
+                "id": "yn9yiHQQGzT",
+                "label": "[ ]/10 * 100"
+              },
+              {
+                "id": "KJSA5EkRmYJ",
+                "label": "[ ]/10 * 100"
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "SUB-SCORE: E.4 Preventive Services",
+                "isBolded": true
+              },
+              {
+                "id": "db4fUvHG3Jy",
+                "label": "[ ]/24 * 100"
+              }
+            ]
+          ],
+          "instruction": "Observe 2 clients who have attended ANC while receiving service from the health service provider.Note if the provider does the following . Did the health service provider ask/check for the following?"
+        },
+        {
+          "title": "E.5 Diagnosis and Treatment",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": ""
+              },
+              {
+                "id": "",
+                "label": "Observation 1",
+                "isBolded": true
+              },
+              {
+                "id": "",
+                "label": "Observation 2",
+                "isBolded": true
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Does the provider order an mRDT ?(N/A if no fever"
+              },
+              {
+                "id": "PFkNRcqpkcY",
+                "label": ""
+              },
+              {
+                "id": "JzUSPb7X89a",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "If Yes, does the provider perform the correct follow up actions based on mRDT result.\n\nIf positive, treats with ant-malaria"
+              },
+              {
+                "id": "nCpTHMS6Dz0",
+                "label": ""
+              },
+              {
+                "id": "drzqLGoeDby",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Is the patient HIV positive?"
+              },
+              {
+                "id": "J1bvekCsfkc",
+                "label": ""
+              },
+              {
+                "id": "EWJsWgui2n5",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "If yes, does the provider advice and prescribe&nbsp; Cotrimoxazole 960 mg tabs for CPT daily?"
+              },
+              {
+                "id": "uDT7gr7bk2p",
+                "label": ""
+              },
+              {
+                "id": "y0iQvB7L1DW",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 4,
+                "label": "Does the provider:"
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Provide enough ferrous sulphate /folic acid /FEFOL to last until the next visit?"
+              },
+              {
+                "id": "lwFTPzQ9SGK",
+                "label": ""
+              },
+              {
+                "id": "DhZ6uvxRwmb",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Explain the side effects of taking ferrous sulphate?"
+              },
+              {
+                "id": "cTjmwMzjHfF",
+                "label": ""
+              },
+              {
+                "id": "ihoUBnVLJVp",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Administer (or prescribe)Mebendazole 500mg/Albendazole 400 mg by DOT once by chewing after 1st trimester ?(N/A if 1st trimester or already had dose)"
+              },
+              {
+                "id": "QSeYFfKWV8u",
+                "label": ""
+              },
+              {
+                "id": "apddAXulfv9",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "ncourage the use of LLINs?"
+              },
+              {
+                "id": "KSQbOqnH0QF",
+                "label": ""
+              },
+              {
+                "id": "qUepU7LKTb6",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Diagnosis &amp; Treatment observation sub score",
+                "isBolded": true
+              },
+              {
+                "id": "FpzemIFV0XG",
+                "label": "[ ]/7 * 100"
+              },
+              {
+                "id": "jkktyWPF6RM",
+                "label": "[ ]/7 * 100"
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "SUB-SCORE: E.5 Diagnosis & Treatment",
+                "isBolded": true
+              },
+              {
+                "id": "U5Hfim67OSK",
+                "label": "[ ]/14 * 100"
+              }
+            ]
+          ],
+          "instruction": "Instructions:Observe the service provider while attending a pregnant woman.At least two observations have to be conducted.If a facility has more than one service provider, observations should be made to different providers.If there is only one provider then all observations should be done for that health service provider.Do not interrupt unless the patient is severely ill or if the practise of the service provider will put the client in danger.If the patient is severely ill then the supervisor should assist in giving treatment while doing mentorship to the available clinicians and other health service providers.If there is no cient during facility visit, simulation should be done"
+        },
+        {
+          "title": "E.6 Other Laboratory Tests",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": ""
+              },
+              {
+                "id": "",
+                "label": "Observation 1",
+                "isBolded": true
+              },
+              {
+                "id": "",
+                "label": "Observation 2",
+                "isBolded": true
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Hemoglobin"
+              },
+              {
+                "id": "Yv9CXtbEvfW",
+                "label": ""
+              },
+              {
+                "id": "NpojuCVcPcz",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Syphilis test"
+              },
+              {
+                "id": "AcAjL7kvc5v",
+                "label": ""
+              },
+              {
+                "id": "ifw2pmVr5JE",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "HIV test"
+              },
+              {
+                "id": "FydM7hn5VYq",
+                "label": ""
+              },
+              {
+                "id": "DeLMobr0AVY",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "*Urinarysis"
+              },
+              {
+                "id": "NO4NUyT7ib2",
+                "label": ""
+              },
+              {
+                "id": "rTy8d1Hd9lX",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Laboratory Testing observation sub score",
+                "isBolded": true
+              },
+              {
+                "id": "eBLXr1rrGeq",
+                "label": "[ ]/8 * 100"
+              },
+              {
+                "id": "RTyZnvPvqBW",
+                "label": "[ ]/8 * 100"
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "SUB-SCORE: E.6 Laboratory Testing",
+                "isBolded": true
+              },
+              {
+                "id": "wRkZ6rkf7pa",
+                "label": "[ ]/16 * 100"
+              }
+            ]
+          ],
+          "instruction": "Instructions:Observe the service provider while attending a pregnant woman.At least two observations have to be conducted.If a facility has more than one service providers,observations should be made to different providers.If there is only one provider then all observations should be done for that health service provider.Do not interrupt unless the patient is severely ill or if the practise of the service provider will put the client in danger.If a patient is severely ill then the supervisor should assist in giving treatment while doing mentorship to the available clinicians and other health service providers.Did the health service provider request or check the patient's records for the following tests?"
+        },
+        {
+          "title": "E.7 Treatment Services at ANC",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": ""
+              },
+              {
+                "id": "",
+                "label": "Observation 1",
+                "isBolded": true
+              },
+              {
+                "id": "",
+                "label": "Observation 2",
+                "isBolded": true
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was the patient in first trimester of pregnancy?"
+              },
+              {
+                "id": "GoBM3X9OUcX",
+                "label": ""
+              },
+              {
+                "id": "ouXg4M4ZitQ",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "If yes, was quinine available?"
+              },
+              {
+                "id": "gH0Be2lq90i",
+                "label": ""
+              },
+              {
+                "id": "xkhvKTyirQM",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Did the provider ensure that the patient adhere to treatment?"
+              },
+              {
+                "id": "ApYj0oKxIWH",
+                "label": ""
+              },
+              {
+                "id": "aDpIkUijIbO",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "If yes was this patient treated using tablets Quinine ?"
+              },
+              {
+                "id": "gYAPIj3FNb6",
+                "label": ""
+              },
+              {
+                "id": "ujxUCqicJN7",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was Quinine tablets prescribed in correct dose for the weight of the patient?"
+              },
+              {
+                "id": "K7Z6jeiQt9t",
+                "label": ""
+              },
+              {
+                "id": "NQUlp4ARmQh",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was Quinine tablets prescribed in correct regimen and duration?"
+              },
+              {
+                "id": "uSDhzR9KDeT",
+                "label": ""
+              },
+              {
+                "id": "ExP5CK4JXxr",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was clindamycin prescribed to be taken along with Quinine tablets?"
+              },
+              {
+                "id": "xJmBEkCpjj2",
+                "label": ""
+              },
+              {
+                "id": "GwEbphPilPq",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was clindamycin prescribed in correct dose for the weight of the patient?"
+              },
+              {
+                "id": "E02lM07DlAO",
+                "label": ""
+              },
+              {
+                "id": "lBd9C16sgy5",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was clindamycin prescribed in correct regimen?"
+              },
+              {
+                "id": "h3uUuaAcUeA",
+                "label": ""
+              },
+              {
+                "id": "lcLvnxUOtg8",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 4,
+                "label": "If Quinine was not available or there was uncertainity of adherence",
+                "isBolded": true
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was the patient treated using Artesunate + Amodiaquine (AS+ AQ)"
+              },
+              {
+                "id": "aE9bedQjkw2",
+                "label": ""
+              },
+              {
+                "id": "Ap6JUeXr2K5",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was the AS+AQ prescribed in correct dose for the weight of the patient?"
+              },
+              {
+                "id": "hD3HssnSWkb",
+                "label": ""
+              },
+              {
+                "id": "BJ0qy05l7DV",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was the AS+AQ prescribed in correct regimen?"
+              },
+              {
+                "id": "dYya2OtYNTq",
+                "label": ""
+              },
+              {
+                "id": "MPQ2FTrIEBC",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 4,
+                "label": "If the patient was in 2nd or 3rd trimester of pregnancy",
+                "isBolded": true
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was the patient treated using AS + AQ or Artemeter + Lumefantrine (ALu)?"
+              },
+              {
+                "id": "UhMQJOfBilO",
+                "label": ""
+              },
+              {
+                "id": "kP3sB0rVfmF",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was the AS+AQ or ALu prescribed in correct dosage for the weight of the patient?"
+              },
+              {
+                "id": "BBaivj9dcpV",
+                "label": ""
+              },
+              {
+                "id": "I2D80WHhqsR",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was the AS+AQ or ALu prescribed in correct regimen?"
+              },
+              {
+                "id": "t9kkIRxcujI",
+                "label": ""
+              },
+              {
+                "id": "vjwdvwQfmYC",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Uncomplicated Malaria Treat observation sub score",
+                "isBolded": true
+              },
+              {
+                "id": "GEtQBPSrPfk",
+                "label": "[ ]/10 * 100"
+              },
+              {
+                "id": "Vh81qhZ2AUH",
+                "label": "[ ]/10 * 100"
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "SUB-SCORE: E.7 Uncomplicated Malaria Treat",
+                "isBolded": true
+              },
+              {
+                "id": "NqmXiDMnnIz",
+                "label": "[ ]/20 * 100"
+              }
+            ]
+          ],
+          "instruction": "Use this section if the patient was diagnosed to have uncomplicated malaria\n\nInstruction:If the ANC client had symptoms/signs of malaria,was tested and was treated,use the following section to assess the treatment provided.Supervisor to follow the patient to the treatment point i.e ANC or OPD .If there is no client during facility visit or client not diagnosed to have uncomplicated malaria, simulation should be done."
+        },
+        {
+          "title": "E.8 Severe Malaria Treatment Services at ANC",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": ""
+              },
+              {
+                "id": "",
+                "label": "Observation 1",
+                "isBolded": true
+              },
+              {
+                "id": "",
+                "label": "Observation 2",
+                "isBolded": true
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was injection Artesunate prescribed for this patient?"
+              },
+              {
+                "id": "oQcH7l41lSm",
+                "label": ""
+              },
+              {
+                "id": "Wv83Hs0FLHB",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was Artesunate prescribed in correct dose for the patient's weight?"
+              },
+              {
+                "id": "v3Q7TsXT4Om",
+                "label": ""
+              },
+              {
+                "id": "sdpiHzFOeJC",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was Artesunate prescribed in correct regimen?"
+              },
+              {
+                "id": "l3A46QC4DYG",
+                "label": ""
+              },
+              {
+                "id": "B8ZkNoXoNY8",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Was the patient admitted or referred?"
+              },
+              {
+                "id": "l41cl3vAmWO",
+                "label": ""
+              },
+              {
+                "id": "al4dmfjfbhQ",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Severe Malaria Treatment observation sub score",
+                "isBolded": true
+              },
+              {
+                "id": "yeY0oeTDn9m",
+                "label": "[ ]/8 * 100"
+              },
+              {
+                "id": "FBSVnpiHQKh",
+                "label": "[ ]/8 * 100"
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "SUB-SCORE: E.8 Severe Malaria Treatment",
+                "isBolded": true
+              },
+              {
+                "id": "XFLJ3b7mgSb",
+                "label": "[ ]/16 * 100"
+              }
+            ]
+          ],
+          "instruction": "Use this section if the patient was diagnosed to have complicated malaria\n\nObserve 2 clients who have attended ANC while receiving service from the health service provider. If there is no client during facility visit or client not diagnosed to have severe malaria, simulation should be done."
+        },
+        {
+          "title": "E.9 Counselling and Communication",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": ""
+              },
+              {
+                "id": "",
+                "label": "Observation 1",
+                "isBolded": true
+              },
+              {
+                "id": "",
+                "label": "Observation 2",
+                "isBolded": true
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Sets date for the next visit with the client and encourages her to return to the next scheduled visit"
+              },
+              {
+                "id": "I2YD7kHHP7P",
+                "label": ""
+              },
+              {
+                "id": "CeBvbiG2S2S",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Informs the woman that she can come anytime if she has any of the danger symptoms and signs or any concerns"
+              },
+              {
+                "id": "dKw4F5KUFPO",
+                "label": ""
+              },
+              {
+                "id": "t7HED1IfQt5",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Legibly records all required information on ANC,TT Cards,Register and other registers. (mark partial if information recorded in some tools leaving others not recorded)"
+              },
+              {
+                "id": "ZDzYzc6JBzM",
+                "label": ""
+              },
+              {
+                "id": "p8gEUNkLa9e",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Advises the client on nutrition"
+              },
+              {
+                "id": "JWdTdUx3Cdu",
+                "label": ""
+              },
+              {
+                "id": "bXHzo57aCJy",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Ask the woman to repeat back the most important points of the counseling"
+              },
+              {
+                "id": "t8UGfrEoPvT",
+                "label": ""
+              },
+              {
+                "id": "GEegsm0RTEW",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Ask about,and responds to,any question that the woman asked"
+              },
+              {
+                "id": "a0vu7Cbmcg0",
+                "label": ""
+              },
+              {
+                "id": "wyi5is17qJt",
+                "label": ""
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 2,
+                "label": "Counselling and Communication observation sub score",
+                "isBolded": true
+              },
+              {
+                "id": "OTzd9dc1nJL",
+                "label": "[ ]/12 * 100"
+              },
+              {
+                "id": "xYH5cxHVrp0",
+                "label": "[ ]/12 * 100"
+              }
+            ],
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "SUB-SCORE: E.9 Counselling and Communication",
+                "isBolded": true
+              },
+              {
+                "id": "hI5m6s8EcWf",
+                "label": "[ ]/ 24 * 100"
+              }
+            ]
+          ],
+          "instruction": "Instructions:Observe the service provider while attending a pregnant woman.At least two observations have to be conducted.If a facility has more than one service provider,observations should be made to different providers.If there is only one provider then all observations should be done for that health service provider.Do not interrupt unless the patient is severely ill or if the practice of the service provider will put the client in danger.If a patient is severely ill then the supervisor should assist in giving treatment while doing mentorship to the available clinicians and other health service providers.\n\nIf there is no client during facility visit,, simulation should be done."
+        },
+        {
+          "title": "",
+          "inputRows": [
+            [
+              {
+                "id": "",
+                "flex": 3,
+                "label": "Section E: ANC Competence in managing pregnant women Score",
+                "isBolded": true
+              },
+              {
+                "id": "FrvXDLqUhA7",
+                "label": "[ ]/8 * 100"
+              }
+            ]
+          ],
+          "instruction": ""
+        }
+      ]
+    },
+    {
+      "title": "Section F: Health Education at ANC",
+      "inputRows": [
+        [
+          {
+            "id": "",
+            "flex": 3,
+            "label": "Did the health workers conduct any malaria education session to clients to day in the past three months?"
+          },
+          {
+            "id": "lk62HCdJcUE",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 4,
+            "label": "If Yes, which topic was presented or discussed?",
+            "isBolded": true
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 3,
+            "label": "Continuous use of LLINs"
+          },
+          {
+            "id": "WwPmUgvG64H",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 3,
+            "label": "Use of mosquito repellants/fumigants"
+          },
+          {
+            "id": "ej0UaEM4C3a",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 3,
+            "label": "Environmental management for source reduction of vector density e.g drainage of breeding sites"
+          },
+          {
+            "id": "GIcx7xDkadN",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 3,
+            "label": "Importance of blood screening through mRDT/Microscopy before treatment"
+          },
+          {
+            "id": "DuiZMZy35f3",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 3,
+            "label": "Prompt treatment of children with fever-taking antimalaria medicine the same or next day of fever onset"
+          },
+          {
+            "id": "ORUzU0QqGpC",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 3,
+            "label": "Adherence to dosing regimen"
+          },
+          {
+            "id": "yBtiD5Rglwf",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 3,
+            "label": "Supportive treatment ;such as fever management and uptake of adequate fluids & food"
+          },
+          {
+            "id": "OACVt4CcEsq",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 3,
+            "label": "SECTION F:Maternal Health Education Score",
+            "isBolded": true
+          },
+          {
+            "id": "RjgvuNldbRG",
+            "label": "[]/14 * 100"
+          }
+        ]
+      ],
+      "instruction": "Instructions:Ask if there is continuous maternal health education at the ANC encouraging the use of all interventions and services"
+    },
+    {
+      "title": "Section G.ANC Exit Interviews",
+      "inputRows": [
+        [
+          {
+            "id": "",
+            "flex": 2,
+            "label": ""
+          },
+          {
+            "id": "",
+            "label": "Client 1",
+            "isBolded": true
+          },
+          {
+            "id": "",
+            "label": "Client 2",
+            "isBolded": true
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 2,
+            "label": "Were you able to get a client for interview?"
+          },
+          {
+            "id": "UvUNFsATrOq",
+            "label": ""
+          },
+          {
+            "id": "ia6DSqPMZMt",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 2,
+            "label": "Was the length of time taken to wait in order to be seen by the health care provider reasonable?"
+          },
+          {
+            "id": "HpRqgQtf99r",
+            "label": ""
+          },
+          {
+            "id": "Ud4mMUGjcRR",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 2,
+            "label": "Did the health care provider listen to you when you were explaining your problem or child's problem?"
+          },
+          {
+            "id": "L2FFTQbK9w4",
+            "label": ""
+          },
+          {
+            "id": "zG9HOTK8QmA",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 2,
+            "label": "Did the health care provider ask /tell what is wrong with you or your child?"
+          },
+          {
+            "id": "MwoTt9LDYHN",
+            "label": ""
+          },
+          {
+            "id": "Cf8rZSo1sXl",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 2,
+            "label": "Were you given enough privacy when treated or advised?(The door was closed no other clients inside,not exposed during procedure etc)"
+          },
+          {
+            "id": "Rpi5Tg2TsDO",
+            "label": ""
+          },
+          {
+            "id": "F2DcWubsM9k",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 2,
+            "label": "Were you confident with the health care provider who was treating/advising you or your child?(probe)"
+          },
+          {
+            "id": "QpH9Bw1R4YD",
+            "label": ""
+          },
+          {
+            "id": "crhg7EB5ylB",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 2,
+            "label": "Did the health care provider involve you in decision about the treatment?"
+          },
+          {
+            "id": "hjsuVVlhtgx",
+            "label": ""
+          },
+          {
+            "id": "hBj0nTPyYFT",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 2,
+            "label": "Did the health care provider give you the instructions on how to use the medicines in a way that you could understand?"
+          },
+          {
+            "id": "emW66QdmJbo",
+            "label": ""
+          },
+          {
+            "id": "KQAUNmYJpBX",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 2,
+            "label": "Does the health facility environment meet your expectation of cleanliness?"
+          },
+          {
+            "id": "hRWbYbuQZjJ",
+            "label": ""
+          },
+          {
+            "id": "rLHEdaDvam0",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 2,
+            "label": "Were you educated about malaria prevention and control?"
+          },
+          {
+            "id": "Qjc2WKYSJGb",
+            "label": ""
+          },
+          {
+            "id": "Brxys7Fb9RF",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 2,
+            "label": "Do you think you can recommend the service you received from this HFs to your family and other people?"
+          },
+          {
+            "id": "zXDOEllW4tR",
+            "label": ""
+          },
+          {
+            "id": "idRrfSPT208",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 2,
+            "label": "Client Satisfication observation sub score",
+            "isBolded": true
+          },
+          {
+            "id": "ktgshhWd9qB",
+            "label": "[ ]/20 * 100"
+          },
+          {
+            "id": "vLKkePOU7EZ",
+            "label": "[ ]/20 * 100"
+          }
+        ],
+        [
+          {
+            "id": "",
+            "flex": 2,
+            "label": "SECTION G: Client Satisficatio",
+            "isBolded": true
+          },
+          {
+            "id": "euyqmLd7gFj",
+            "label": "[]/40 * 100"
+          }
+        ]
+      ],
+      "instruction": "Instructions:Conduct exit interview to two clients who have just received services at ANC before they leave a facility to assess client satisfication"
+    },
+    {
+      "title": "",
+      "inputRows": [
+        [
+          {
+            "id": "",
+            "flex": 3,
+            "label": "End Time"
+          },
+          {
+            "id": "fxr66P7d4AL",
+            "label": ""
+          }
+        ]
+      ],
+      "instruction": ""
+    }
+  ],
+  "programStage": "Ciyu5w7iW9Z",
+  "mandatoryFields": [
+    {
+      "id": "NL5zAswzWgz",
+      "name": "Time of start"
+    },
+    {
+      "id": "eventDate",
+      "name": "Date of Visit"
+    }
+  ]
 }
