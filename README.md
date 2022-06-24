@@ -37,13 +37,14 @@ The design can editied with any JSON editor or using [Online JSON Editor](https:
 
 ### Summary of fields for columns's row configuration
 
-| Keys        | Descriptions                                                                                | Value type                 |
-| ----------- | ------------------------------------------------------------------------------------------- | -------------------------- |
-| id          | Id of data element or program indicator to be used as inout field                           | String                     |
-| label       | Label to displayed on colums based on design                                                | String                     |
-| htmlLabel   | Label with formatted html contents                                                          | String                     |
-| hints       | Hints or instructions on specifuc columns                                                   | String                     |
-| flex        | Number of columns merged into one cell                                                      | Number                     |
-| isBolded    | Property used to indicate whether to bold specified label or not                            | String                     |
-| suffixLabel | Label to be attached at end of input field. It mostly used together with program indicators | String                     |
-| subInputs   | List of rows to be attached on a given column's cell.                                       | List/Array of column's row |
+| Keys            | Descriptions                                                                                                     | Value type                 |
+| --------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| id              | Id of data element or program indicator to be used as inout field                                                | String                     |
+| label           | Label to displayed on colums based on design                                                                     | String                     |
+| backgroundColor | Background color for cell in table view of an input field or label. It's hex color format for instance `#1B9688` | String                     |
+| htmlLabel       | Label with formatted html contents                                                                               | String                     |
+| hints           | Hints or instructions on specifuc columns                                                                        | String                     |
+| flex            | Number of columns merged into one cell                                                                           | Number                     |
+| isBolded        | Property used to indicate whether to bold specified label or not                                                 | String                     |
+| suffixLabel     | Label to be attached at end of input field. It mostly used together with program indicators                      | String                     |
+| subInputs       | List of rows to be attached on a given column's cell.                                                            | List/Array of column's row |
