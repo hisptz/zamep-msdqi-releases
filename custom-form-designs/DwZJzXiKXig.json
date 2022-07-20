@@ -1,2902 +1,3004 @@
 {
-    "sections": [{
-        "name": "",
-        "inputRows": [
-            [{
-                    "id": "",
-                    "label": "Checklist/Module"
-                },
-                {
-                    "id": "",
-                    "flex": 2,
-                    "label": "Section need improvement plan"
-                },
-                {
-                    "id": "",
-                    "label": "Section score"
-                },
-                {
-                    "id": "",
-                    "label": "Describe the impediment"
-                },
-                {
-                    "id": "",
-                    "label": "What immediate action was done?"
-                },
-                {
-                    "id": "",
-                    "label": "What is the action plan?"
-                },
-                {
-                    "id": "",
-                    "label": "Responsible person"
-                },
-                {
-                    "id": "",
-                    "label": "Time frame"
-                }
-            ],
-            [{
-                    "id": "fM92nIY7CPA-module",
-                    "label": "ANC"
-                },
-                {
-                    "id": "fM92nIY7CPA-section",
-                    "flex": 2,
-                    "label": "D.1 Staff Training"
-                },
-                {
-                    "id": "fM92nIY7CPA-score",
-                    "label": ""
-                },
-                {
-                    "id": "fM92nIY7CPA-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "fM92nIY7CPA-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "fM92nIY7CPA-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "fM92nIY7CPA-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "fM92nIY7CPA-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "pJPEmJ3i2x7-module",
-                    "label": "ANC"
-                },
-                {
-                    "id": "pJPEmJ3i2x7-section",
-                    "flex": 2,
-                    "label": "D.2 ANC Reference Material Score"
-                },
-                {
-                    "id": "pJPEmJ3i2x7-score",
-                    "label": ""
-                },
-                {
-                    "id": "pJPEmJ3i2x7-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "pJPEmJ3i2x7-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "pJPEmJ3i2x7-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "pJPEmJ3i2x7-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "pJPEmJ3i2x7-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "JDdkauaZrJA-module",
-                    "label": "ANC"
-                },
-                {
-                    "id": "JDdkauaZrJA-section",
-                    "flex": 2,
-                    "label": "D.3 ANC Data Collection Tools Readiness"
-                },
-                {
-                    "id": "JDdkauaZrJA-score",
-                    "label": ""
-                },
-                {
-                    "id": "JDdkauaZrJA-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "JDdkauaZrJA-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "JDdkauaZrJA-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "JDdkauaZrJA-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "JDdkauaZrJA-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "D38ujWKIb3Y-module",
-                    "label": "ANC"
-                },
-                {
-                    "id": "D38ujWKIb3Y-section",
-                    "flex": 2,
-                    "label": "D.4 Equipment Availability and Functionality"
-                },
-                {
-                    "id": "D38ujWKIb3Y-score",
-                    "label": ""
-                },
-                {
-                    "id": "D38ujWKIb3Y-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "D38ujWKIb3Y-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "D38ujWKIb3Y-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "D38ujWKIb3Y-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "D38ujWKIb3Y-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "TEej36nNtuQ-module",
-                    "label": "ANC"
-                },
-                {
-                    "id": "TEej36nNtuQ-section",
-                    "flex": 2,
-                    "label": "E.2 Clinical History & Physical Exam"
-                },
-                {
-                    "id": "TEej36nNtuQ-score",
-                    "label": ""
-                },
-                {
-                    "id": "TEej36nNtuQ-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "TEej36nNtuQ-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "TEej36nNtuQ-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "TEej36nNtuQ-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "TEej36nNtuQ-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "XBK9PanEPBL-module",
-                    "label": "ANC"
-                },
-                {
-                    "id": "XBK9PanEPBL-section",
-                    "flex": 2,
-                    "label": "E.3 Assessment Danger Signs"
-                },
-                {
-                    "id": "XBK9PanEPBL-score",
-                    "label": ""
-                },
-                {
-                    "id": "XBK9PanEPBL-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "XBK9PanEPBL-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "XBK9PanEPBL-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "XBK9PanEPBL-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "XBK9PanEPBL-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "db4fUvHG3Jy-module",
-                    "label": "ANC"
-                },
-                {
-                    "id": "db4fUvHG3Jy-section",
-                    "flex": 2,
-                    "label": "E.4 Preventive Services"
-                },
-                {
-                    "id": "db4fUvHG3Jy-score",
-                    "label": ""
-                },
-                {
-                    "id": "db4fUvHG3Jy-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "db4fUvHG3Jy-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "db4fUvHG3Jy-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "db4fUvHG3Jy-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "db4fUvHG3Jy-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "U5Hfim67OSK-module",
-                    "label": "ANC"
-                },
-                {
-                    "id": "U5Hfim67OSK-section",
-                    "flex": 2,
-                    "label": "E.5 Diagnosis & Treatment"
-                },
-                {
-                    "id": "U5Hfim67OSK-score",
-                    "label": ""
-                },
-                {
-                    "id": "U5Hfim67OSK-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "U5Hfim67OSK-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "U5Hfim67OSK-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "U5Hfim67OSK-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "U5Hfim67OSK-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "wRkZ6rkf7pa-module",
-                    "label": "ANC"
-                },
-                {
-                    "id": "wRkZ6rkf7pa-section",
-                    "flex": 2,
-                    "label": "E.6 Laboratory  Testing"
-                },
-                {
-                    "id": "wRkZ6rkf7pa-score",
-                    "label": ""
-                },
-                {
-                    "id": "wRkZ6rkf7pa-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "wRkZ6rkf7pa-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "wRkZ6rkf7pa-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "wRkZ6rkf7pa-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "wRkZ6rkf7pa-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "NqmXiDMnnIz-module",
-                    "label": "ANC"
-                },
-                {
-                    "id": "NqmXiDMnnIz-section",
-                    "flex": 2,
-                    "label": "E.7 Uncomplicated Malaria Treat"
-                },
-                {
-                    "id": "NqmXiDMnnIz-score",
-                    "label": ""
-                },
-                {
-                    "id": "NqmXiDMnnIz-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "NqmXiDMnnIz-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "NqmXiDMnnIz-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "NqmXiDMnnIz-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "NqmXiDMnnIz-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "XFLJ3b7mgSb-module",
-                    "label": "ANC"
-                },
-                {
-                    "id": "XFLJ3b7mgSb-section",
-                    "flex": 2,
-                    "label": "E.8 Severe Malaria Treatment"
-                },
-                {
-                    "id": "XFLJ3b7mgSb-score",
-                    "label": ""
-                },
-                {
-                    "id": "XFLJ3b7mgSb-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "XFLJ3b7mgSb-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "XFLJ3b7mgSb-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "XFLJ3b7mgSb-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "XFLJ3b7mgSb-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "hI5m6s8EcWf-module",
-                    "label": "ANC"
-                },
-                {
-                    "id": "hI5m6s8EcWf-section",
-                    "flex": 2,
-                    "label": "E.9 Counselling and Communication"
-                },
-                {
-                    "id": "hI5m6s8EcWf-score",
-                    "label": ""
-                },
-                {
-                    "id": "hI5m6s8EcWf-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "hI5m6s8EcWf-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "hI5m6s8EcWf-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "hI5m6s8EcWf-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "hI5m6s8EcWf-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "RjgvuNldbRG-module",
-                    "label": "ANC"
-                },
-                {
-                    "id": "RjgvuNldbRG-section",
-                    "flex": 2,
-                    "label": "F:Maternal Health Education Score"
-                },
-                {
-                    "id": "RjgvuNldbRG-score",
-                    "label": ""
-                },
-                {
-                    "id": "RjgvuNldbRG-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "RjgvuNldbRG-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "RjgvuNldbRG-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "RjgvuNldbRG-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "RjgvuNldbRG-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "euyqmLd7gFj-module",
-                    "label": "ANC"
-                },
-                {
-                    "id": "euyqmLd7gFj-section",
-                    "flex": 2,
-                    "label": "G: Client Satisfication"
-                },
-                {
-                    "id": "euyqmLd7gFj-score",
-                    "label": ""
-                },
-                {
-                    "id": "euyqmLd7gFj-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "euyqmLd7gFj-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "euyqmLd7gFj-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "euyqmLd7gFj-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "euyqmLd7gFj-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "Rt7LrUDN4O5-module",
-                    "label": "IPD"
-                },
-                {
-                    "id": "Rt7LrUDN4O5-section",
-                    "flex": 2,
-                    "label": "C.1 Staff Training"
-                },
-                {
-                    "id": "Rt7LrUDN4O5-score",
-                    "label": ""
-                },
-                {
-                    "id": "Rt7LrUDN4O5-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "Rt7LrUDN4O5-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "Rt7LrUDN4O5-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "Rt7LrUDN4O5-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "Rt7LrUDN4O5-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "MaleWhFjQVx-module",
-                    "label": "IPD"
-                },
-                {
-                    "id": "MaleWhFjQVx-section",
-                    "flex": 2,
-                    "label": "C.2 IPD Reference Material Scores"
-                },
-                {
-                    "id": "MaleWhFjQVx-score",
-                    "label": ""
-                },
-                {
-                    "id": "MaleWhFjQVx-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "MaleWhFjQVx-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "MaleWhFjQVx-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "MaleWhFjQVx-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "MaleWhFjQVx-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "v2MaY8VwmtO-module",
-                    "label": "IPD"
-                },
-                {
-                    "id": "v2MaY8VwmtO-section",
-                    "flex": 2,
-                    "label": "C.3 Materials and Furniture Score"
-                },
-                {
-                    "id": "v2MaY8VwmtO-score",
-                    "label": ""
-                },
-                {
-                    "id": "v2MaY8VwmtO-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "v2MaY8VwmtO-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "v2MaY8VwmtO-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "v2MaY8VwmtO-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "v2MaY8VwmtO-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "lZplMvmG8zF-module",
-                    "label": "IPD"
-                },
-                {
-                    "id": "lZplMvmG8zF-section",
-                    "flex": 2,
-                    "label": "C.4 Emergence Care Medicines Score"
-                },
-                {
-                    "id": "lZplMvmG8zF-score",
-                    "label": ""
-                },
-                {
-                    "id": "lZplMvmG8zF-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "lZplMvmG8zF-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "lZplMvmG8zF-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "lZplMvmG8zF-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "lZplMvmG8zF-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "okP2GftSjOU-module",
-                    "label": "IPD"
-                },
-                {
-                    "id": "okP2GftSjOU-section",
-                    "flex": 2,
-                    "label": "C.5 Essential Equipment and Supplies"
-                },
-                {
-                    "id": "okP2GftSjOU-score",
-                    "label": ""
-                },
-                {
-                    "id": "okP2GftSjOU-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "okP2GftSjOU-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "okP2GftSjOU-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "okP2GftSjOU-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "okP2GftSjOU-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "yOcVHuNxJi2-module",
-                    "label": "IPD"
-                },
-                {
-                    "id": "yOcVHuNxJi2-section",
-                    "flex": 2,
-                    "label": "C.6 IPD Data Collection HMIS Tools score"
-                },
-                {
-                    "id": "yOcVHuNxJi2-score",
-                    "label": ""
-                },
-                {
-                    "id": "yOcVHuNxJi2-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "yOcVHuNxJi2-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "yOcVHuNxJi2-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "yOcVHuNxJi2-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "yOcVHuNxJi2-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "jmrg0VTlALb-module",
-                    "label": "IPD"
-                },
-                {
-                    "id": "jmrg0VTlALb-section",
-                    "flex": 2,
-                    "label": "D.1 Artesunate Administration"
-                },
-                {
-                    "id": "jmrg0VTlALb-score",
-                    "label": ""
-                },
-                {
-                    "id": "jmrg0VTlALb-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "jmrg0VTlALb-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "jmrg0VTlALb-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "jmrg0VTlALb-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "jmrg0VTlALb-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "k6Ko9J8zKGa-module",
-                    "label": "LOGISTICS"
-                },
-                {
-                    "id": "k6Ko9J8zKGa-section",
-                    "flex": 2,
-                    "label": "C.1 Staffing Level Score"
-                },
-                {
-                    "id": "k6Ko9J8zKGa-score",
-                    "label": ""
-                },
-                {
-                    "id": "k6Ko9J8zKGa-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "k6Ko9J8zKGa-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "k6Ko9J8zKGa-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "k6Ko9J8zKGa-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "k6Ko9J8zKGa-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "eHLu7SiMdoN-module",
-                    "label": "LOGISTICS"
-                },
-                {
-                    "id": "eHLu7SiMdoN-section",
-                    "flex": 2,
-                    "label": "C.2 Proportion of staff trained on electronic Logistics Management System (eLMIS)"
-                },
-                {
-                    "id": "eHLu7SiMdoN-score",
-                    "label": ""
-                },
-                {
-                    "id": "eHLu7SiMdoN-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "eHLu7SiMdoN-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "eHLu7SiMdoN-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "eHLu7SiMdoN-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "eHLu7SiMdoN-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "mXWYjZLL9GW-module",
-                    "label": "LOGISTICS"
-                },
-                {
-                    "id": "mXWYjZLL9GW-section",
-                    "flex": 2,
-                    "label": "C.3 Reference Material Scores"
-                },
-                {
-                    "id": "mXWYjZLL9GW-score",
-                    "label": ""
-                },
-                {
-                    "id": "mXWYjZLL9GW-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "mXWYjZLL9GW-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "mXWYjZLL9GW-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "mXWYjZLL9GW-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "mXWYjZLL9GW-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "f4fEGNSz2Y7-module",
-                    "label": "LOGISTICS"
-                },
-                {
-                    "id": "f4fEGNSz2Y7-section",
-                    "flex": 2,
-                    "label": "C.4: Logistic Health Management Information System Tools Availability"
-                },
-                {
-                    "id": "f4fEGNSz2Y7-score",
-                    "label": ""
-                },
-                {
-                    "id": "f4fEGNSz2Y7-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "f4fEGNSz2Y7-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "f4fEGNSz2Y7-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "f4fEGNSz2Y7-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "f4fEGNSz2Y7-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "VXhPFskKW1x-module",
-                    "label": "LOGISTICS"
-                },
-                {
-                    "id": "VXhPFskKW1x-section",
-                    "flex": 2,
-                    "label": "C.5 Essential Equipment -Store Room"
-                },
-                {
-                    "id": "VXhPFskKW1x-score",
-                    "label": ""
-                },
-                {
-                    "id": "VXhPFskKW1x-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "VXhPFskKW1x-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "VXhPFskKW1x-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "VXhPFskKW1x-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "VXhPFskKW1x-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "bvg9IyaczYj-module",
-                    "label": "LOGISTICS"
-                },
-                {
-                    "id": "bvg9IyaczYj-section",
-                    "flex": 2,
-                    "label": "C.6 Essential Equipment -Injection Room"
-                },
-                {
-                    "id": "bvg9IyaczYj-score",
-                    "label": ""
-                },
-                {
-                    "id": "bvg9IyaczYj-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "bvg9IyaczYj-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "bvg9IyaczYj-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "bvg9IyaczYj-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "bvg9IyaczYj-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "UjQaj7e6Tu6-module",
-                    "label": "LOGISTICS"
-                },
-                {
-                    "id": "UjQaj7e6Tu6-section",
-                    "flex": 2,
-                    "label": "C.7 Essential Equipment -Dispensing Site/Area"
-                },
-                {
-                    "id": "UjQaj7e6Tu6-score",
-                    "label": ""
-                },
-                {
-                    "id": "UjQaj7e6Tu6-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "UjQaj7e6Tu6-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "UjQaj7e6Tu6-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "UjQaj7e6Tu6-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "UjQaj7e6Tu6-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "xXIS7DtTiCn-module",
-                    "label": "LOGISTICS"
-                },
-                {
-                    "id": "xXIS7DtTiCn-section",
-                    "flex": 2,
-                    "label": "C.8 General mRDT storage conditions scores"
-                },
-                {
-                    "id": "xXIS7DtTiCn-score",
-                    "label": ""
-                },
-                {
-                    "id": "xXIS7DtTiCn-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "xXIS7DtTiCn-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "xXIS7DtTiCn-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "xXIS7DtTiCn-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "xXIS7DtTiCn-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "ndPsoczGgLg-module",
-                    "label": "LOGISTICS"
-                },
-                {
-                    "id": "ndPsoczGgLg-section",
-                    "flex": 2,
-                    "label": "D: Overall Dispensing Observations"
-                },
-                {
-                    "id": "ndPsoczGgLg-score",
-                    "label": ""
-                },
-                {
-                    "id": "ndPsoczGgLg-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "ndPsoczGgLg-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "ndPsoczGgLg-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "ndPsoczGgLg-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "ndPsoczGgLg-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "dw9KqX7RZaF-module",
-                    "label": "LOGISTICS"
-                },
-                {
-                    "id": "dw9KqX7RZaF-section",
-                    "flex": 2,
-                    "label": "E.1 Stock Status Antimalarial Score"
-                },
-                {
-                    "id": "dw9KqX7RZaF-score",
-                    "label": ""
-                },
-                {
-                    "id": "dw9KqX7RZaF-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "dw9KqX7RZaF-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "dw9KqX7RZaF-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "dw9KqX7RZaF-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "dw9KqX7RZaF-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "grFy2phOgjH-module",
-                    "label": "LOGISTICS"
-                },
-                {
-                    "id": "grFy2phOgjH-section",
-                    "flex": 2,
-                    "label": "E.2 Stock Status Artesunate Injection Score"
-                },
-                {
-                    "id": "grFy2phOgjH-score",
-                    "label": ""
-                },
-                {
-                    "id": "grFy2phOgjH-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "grFy2phOgjH-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "grFy2phOgjH-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "grFy2phOgjH-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "grFy2phOgjH-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "zYbaJJVxj0u-module",
-                    "label": "LOGISTICS"
-                },
-                {
-                    "id": "zYbaJJVxj0u-section",
-                    "flex": 2,
-                    "label": "E.3 Stock Status for 2nd Line AL Score"
-                },
-                {
-                    "id": "zYbaJJVxj0u-score",
-                    "label": ""
-                },
-                {
-                    "id": "zYbaJJVxj0u-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "zYbaJJVxj0u-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "zYbaJJVxj0u-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "zYbaJJVxj0u-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "zYbaJJVxj0u-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "H631KimKXiO-module",
-                    "label": "LOGISTICS"
-                },
-                {
-                    "id": "H631KimKXiO-section",
-                    "flex": 2,
-                    "label": "F: (Averages) Commodities"
-                },
-                {
-                    "id": "H631KimKXiO-score",
-                    "label": ""
-                },
-                {
-                    "id": "H631KimKXiO-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "H631KimKXiO-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "H631KimKXiO-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "H631KimKXiO-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "H631KimKXiO-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "v9e7d1OxqAR-module",
-                    "label": "LOGISTICS"
-                },
-                {
-                    "id": "v9e7d1OxqAR-section",
-                    "flex": 2,
-                    "label": "G.1 Logistics - DQA Readiness"
-                },
-                {
-                    "id": "v9e7d1OxqAR-score",
-                    "label": ""
-                },
-                {
-                    "id": "v9e7d1OxqAR-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "v9e7d1OxqAR-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "v9e7d1OxqAR-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "v9e7d1OxqAR-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "v9e7d1OxqAR-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "qnmFhFD2CEU-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "qnmFhFD2CEU-section",
-                    "flex": 2,
-                    "label": "C.1 Staffing Level"
-                },
-                {
-                    "id": "qnmFhFD2CEU-score",
-                    "label": ""
-                },
-                {
-                    "id": "qnmFhFD2CEU-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "qnmFhFD2CEU-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "qnmFhFD2CEU-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "qnmFhFD2CEU-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "qnmFhFD2CEU-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "NFFyuCDoEgb-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "NFFyuCDoEgb-section",
-                    "flex": 2,
-                    "label": "C.2 Staff training level score"
-                },
-                {
-                    "id": "NFFyuCDoEgb-score",
-                    "label": ""
-                },
-                {
-                    "id": "NFFyuCDoEgb-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "NFFyuCDoEgb-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "NFFyuCDoEgb-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "NFFyuCDoEgb-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "NFFyuCDoEgb-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "u03kbpuLODz-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "u03kbpuLODz-section",
-                    "flex": 2,
-                    "label": "C.4 Laboratory set up safety"
-                },
-                {
-                    "id": "u03kbpuLODz-score",
-                    "label": ""
-                },
-                {
-                    "id": "u03kbpuLODz-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "u03kbpuLODz-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "u03kbpuLODz-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "u03kbpuLODz-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "u03kbpuLODz-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "ZmLclkQvbWe-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "ZmLclkQvbWe-section",
-                    "flex": 2,
-                    "label": "C.5 Essential equipment"
-                },
-                {
-                    "id": "ZmLclkQvbWe-score",
-                    "label": ""
-                },
-                {
-                    "id": "ZmLclkQvbWe-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "ZmLclkQvbWe-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "ZmLclkQvbWe-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "ZmLclkQvbWe-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "ZmLclkQvbWe-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "qkp11icJ0Wy-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "qkp11icJ0Wy-section",
-                    "flex": 2,
-                    "label": "C.6 Laboratory Consumables"
-                },
-                {
-                    "id": "qkp11icJ0Wy-score",
-                    "label": ""
-                },
-                {
-                    "id": "qkp11icJ0Wy-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "qkp11icJ0Wy-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "qkp11icJ0Wy-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "qkp11icJ0Wy-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "qkp11icJ0Wy-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "uOFuDylOqT8-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "uOFuDylOqT8-section",
-                    "flex": 2,
-                    "label": "C.7 Malaria Microscope Data Collection Tool"
-                },
-                {
-                    "id": "uOFuDylOqT8-score",
-                    "label": ""
-                },
-                {
-                    "id": "uOFuDylOqT8-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "uOFuDylOqT8-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "uOFuDylOqT8-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "uOFuDylOqT8-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "uOFuDylOqT8-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "TvGd69jc9sE-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "TvGd69jc9sE-section",
-                    "flex": 2,
-                    "label": "D.1 Specimen Collection"
-                },
-                {
-                    "id": "TvGd69jc9sE-score",
-                    "label": ""
-                },
-                {
-                    "id": "TvGd69jc9sE-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "TvGd69jc9sE-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "TvGd69jc9sE-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "TvGd69jc9sE-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "TvGd69jc9sE-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "fCJzwRQjMZd-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "fCJzwRQjMZd-section",
-                    "flex": 2,
-                    "label": "D.2 Fixation and Staining of Blood Films"
-                },
-                {
-                    "id": "fCJzwRQjMZd-score",
-                    "label": ""
-                },
-                {
-                    "id": "fCJzwRQjMZd-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "fCJzwRQjMZd-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "fCJzwRQjMZd-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "fCJzwRQjMZd-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "fCJzwRQjMZd-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "KVVMQjvi0Zu-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "KVVMQjvi0Zu-section",
-                    "flex": 2,
-                    "label": "D.3 Preparation of Stain"
-                },
-                {
-                    "id": "KVVMQjvi0Zu-score",
-                    "label": ""
-                },
-                {
-                    "id": "KVVMQjvi0Zu-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "KVVMQjvi0Zu-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "KVVMQjvi0Zu-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "KVVMQjvi0Zu-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "KVVMQjvi0Zu-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "GA2wwg0oRV2-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "GA2wwg0oRV2-section",
-                    "flex": 2,
-                    "label": "D.4 Slide Staining"
-                },
-                {
-                    "id": "GA2wwg0oRV2-score",
-                    "label": ""
-                },
-                {
-                    "id": "GA2wwg0oRV2-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "GA2wwg0oRV2-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "GA2wwg0oRV2-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "GA2wwg0oRV2-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "GA2wwg0oRV2-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "Nvbp9d27FBY-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "Nvbp9d27FBY-section",
-                    "flex": 2,
-                    "label": "D.5 Slide Examination"
-                },
-                {
-                    "id": "Nvbp9d27FBY-score",
-                    "label": ""
-                },
-                {
-                    "id": "Nvbp9d27FBY-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "Nvbp9d27FBY-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "Nvbp9d27FBY-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "Nvbp9d27FBY-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "Nvbp9d27FBY-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "aoG8K666YCY-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "aoG8K666YCY-section",
-                    "flex": 2,
-                    "label": "D.6 Slide Reading"
-                },
-                {
-                    "id": "aoG8K666YCY-score",
-                    "label": ""
-                },
-                {
-                    "id": "aoG8K666YCY-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "aoG8K666YCY-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "aoG8K666YCY-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "aoG8K666YCY-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "aoG8K666YCY-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "h0l8SjRYOkd-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "h0l8SjRYOkd-section",
-                    "flex": 2,
-                    "label": "D.7 Result Reporting"
-                },
-                {
-                    "id": "h0l8SjRYOkd-score",
-                    "label": ""
-                },
-                {
-                    "id": "h0l8SjRYOkd-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "h0l8SjRYOkd-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "h0l8SjRYOkd-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "h0l8SjRYOkd-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "h0l8SjRYOkd-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "OgrYlZxkdXg-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "OgrYlZxkdXg-section",
-                    "flex": 2,
-                    "label": "SUB-SCORE: D.8 Slide Cleaning & Microscope storage"
-                },
-                {
-                    "id": "OgrYlZxkdXg-score",
-                    "label": ""
-                },
-                {
-                    "id": "OgrYlZxkdXg-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "OgrYlZxkdXg-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "OgrYlZxkdXg-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "OgrYlZxkdXg-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "OgrYlZxkdXg-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "NsWjMLyIxfs-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "NsWjMLyIxfs-section",
-                    "flex": 2,
-                    "label": "E.1 Proficiency"
-                },
-                {
-                    "id": "NsWjMLyIxfs-score",
-                    "label": ""
-                },
-                {
-                    "id": "NsWjMLyIxfs-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "NsWjMLyIxfs-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "NsWjMLyIxfs-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "NsWjMLyIxfs-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "NsWjMLyIxfs-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "sSUAP3QFeaZ-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "sSUAP3QFeaZ-section",
-                    "flex": 2,
-                    "label": "E.2 Internal Quality Control (IQC)"
-                },
-                {
-                    "id": "sSUAP3QFeaZ-score",
-                    "label": ""
-                },
-                {
-                    "id": "sSUAP3QFeaZ-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "sSUAP3QFeaZ-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "sSUAP3QFeaZ-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "sSUAP3QFeaZ-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "sSUAP3QFeaZ-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "Ks89DOPBLpT-module",
-                    "label": "MICROSCOPY"
-                },
-                {
-                    "id": "Ks89DOPBLpT-section",
-                    "flex": 2,
-                    "label": "F1. Consistency check"
-                },
-                {
-                    "id": "Ks89DOPBLpT-score",
-                    "label": ""
-                },
-                {
-                    "id": "Ks89DOPBLpT-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "Ks89DOPBLpT-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "Ks89DOPBLpT-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "Ks89DOPBLpT-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "Ks89DOPBLpT-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "ABav53FQEet-module",
-                    "label": "mRDT"
-                },
-                {
-                    "id": "ABav53FQEet-section",
-                    "flex": 2,
-                    "label": "C.2 Staff Training"
-                },
-                {
-                    "id": "ABav53FQEet-score",
-                    "label": ""
-                },
-                {
-                    "id": "ABav53FQEet-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "ABav53FQEet-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "ABav53FQEet-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "ABav53FQEet-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "ABav53FQEet-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "DAYHjahImpm-module",
-                    "label": "mRDT"
-                },
-                {
-                    "id": "DAYHjahImpm-section",
-                    "flex": 2,
-                    "label": "C.3 Testing Site Availability"
-                },
-                {
-                    "id": "DAYHjahImpm-score",
-                    "label": ""
-                },
-                {
-                    "id": "DAYHjahImpm-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "DAYHjahImpm-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "DAYHjahImpm-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "DAYHjahImpm-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "DAYHjahImpm-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "S1ttcPAKGsg-module",
-                    "label": "mRDT"
-                },
-                {
-                    "id": "S1ttcPAKGsg-section",
-                    "flex": 2,
-                    "label": "C.4 mRDT Availability at the Testing Site"
-                },
-                {
-                    "id": "S1ttcPAKGsg-score",
-                    "label": ""
-                },
-                {
-                    "id": "S1ttcPAKGsg-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "S1ttcPAKGsg-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "S1ttcPAKGsg-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "S1ttcPAKGsg-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "S1ttcPAKGsg-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "IcHzti6PnEq-module",
-                    "label": "mRDT"
-                },
-                {
-                    "id": "IcHzti6PnEq-section",
-                    "flex": 2,
-                    "label": "C.5  Reference Material Score"
-                },
-                {
-                    "id": "IcHzti6PnEq-score",
-                    "label": ""
-                },
-                {
-                    "id": "IcHzti6PnEq-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "IcHzti6PnEq-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "IcHzti6PnEq-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "IcHzti6PnEq-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "IcHzti6PnEq-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "Hg8EoWp2WoA-module",
-                    "label": "mRDT"
-                },
-                {
-                    "id": "Hg8EoWp2WoA-section",
-                    "flex": 2,
-                    "label": "C.6 mRDT Data Collection Tools Readiness Score"
-                },
-                {
-                    "id": "Hg8EoWp2WoA-score",
-                    "label": ""
-                },
-                {
-                    "id": "Hg8EoWp2WoA-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "Hg8EoWp2WoA-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "Hg8EoWp2WoA-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "Hg8EoWp2WoA-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "Hg8EoWp2WoA-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "hpFPORxxzOx-module",
-                    "label": "mRDT"
-                },
-                {
-                    "id": "hpFPORxxzOx-section",
-                    "flex": 2,
-                    "label": "D: mRDT Observation Score"
-                },
-                {
-                    "id": "hpFPORxxzOx-score",
-                    "label": ""
-                },
-                {
-                    "id": "hpFPORxxzOx-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "hpFPORxxzOx-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "hpFPORxxzOx-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "hpFPORxxzOx-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "hpFPORxxzOx-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "lRCFQWIaY3u-module",
-                    "label": "mRDT"
-                },
-                {
-                    "id": "lRCFQWIaY3u-section",
-                    "flex": 2,
-                    "label": "E: Consistency Check Score"
-                },
-                {
-                    "id": "lRCFQWIaY3u-score",
-                    "label": ""
-                },
-                {
-                    "id": "lRCFQWIaY3u-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "lRCFQWIaY3u-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "lRCFQWIaY3u-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "lRCFQWIaY3u-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "lRCFQWIaY3u-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "Y0O1kccOJbw-module",
-                    "label": "mRDT"
-                },
-                {
-                    "id": "Y0O1kccOJbw-section",
-                    "flex": 2,
-                    "label": "F.1 mRDT Retaining System Score"
-                },
-                {
-                    "id": "Y0O1kccOJbw-score",
-                    "label": ""
-                },
-                {
-                    "id": "Y0O1kccOJbw-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "Y0O1kccOJbw-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "Y0O1kccOJbw-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "Y0O1kccOJbw-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "Y0O1kccOJbw-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "KpF0tiMDy6p-module",
-                    "label": "OPD"
-                },
-                {
-                    "id": "KpF0tiMDy6p-section",
-                    "flex": 2,
-                    "label": "C.1 Staff Training"
-                },
-                {
-                    "id": "KpF0tiMDy6p-score",
-                    "label": ""
-                },
-                {
-                    "id": "KpF0tiMDy6p-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "KpF0tiMDy6p-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "KpF0tiMDy6p-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "KpF0tiMDy6p-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "KpF0tiMDy6p-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "PdaiwcokXoZ-module",
-                    "label": "OPD"
-                },
-                {
-                    "id": "PdaiwcokXoZ-section",
-                    "flex": 2,
-                    "label": "C.2 OPD Reference Material Scores"
-                },
-                {
-                    "id": "PdaiwcokXoZ-score",
-                    "label": ""
-                },
-                {
-                    "id": "PdaiwcokXoZ-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "PdaiwcokXoZ-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "PdaiwcokXoZ-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "PdaiwcokXoZ-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "PdaiwcokXoZ-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "AQscOqiCQj9-module",
-                    "label": "OPD"
-                },
-                {
-                    "id": "AQscOqiCQj9-section",
-                    "flex": 2,
-                    "label": "C.3 Tools and Equipment Score"
-                },
-                {
-                    "id": "AQscOqiCQj9-score",
-                    "label": ""
-                },
-                {
-                    "id": "AQscOqiCQj9-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "AQscOqiCQj9-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "AQscOqiCQj9-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "AQscOqiCQj9-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "AQscOqiCQj9-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "OO7p2qxP5EN-module",
-                    "label": "OPD"
-                },
-                {
-                    "id": "OO7p2qxP5EN-section",
-                    "flex": 2,
-                    "label": "D.1 General Clinical History"
-                },
-                {
-                    "id": "OO7p2qxP5EN-score",
-                    "label": ""
-                },
-                {
-                    "id": "OO7p2qxP5EN-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "OO7p2qxP5EN-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "OO7p2qxP5EN-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "OO7p2qxP5EN-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "OO7p2qxP5EN-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "cS0YwfeMbVE-module",
-                    "label": "OPD"
-                },
-                {
-                    "id": "cS0YwfeMbVE-section",
-                    "flex": 2,
-                    "label": "D.2 Signs & Symptoms of Severe Malaria"
-                },
-                {
-                    "id": "cS0YwfeMbVE-score",
-                    "label": ""
-                },
-                {
-                    "id": "cS0YwfeMbVE-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "cS0YwfeMbVE-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "cS0YwfeMbVE-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "cS0YwfeMbVE-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "cS0YwfeMbVE-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "zCUyTyXKOvo-module",
-                    "label": "OPD"
-                },
-                {
-                    "id": "zCUyTyXKOvo-section",
-                    "flex": 2,
-                    "label": "D.3 Physical Examination"
-                },
-                {
-                    "id": "zCUyTyXKOvo-score",
-                    "label": ""
-                },
-                {
-                    "id": "zCUyTyXKOvo-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "zCUyTyXKOvo-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "zCUyTyXKOvo-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "zCUyTyXKOvo-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "zCUyTyXKOvo-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "YSXIqEQPexv-module",
-                    "label": "OPD"
-                },
-                {
-                    "id": "YSXIqEQPexv-section",
-                    "flex": 2,
-                    "label": "D.4 Diagnosis"
-                },
-                {
-                    "id": "YSXIqEQPexv-score",
-                    "label": ""
-                },
-                {
-                    "id": "YSXIqEQPexv-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "YSXIqEQPexv-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "YSXIqEQPexv-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "YSXIqEQPexv-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "YSXIqEQPexv-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "h973oysgA5O-module",
-                    "label": "OPD"
-                },
-                {
-                    "id": "h973oysgA5O-section",
-                    "flex": 2,
-                    "label": "D.5(a) Treatment Antimalaria Drug"
-                },
-                {
-                    "id": "h973oysgA5O-score",
-                    "label": ""
-                },
-                {
-                    "id": "h973oysgA5O-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "h973oysgA5O-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "h973oysgA5O-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "h973oysgA5O-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "h973oysgA5O-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "GijwrwsvdQF-module",
-                    "label": "OPD"
-                },
-                {
-                    "id": "GijwrwsvdQF-section",
-                    "flex": 2,
-                    "label": "D.5(b) Treatment Antibiotics Drug"
-                },
-                {
-                    "id": "GijwrwsvdQF-score",
-                    "label": ""
-                },
-                {
-                    "id": "GijwrwsvdQF-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "GijwrwsvdQF-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "GijwrwsvdQF-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "GijwrwsvdQF-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "GijwrwsvdQF-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "szXMw6OPoJl-module",
-                    "label": "OPD"
-                },
-                {
-                    "id": "szXMw6OPoJl-section",
-                    "flex": 2,
-                    "label": "D.5(c) Treatment Using IMCI Guidelines"
-                },
-                {
-                    "id": "szXMw6OPoJl-score",
-                    "label": ""
-                },
-                {
-                    "id": "szXMw6OPoJl-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "szXMw6OPoJl-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "szXMw6OPoJl-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "szXMw6OPoJl-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "szXMw6OPoJl-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "sNF8kHTxC12-module",
-                    "label": "OPD"
-                },
-                {
-                    "id": "sNF8kHTxC12-section",
-                    "flex": 2,
-                    "label": "D.6 (a) Communication Uncomplicated Disease"
-                },
-                {
-                    "id": "sNF8kHTxC12-score",
-                    "label": ""
-                },
-                {
-                    "id": "sNF8kHTxC12-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "sNF8kHTxC12-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "sNF8kHTxC12-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "sNF8kHTxC12-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "sNF8kHTxC12-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "bRlnt926HFa-module",
-                    "label": "OPD"
-                },
-                {
-                    "id": "bRlnt926HFa-section",
-                    "flex": 2,
-                    "label": "D.6 (b) Communication Severe Disease"
-                },
-                {
-                    "id": "bRlnt926HFa-score",
-                    "label": ""
-                },
-                {
-                    "id": "bRlnt926HFa-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "bRlnt926HFa-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "bRlnt926HFa-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "bRlnt926HFa-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "bRlnt926HFa-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "hlM0vQjydhe-module",
-                    "label": "OPD"
-                },
-                {
-                    "id": "hlM0vQjydhe-section",
-                    "flex": 2,
-                    "label": "E: Artesunate Administration"
-                },
-                {
-                    "id": "hlM0vQjydhe-score",
-                    "label": ""
-                },
-                {
-                    "id": "hlM0vQjydhe-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "hlM0vQjydhe-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "hlM0vQjydhe-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "hlM0vQjydhe-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "hlM0vQjydhe-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "q0XpK1lyQdO-module",
-                    "label": "OPD"
-                },
-                {
-                    "id": "q0XpK1lyQdO-section",
-                    "flex": 2,
-                    "label": "F: Client Satisfaction"
-                },
-                {
-                    "id": "q0XpK1lyQdO-score",
-                    "label": ""
-                },
-                {
-                    "id": "q0XpK1lyQdO-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "q0XpK1lyQdO-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "q0XpK1lyQdO-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "q0XpK1lyQdO-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "q0XpK1lyQdO-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "zGLprd14k9W-module",
-                    "label": "SME"
-                },
-                {
-                    "id": "zGLprd14k9W-section",
-                    "flex": 2,
-                    "label": "C.1 MEEDS/MCN focal person score"
-                },
-                {
-                    "id": "zGLprd14k9W-score",
-                    "label": ""
-                },
-                {
-                    "id": "zGLprd14k9W-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "zGLprd14k9W-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "zGLprd14k9W-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "zGLprd14k9W-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "zGLprd14k9W-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "TM4QdgqCota-module",
-                    "label": "SME"
-                },
-                {
-                    "id": "TM4QdgqCota-section",
-                    "flex": 2,
-                    "label": "C.2 MEEDS/MCN staff training readiness score"
-                },
-                {
-                    "id": "TM4QdgqCota-score",
-                    "label": ""
-                },
-                {
-                    "id": "TM4QdgqCota-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "TM4QdgqCota-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "TM4QdgqCota-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "TM4QdgqCota-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "TM4QdgqCota-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "BYfyYYFSEUF-module",
-                    "label": "SME"
-                },
-                {
-                    "id": "BYfyYYFSEUF-section",
-                    "flex": 2,
-                    "label": "C.3 Malaria Data collection tools availability score"
-                },
-                {
-                    "id": "BYfyYYFSEUF-score",
-                    "label": ""
-                },
-                {
-                    "id": "BYfyYYFSEUF-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "BYfyYYFSEUF-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "BYfyYYFSEUF-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "BYfyYYFSEUF-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "BYfyYYFSEUF-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "XVH9ejpQdVt-module",
-                    "label": "SME"
-                },
-                {
-                    "id": "XVH9ejpQdVt-section",
-                    "flex": 2,
-                    "label": "D.1 Average MCR completeness filling score (average of each row %)"
-                },
-                {
-                    "id": "XVH9ejpQdVt-score",
-                    "label": ""
-                },
-                {
-                    "id": "XVH9ejpQdVt-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "XVH9ejpQdVt-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "XVH9ejpQdVt-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "XVH9ejpQdVt-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "XVH9ejpQdVt-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "moAim7YimYq-module",
-                    "label": "SME"
-                },
-                {
-                    "id": "moAim7YimYq-section",
-                    "flex": 2,
-                    "label": "D.2 Sum of total for raw available data/days"
-                },
-                {
-                    "id": "moAim7YimYq-score",
-                    "label": ""
-                },
-                {
-                    "id": "moAim7YimYq-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "moAim7YimYq-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "moAim7YimYq-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "moAim7YimYq-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "moAim7YimYq-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "ioiSbiKct6c-module",
-                    "label": "SME"
-                },
-                {
-                    "id": "ioiSbiKct6c-section",
-                    "flex": 2,
-                    "label": "D.3 Verification score"
-                },
-                {
-                    "id": "ioiSbiKct6c-score",
-                    "label": ""
-                },
-                {
-                    "id": "ioiSbiKct6c-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "ioiSbiKct6c-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "ioiSbiKct6c-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "ioiSbiKct6c-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "ioiSbiKct6c-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "CI27R1jh8Mm-module",
-                    "label": "SME"
-                },
-                {
-                    "id": "CI27R1jh8Mm-section",
-                    "flex": 2,
-                    "label": "D.4 MEEDS Timeline Score"
-                },
-                {
-                    "id": "CI27R1jh8Mm-score",
-                    "label": ""
-                },
-                {
-                    "id": "CI27R1jh8Mm-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "CI27R1jh8Mm-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "CI27R1jh8Mm-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "CI27R1jh8Mm-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "CI27R1jh8Mm-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "WG5xmG61LEx-module",
-                    "label": "SME"
-                },
-                {
-                    "id": "WG5xmG61LEx-section",
-                    "flex": 2,
-                    "label": "D.5 Consistence in dates of MEEDS system and MEEDS booklet reporting date score"
-                },
-                {
-                    "id": "WG5xmG61LEx-score",
-                    "label": ""
-                },
-                {
-                    "id": "WG5xmG61LEx-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "WG5xmG61LEx-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "WG5xmG61LEx-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "WG5xmG61LEx-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "WG5xmG61LEx-timeFrame",
-                    "label": ""
-                }
-            ],
-            [{
-                    "id": "Mn0221J0YZf-module",
-                    "label": "SME"
-                },
-                {
-                    "id": "Mn0221J0YZf-section",
-                    "flex": 2,
-                    "label": "D: MCN/MEEDS DQA Score"
-                },
-                {
-                    "id": "Mn0221J0YZf-score",
-                    "label": ""
-                },
-                {
-                    "id": "Mn0221J0YZf-impediment",
-                    "label": ""
-                },
-                {
-                    "id": "Mn0221J0YZf-actionPlan",
-                    "label": ""
-                },
-                {
-                    "id": "Mn0221J0YZf-impedimentAction",
-                    "label": ""
-                },
-                {
-                    "id": "Mn0221J0YZf-responsiblePerson",
-                    "label": ""
-                },
-                {
-                    "id": "Mn0221J0YZf-timeFrame",
-                    "label": ""
-                }
-            ]
+  "sections": [
+    {
+      "title": "",
+      "inputRows": [
+        [
+          {
+            "id": "",
+            "label": "Date of Visit"
+          },
+          {
+            "id": "eventDate",
+            "label": ""
+          }
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "inputRows": [
+        [
+          {
+            "id": "",
+            "label": "Checklist/Module"
+          },
+          {
+            "id": "",
+            "flex": 2,
+            "label": "Section need improvement plan"
+          },
+          {
+            "id": "",
+            "label": "Section score"
+          },
+          {
+            "id": "",
+            "label": "Describe the impediment"
+          },
+          {
+            "id": "",
+            "label": "What immediate action was done?"
+          },
+          {
+            "id": "",
+            "label": "What is the action plan?"
+          },
+          {
+            "id": "",
+            "label": "Responsible person"
+          },
+          {
+            "id": "",
+            "label": "Time frame"
+          }
         ],
-        "insttuction": ""
-    }],
-    "isQipForm": true,
-    "minimumScore": 70,
-    "programStage": "MyiYgmWFC1n",
-    "qipDataSources": [
-        "kBa5O5ibLM7",
-        "F0VAhn3yWR4",
-        "chMSywu8dXD",
-        "UykZvAVKRb2",
-        "Ye0F1JADZrB",
-        "wkUnlxTP6pz",
-        "ypdmphAw65Q"
-    ],
-    "customDataElements": [{
-            "id": "impediment",
-            "options": [],
-            "valueType": "LONG_TEXT"
-        },
-        {
-            "id": "impedimentAction",
-            "options": [],
-            "valueType": "TEXT"
-        },
-        {
-            "id": "actionPlan",
-            "options": [],
-            "valueType": "TEXT"
-        },
-        {
-            "id": "responsiblePerson",
-            "options": [],
-            "valueType": "TEXT"
-        },
-        {
-            "id": "timeFrame",
-            "options": [],
-            "valueType": "TEXT"
-        }
-    ]
+        [
+          {
+            "id": "fM92nIY7CPA-module",
+            "label": "ANC"
+          },
+          {
+            "id": "fM92nIY7CPA-section",
+            "flex": 2,
+            "label": "D.1 Staff Training"
+          },
+          {
+            "id": "fM92nIY7CPA-score",
+            "label": ""
+          },
+          {
+            "id": "fM92nIY7CPA-impediment",
+            "label": ""
+          },
+          {
+            "id": "fM92nIY7CPA-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "fM92nIY7CPA-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "fM92nIY7CPA-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "fM92nIY7CPA-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "pJPEmJ3i2x7-module",
+            "label": "ANC"
+          },
+          {
+            "id": "pJPEmJ3i2x7-section",
+            "flex": 2,
+            "label": "D.2 ANC Reference Material Score"
+          },
+          {
+            "id": "pJPEmJ3i2x7-score",
+            "label": ""
+          },
+          {
+            "id": "pJPEmJ3i2x7-impediment",
+            "label": ""
+          },
+          {
+            "id": "pJPEmJ3i2x7-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "pJPEmJ3i2x7-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "pJPEmJ3i2x7-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "pJPEmJ3i2x7-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "JDdkauaZrJA-module",
+            "label": "ANC"
+          },
+          {
+            "id": "JDdkauaZrJA-section",
+            "flex": 2,
+            "label": "D.3 ANC Data Collection Tools Readiness"
+          },
+          {
+            "id": "JDdkauaZrJA-score",
+            "label": ""
+          },
+          {
+            "id": "JDdkauaZrJA-impediment",
+            "label": ""
+          },
+          {
+            "id": "JDdkauaZrJA-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "JDdkauaZrJA-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "JDdkauaZrJA-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "JDdkauaZrJA-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "D38ujWKIb3Y-module",
+            "label": "ANC"
+          },
+          {
+            "id": "D38ujWKIb3Y-section",
+            "flex": 2,
+            "label": "D.4 Equipment Availability and Functionality"
+          },
+          {
+            "id": "D38ujWKIb3Y-score",
+            "label": ""
+          },
+          {
+            "id": "D38ujWKIb3Y-impediment",
+            "label": ""
+          },
+          {
+            "id": "D38ujWKIb3Y-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "D38ujWKIb3Y-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "D38ujWKIb3Y-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "D38ujWKIb3Y-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "TEej36nNtuQ-module",
+            "label": "ANC"
+          },
+          {
+            "id": "TEej36nNtuQ-section",
+            "flex": 2,
+            "label": "E.2 Clinical History & Physical Exam"
+          },
+          {
+            "id": "TEej36nNtuQ-score",
+            "label": ""
+          },
+          {
+            "id": "TEej36nNtuQ-impediment",
+            "label": ""
+          },
+          {
+            "id": "TEej36nNtuQ-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "TEej36nNtuQ-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "TEej36nNtuQ-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "TEej36nNtuQ-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "XBK9PanEPBL-module",
+            "label": "ANC"
+          },
+          {
+            "id": "XBK9PanEPBL-section",
+            "flex": 2,
+            "label": "E.3 Assessment Danger Signs"
+          },
+          {
+            "id": "XBK9PanEPBL-score",
+            "label": ""
+          },
+          {
+            "id": "XBK9PanEPBL-impediment",
+            "label": ""
+          },
+          {
+            "id": "XBK9PanEPBL-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "XBK9PanEPBL-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "XBK9PanEPBL-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "XBK9PanEPBL-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "db4fUvHG3Jy-module",
+            "label": "ANC"
+          },
+          {
+            "id": "db4fUvHG3Jy-section",
+            "flex": 2,
+            "label": "E.4 Preventive Services"
+          },
+          {
+            "id": "db4fUvHG3Jy-score",
+            "label": ""
+          },
+          {
+            "id": "db4fUvHG3Jy-impediment",
+            "label": ""
+          },
+          {
+            "id": "db4fUvHG3Jy-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "db4fUvHG3Jy-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "db4fUvHG3Jy-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "db4fUvHG3Jy-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "U5Hfim67OSK-module",
+            "label": "ANC"
+          },
+          {
+            "id": "U5Hfim67OSK-section",
+            "flex": 2,
+            "label": "E.5 Diagnosis & Treatment"
+          },
+          {
+            "id": "U5Hfim67OSK-score",
+            "label": ""
+          },
+          {
+            "id": "U5Hfim67OSK-impediment",
+            "label": ""
+          },
+          {
+            "id": "U5Hfim67OSK-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "U5Hfim67OSK-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "U5Hfim67OSK-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "U5Hfim67OSK-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "wRkZ6rkf7pa-module",
+            "label": "ANC"
+          },
+          {
+            "id": "wRkZ6rkf7pa-section",
+            "flex": 2,
+            "label": "E.6 Laboratory  Testing"
+          },
+          {
+            "id": "wRkZ6rkf7pa-score",
+            "label": ""
+          },
+          {
+            "id": "wRkZ6rkf7pa-impediment",
+            "label": ""
+          },
+          {
+            "id": "wRkZ6rkf7pa-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "wRkZ6rkf7pa-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "wRkZ6rkf7pa-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "wRkZ6rkf7pa-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "NqmXiDMnnIz-module",
+            "label": "ANC"
+          },
+          {
+            "id": "NqmXiDMnnIz-section",
+            "flex": 2,
+            "label": "E.7 Uncomplicated Malaria Treat"
+          },
+          {
+            "id": "NqmXiDMnnIz-score",
+            "label": ""
+          },
+          {
+            "id": "NqmXiDMnnIz-impediment",
+            "label": ""
+          },
+          {
+            "id": "NqmXiDMnnIz-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "NqmXiDMnnIz-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "NqmXiDMnnIz-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "NqmXiDMnnIz-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "XFLJ3b7mgSb-module",
+            "label": "ANC"
+          },
+          {
+            "id": "XFLJ3b7mgSb-section",
+            "flex": 2,
+            "label": "E.8 Severe Malaria Treatment"
+          },
+          {
+            "id": "XFLJ3b7mgSb-score",
+            "label": ""
+          },
+          {
+            "id": "XFLJ3b7mgSb-impediment",
+            "label": ""
+          },
+          {
+            "id": "XFLJ3b7mgSb-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "XFLJ3b7mgSb-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "XFLJ3b7mgSb-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "XFLJ3b7mgSb-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "hI5m6s8EcWf-module",
+            "label": "ANC"
+          },
+          {
+            "id": "hI5m6s8EcWf-section",
+            "flex": 2,
+            "label": "E.9 Counselling and Communication"
+          },
+          {
+            "id": "hI5m6s8EcWf-score",
+            "label": ""
+          },
+          {
+            "id": "hI5m6s8EcWf-impediment",
+            "label": ""
+          },
+          {
+            "id": "hI5m6s8EcWf-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "hI5m6s8EcWf-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "hI5m6s8EcWf-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "hI5m6s8EcWf-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "RjgvuNldbRG-module",
+            "label": "ANC"
+          },
+          {
+            "id": "RjgvuNldbRG-section",
+            "flex": 2,
+            "label": "F:Maternal Health Education Score"
+          },
+          {
+            "id": "RjgvuNldbRG-score",
+            "label": ""
+          },
+          {
+            "id": "RjgvuNldbRG-impediment",
+            "label": ""
+          },
+          {
+            "id": "RjgvuNldbRG-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "RjgvuNldbRG-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "RjgvuNldbRG-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "RjgvuNldbRG-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "euyqmLd7gFj-module",
+            "label": "ANC"
+          },
+          {
+            "id": "euyqmLd7gFj-section",
+            "flex": 2,
+            "label": "G: Client Satisfication"
+          },
+          {
+            "id": "euyqmLd7gFj-score",
+            "label": ""
+          },
+          {
+            "id": "euyqmLd7gFj-impediment",
+            "label": ""
+          },
+          {
+            "id": "euyqmLd7gFj-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "euyqmLd7gFj-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "euyqmLd7gFj-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "euyqmLd7gFj-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "Rt7LrUDN4O5-module",
+            "label": "IPD"
+          },
+          {
+            "id": "Rt7LrUDN4O5-section",
+            "flex": 2,
+            "label": "C.1 Staff Training"
+          },
+          {
+            "id": "Rt7LrUDN4O5-score",
+            "label": ""
+          },
+          {
+            "id": "Rt7LrUDN4O5-impediment",
+            "label": ""
+          },
+          {
+            "id": "Rt7LrUDN4O5-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "Rt7LrUDN4O5-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "Rt7LrUDN4O5-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "Rt7LrUDN4O5-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "MaleWhFjQVx-module",
+            "label": "IPD"
+          },
+          {
+            "id": "MaleWhFjQVx-section",
+            "flex": 2,
+            "label": "C.2 IPD Reference Material Scores"
+          },
+          {
+            "id": "MaleWhFjQVx-score",
+            "label": ""
+          },
+          {
+            "id": "MaleWhFjQVx-impediment",
+            "label": ""
+          },
+          {
+            "id": "MaleWhFjQVx-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "MaleWhFjQVx-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "MaleWhFjQVx-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "MaleWhFjQVx-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "v2MaY8VwmtO-module",
+            "label": "IPD"
+          },
+          {
+            "id": "v2MaY8VwmtO-section",
+            "flex": 2,
+            "label": "C.3 Materials and Furniture Score"
+          },
+          {
+            "id": "v2MaY8VwmtO-score",
+            "label": ""
+          },
+          {
+            "id": "v2MaY8VwmtO-impediment",
+            "label": ""
+          },
+          {
+            "id": "v2MaY8VwmtO-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "v2MaY8VwmtO-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "v2MaY8VwmtO-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "v2MaY8VwmtO-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "lZplMvmG8zF-module",
+            "label": "IPD"
+          },
+          {
+            "id": "lZplMvmG8zF-section",
+            "flex": 2,
+            "label": "C.4 Emergence Care Medicines Score"
+          },
+          {
+            "id": "lZplMvmG8zF-score",
+            "label": ""
+          },
+          {
+            "id": "lZplMvmG8zF-impediment",
+            "label": ""
+          },
+          {
+            "id": "lZplMvmG8zF-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "lZplMvmG8zF-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "lZplMvmG8zF-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "lZplMvmG8zF-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "okP2GftSjOU-module",
+            "label": "IPD"
+          },
+          {
+            "id": "okP2GftSjOU-section",
+            "flex": 2,
+            "label": "C.5 Essential Equipment and Supplies"
+          },
+          {
+            "id": "okP2GftSjOU-score",
+            "label": ""
+          },
+          {
+            "id": "okP2GftSjOU-impediment",
+            "label": ""
+          },
+          {
+            "id": "okP2GftSjOU-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "okP2GftSjOU-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "okP2GftSjOU-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "okP2GftSjOU-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "yOcVHuNxJi2-module",
+            "label": "IPD"
+          },
+          {
+            "id": "yOcVHuNxJi2-section",
+            "flex": 2,
+            "label": "C.6 IPD Data Collection HMIS Tools score"
+          },
+          {
+            "id": "yOcVHuNxJi2-score",
+            "label": ""
+          },
+          {
+            "id": "yOcVHuNxJi2-impediment",
+            "label": ""
+          },
+          {
+            "id": "yOcVHuNxJi2-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "yOcVHuNxJi2-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "yOcVHuNxJi2-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "yOcVHuNxJi2-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "jmrg0VTlALb-module",
+            "label": "IPD"
+          },
+          {
+            "id": "jmrg0VTlALb-section",
+            "flex": 2,
+            "label": "D.1 Artesunate Administration"
+          },
+          {
+            "id": "jmrg0VTlALb-score",
+            "label": ""
+          },
+          {
+            "id": "jmrg0VTlALb-impediment",
+            "label": ""
+          },
+          {
+            "id": "jmrg0VTlALb-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "jmrg0VTlALb-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "jmrg0VTlALb-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "jmrg0VTlALb-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "k6Ko9J8zKGa-module",
+            "label": "LOGISTICS"
+          },
+          {
+            "id": "k6Ko9J8zKGa-section",
+            "flex": 2,
+            "label": "C.1 Staffing Level Score"
+          },
+          {
+            "id": "k6Ko9J8zKGa-score",
+            "label": ""
+          },
+          {
+            "id": "k6Ko9J8zKGa-impediment",
+            "label": ""
+          },
+          {
+            "id": "k6Ko9J8zKGa-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "k6Ko9J8zKGa-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "k6Ko9J8zKGa-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "k6Ko9J8zKGa-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "eHLu7SiMdoN-module",
+            "label": "LOGISTICS"
+          },
+          {
+            "id": "eHLu7SiMdoN-section",
+            "flex": 2,
+            "label": "C.2 Proportion of staff trained on electronic Logistics Management System (eLMIS)"
+          },
+          {
+            "id": "eHLu7SiMdoN-score",
+            "label": ""
+          },
+          {
+            "id": "eHLu7SiMdoN-impediment",
+            "label": ""
+          },
+          {
+            "id": "eHLu7SiMdoN-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "eHLu7SiMdoN-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "eHLu7SiMdoN-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "eHLu7SiMdoN-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "mXWYjZLL9GW-module",
+            "label": "LOGISTICS"
+          },
+          {
+            "id": "mXWYjZLL9GW-section",
+            "flex": 2,
+            "label": "C.3 Reference Material Scores"
+          },
+          {
+            "id": "mXWYjZLL9GW-score",
+            "label": ""
+          },
+          {
+            "id": "mXWYjZLL9GW-impediment",
+            "label": ""
+          },
+          {
+            "id": "mXWYjZLL9GW-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "mXWYjZLL9GW-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "mXWYjZLL9GW-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "mXWYjZLL9GW-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "f4fEGNSz2Y7-module",
+            "label": "LOGISTICS"
+          },
+          {
+            "id": "f4fEGNSz2Y7-section",
+            "flex": 2,
+            "label": "C.4: Logistic Health Management Information System Tools Availability"
+          },
+          {
+            "id": "f4fEGNSz2Y7-score",
+            "label": ""
+          },
+          {
+            "id": "f4fEGNSz2Y7-impediment",
+            "label": ""
+          },
+          {
+            "id": "f4fEGNSz2Y7-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "f4fEGNSz2Y7-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "f4fEGNSz2Y7-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "f4fEGNSz2Y7-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "VXhPFskKW1x-module",
+            "label": "LOGISTICS"
+          },
+          {
+            "id": "VXhPFskKW1x-section",
+            "flex": 2,
+            "label": "C.5 Essential Equipment -Store Room"
+          },
+          {
+            "id": "VXhPFskKW1x-score",
+            "label": ""
+          },
+          {
+            "id": "VXhPFskKW1x-impediment",
+            "label": ""
+          },
+          {
+            "id": "VXhPFskKW1x-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "VXhPFskKW1x-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "VXhPFskKW1x-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "VXhPFskKW1x-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "bvg9IyaczYj-module",
+            "label": "LOGISTICS"
+          },
+          {
+            "id": "bvg9IyaczYj-section",
+            "flex": 2,
+            "label": "C.6 Essential Equipment -Injection Room"
+          },
+          {
+            "id": "bvg9IyaczYj-score",
+            "label": ""
+          },
+          {
+            "id": "bvg9IyaczYj-impediment",
+            "label": ""
+          },
+          {
+            "id": "bvg9IyaczYj-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "bvg9IyaczYj-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "bvg9IyaczYj-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "bvg9IyaczYj-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "UjQaj7e6Tu6-module",
+            "label": "LOGISTICS"
+          },
+          {
+            "id": "UjQaj7e6Tu6-section",
+            "flex": 2,
+            "label": "C.7 Essential Equipment -Dispensing Site/Area"
+          },
+          {
+            "id": "UjQaj7e6Tu6-score",
+            "label": ""
+          },
+          {
+            "id": "UjQaj7e6Tu6-impediment",
+            "label": ""
+          },
+          {
+            "id": "UjQaj7e6Tu6-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "UjQaj7e6Tu6-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "UjQaj7e6Tu6-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "UjQaj7e6Tu6-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "xXIS7DtTiCn-module",
+            "label": "LOGISTICS"
+          },
+          {
+            "id": "xXIS7DtTiCn-section",
+            "flex": 2,
+            "label": "C.8 General mRDT storage conditions scores"
+          },
+          {
+            "id": "xXIS7DtTiCn-score",
+            "label": ""
+          },
+          {
+            "id": "xXIS7DtTiCn-impediment",
+            "label": ""
+          },
+          {
+            "id": "xXIS7DtTiCn-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "xXIS7DtTiCn-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "xXIS7DtTiCn-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "xXIS7DtTiCn-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "ndPsoczGgLg-module",
+            "label": "LOGISTICS"
+          },
+          {
+            "id": "ndPsoczGgLg-section",
+            "flex": 2,
+            "label": "D: Overall Dispensing Observations"
+          },
+          {
+            "id": "ndPsoczGgLg-score",
+            "label": ""
+          },
+          {
+            "id": "ndPsoczGgLg-impediment",
+            "label": ""
+          },
+          {
+            "id": "ndPsoczGgLg-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "ndPsoczGgLg-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "ndPsoczGgLg-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "ndPsoczGgLg-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "dw9KqX7RZaF-module",
+            "label": "LOGISTICS"
+          },
+          {
+            "id": "dw9KqX7RZaF-section",
+            "flex": 2,
+            "label": "E.1 Stock Status Antimalarial Score"
+          },
+          {
+            "id": "dw9KqX7RZaF-score",
+            "label": ""
+          },
+          {
+            "id": "dw9KqX7RZaF-impediment",
+            "label": ""
+          },
+          {
+            "id": "dw9KqX7RZaF-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "dw9KqX7RZaF-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "dw9KqX7RZaF-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "dw9KqX7RZaF-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "grFy2phOgjH-module",
+            "label": "LOGISTICS"
+          },
+          {
+            "id": "grFy2phOgjH-section",
+            "flex": 2,
+            "label": "E.2 Stock Status Artesunate Injection Score"
+          },
+          {
+            "id": "grFy2phOgjH-score",
+            "label": ""
+          },
+          {
+            "id": "grFy2phOgjH-impediment",
+            "label": ""
+          },
+          {
+            "id": "grFy2phOgjH-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "grFy2phOgjH-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "grFy2phOgjH-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "grFy2phOgjH-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "zYbaJJVxj0u-module",
+            "label": "LOGISTICS"
+          },
+          {
+            "id": "zYbaJJVxj0u-section",
+            "flex": 2,
+            "label": "E.3 Stock Status for 2nd Line AL Score"
+          },
+          {
+            "id": "zYbaJJVxj0u-score",
+            "label": ""
+          },
+          {
+            "id": "zYbaJJVxj0u-impediment",
+            "label": ""
+          },
+          {
+            "id": "zYbaJJVxj0u-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "zYbaJJVxj0u-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "zYbaJJVxj0u-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "zYbaJJVxj0u-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "H631KimKXiO-module",
+            "label": "LOGISTICS"
+          },
+          {
+            "id": "H631KimKXiO-section",
+            "flex": 2,
+            "label": "F: (Averages) Commodities"
+          },
+          {
+            "id": "H631KimKXiO-score",
+            "label": ""
+          },
+          {
+            "id": "H631KimKXiO-impediment",
+            "label": ""
+          },
+          {
+            "id": "H631KimKXiO-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "H631KimKXiO-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "H631KimKXiO-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "H631KimKXiO-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "v9e7d1OxqAR-module",
+            "label": "LOGISTICS"
+          },
+          {
+            "id": "v9e7d1OxqAR-section",
+            "flex": 2,
+            "label": "G.1 Logistics - DQA Readiness"
+          },
+          {
+            "id": "v9e7d1OxqAR-score",
+            "label": ""
+          },
+          {
+            "id": "v9e7d1OxqAR-impediment",
+            "label": ""
+          },
+          {
+            "id": "v9e7d1OxqAR-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "v9e7d1OxqAR-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "v9e7d1OxqAR-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "v9e7d1OxqAR-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "qnmFhFD2CEU-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "qnmFhFD2CEU-section",
+            "flex": 2,
+            "label": "C.1 Staffing Level"
+          },
+          {
+            "id": "qnmFhFD2CEU-score",
+            "label": ""
+          },
+          {
+            "id": "qnmFhFD2CEU-impediment",
+            "label": ""
+          },
+          {
+            "id": "qnmFhFD2CEU-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "qnmFhFD2CEU-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "qnmFhFD2CEU-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "qnmFhFD2CEU-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "NFFyuCDoEgb-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "NFFyuCDoEgb-section",
+            "flex": 2,
+            "label": "C.2 Staff training level score"
+          },
+          {
+            "id": "NFFyuCDoEgb-score",
+            "label": ""
+          },
+          {
+            "id": "NFFyuCDoEgb-impediment",
+            "label": ""
+          },
+          {
+            "id": "NFFyuCDoEgb-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "NFFyuCDoEgb-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "NFFyuCDoEgb-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "NFFyuCDoEgb-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "u03kbpuLODz-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "u03kbpuLODz-section",
+            "flex": 2,
+            "label": "C.4 Laboratory set up safety"
+          },
+          {
+            "id": "u03kbpuLODz-score",
+            "label": ""
+          },
+          {
+            "id": "u03kbpuLODz-impediment",
+            "label": ""
+          },
+          {
+            "id": "u03kbpuLODz-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "u03kbpuLODz-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "u03kbpuLODz-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "u03kbpuLODz-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "ZmLclkQvbWe-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "ZmLclkQvbWe-section",
+            "flex": 2,
+            "label": "C.5 Essential equipment"
+          },
+          {
+            "id": "ZmLclkQvbWe-score",
+            "label": ""
+          },
+          {
+            "id": "ZmLclkQvbWe-impediment",
+            "label": ""
+          },
+          {
+            "id": "ZmLclkQvbWe-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "ZmLclkQvbWe-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "ZmLclkQvbWe-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "ZmLclkQvbWe-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "qkp11icJ0Wy-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "qkp11icJ0Wy-section",
+            "flex": 2,
+            "label": "C.6 Laboratory Consumables"
+          },
+          {
+            "id": "qkp11icJ0Wy-score",
+            "label": ""
+          },
+          {
+            "id": "qkp11icJ0Wy-impediment",
+            "label": ""
+          },
+          {
+            "id": "qkp11icJ0Wy-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "qkp11icJ0Wy-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "qkp11icJ0Wy-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "qkp11icJ0Wy-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "uOFuDylOqT8-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "uOFuDylOqT8-section",
+            "flex": 2,
+            "label": "C.7 Malaria Microscope Data Collection Tool"
+          },
+          {
+            "id": "uOFuDylOqT8-score",
+            "label": ""
+          },
+          {
+            "id": "uOFuDylOqT8-impediment",
+            "label": ""
+          },
+          {
+            "id": "uOFuDylOqT8-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "uOFuDylOqT8-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "uOFuDylOqT8-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "uOFuDylOqT8-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "TvGd69jc9sE-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "TvGd69jc9sE-section",
+            "flex": 2,
+            "label": "D.1 Specimen Collection"
+          },
+          {
+            "id": "TvGd69jc9sE-score",
+            "label": ""
+          },
+          {
+            "id": "TvGd69jc9sE-impediment",
+            "label": ""
+          },
+          {
+            "id": "TvGd69jc9sE-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "TvGd69jc9sE-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "TvGd69jc9sE-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "TvGd69jc9sE-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "fCJzwRQjMZd-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "fCJzwRQjMZd-section",
+            "flex": 2,
+            "label": "D.2 Fixation and Staining of Blood Films"
+          },
+          {
+            "id": "fCJzwRQjMZd-score",
+            "label": ""
+          },
+          {
+            "id": "fCJzwRQjMZd-impediment",
+            "label": ""
+          },
+          {
+            "id": "fCJzwRQjMZd-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "fCJzwRQjMZd-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "fCJzwRQjMZd-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "fCJzwRQjMZd-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "KVVMQjvi0Zu-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "KVVMQjvi0Zu-section",
+            "flex": 2,
+            "label": "D.3 Preparation of Stain"
+          },
+          {
+            "id": "KVVMQjvi0Zu-score",
+            "label": ""
+          },
+          {
+            "id": "KVVMQjvi0Zu-impediment",
+            "label": ""
+          },
+          {
+            "id": "KVVMQjvi0Zu-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "KVVMQjvi0Zu-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "KVVMQjvi0Zu-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "KVVMQjvi0Zu-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "GA2wwg0oRV2-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "GA2wwg0oRV2-section",
+            "flex": 2,
+            "label": "D.4 Slide Staining"
+          },
+          {
+            "id": "GA2wwg0oRV2-score",
+            "label": ""
+          },
+          {
+            "id": "GA2wwg0oRV2-impediment",
+            "label": ""
+          },
+          {
+            "id": "GA2wwg0oRV2-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "GA2wwg0oRV2-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "GA2wwg0oRV2-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "GA2wwg0oRV2-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "Nvbp9d27FBY-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "Nvbp9d27FBY-section",
+            "flex": 2,
+            "label": "D.5 Slide Examination"
+          },
+          {
+            "id": "Nvbp9d27FBY-score",
+            "label": ""
+          },
+          {
+            "id": "Nvbp9d27FBY-impediment",
+            "label": ""
+          },
+          {
+            "id": "Nvbp9d27FBY-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "Nvbp9d27FBY-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "Nvbp9d27FBY-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "Nvbp9d27FBY-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "aoG8K666YCY-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "aoG8K666YCY-section",
+            "flex": 2,
+            "label": "D.6 Slide Reading"
+          },
+          {
+            "id": "aoG8K666YCY-score",
+            "label": ""
+          },
+          {
+            "id": "aoG8K666YCY-impediment",
+            "label": ""
+          },
+          {
+            "id": "aoG8K666YCY-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "aoG8K666YCY-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "aoG8K666YCY-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "aoG8K666YCY-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "h0l8SjRYOkd-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "h0l8SjRYOkd-section",
+            "flex": 2,
+            "label": "D.7 Result Reporting"
+          },
+          {
+            "id": "h0l8SjRYOkd-score",
+            "label": ""
+          },
+          {
+            "id": "h0l8SjRYOkd-impediment",
+            "label": ""
+          },
+          {
+            "id": "h0l8SjRYOkd-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "h0l8SjRYOkd-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "h0l8SjRYOkd-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "h0l8SjRYOkd-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "OgrYlZxkdXg-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "OgrYlZxkdXg-section",
+            "flex": 2,
+            "label": "SUB-SCORE: D.8 Slide Cleaning & Microscope storage"
+          },
+          {
+            "id": "OgrYlZxkdXg-score",
+            "label": ""
+          },
+          {
+            "id": "OgrYlZxkdXg-impediment",
+            "label": ""
+          },
+          {
+            "id": "OgrYlZxkdXg-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "OgrYlZxkdXg-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "OgrYlZxkdXg-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "OgrYlZxkdXg-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "NsWjMLyIxfs-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "NsWjMLyIxfs-section",
+            "flex": 2,
+            "label": "E.1 Proficiency"
+          },
+          {
+            "id": "NsWjMLyIxfs-score",
+            "label": ""
+          },
+          {
+            "id": "NsWjMLyIxfs-impediment",
+            "label": ""
+          },
+          {
+            "id": "NsWjMLyIxfs-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "NsWjMLyIxfs-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "NsWjMLyIxfs-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "NsWjMLyIxfs-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "sSUAP3QFeaZ-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "sSUAP3QFeaZ-section",
+            "flex": 2,
+            "label": "E.2 Internal Quality Control (IQC)"
+          },
+          {
+            "id": "sSUAP3QFeaZ-score",
+            "label": ""
+          },
+          {
+            "id": "sSUAP3QFeaZ-impediment",
+            "label": ""
+          },
+          {
+            "id": "sSUAP3QFeaZ-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "sSUAP3QFeaZ-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "sSUAP3QFeaZ-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "sSUAP3QFeaZ-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "Ks89DOPBLpT-module",
+            "label": "MICROSCOPY"
+          },
+          {
+            "id": "Ks89DOPBLpT-section",
+            "flex": 2,
+            "label": "F1. Consistency check"
+          },
+          {
+            "id": "Ks89DOPBLpT-score",
+            "label": ""
+          },
+          {
+            "id": "Ks89DOPBLpT-impediment",
+            "label": ""
+          },
+          {
+            "id": "Ks89DOPBLpT-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "Ks89DOPBLpT-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "Ks89DOPBLpT-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "Ks89DOPBLpT-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "ABav53FQEet-module",
+            "label": "mRDT"
+          },
+          {
+            "id": "ABav53FQEet-section",
+            "flex": 2,
+            "label": "C.2 Staff Training"
+          },
+          {
+            "id": "ABav53FQEet-score",
+            "label": ""
+          },
+          {
+            "id": "ABav53FQEet-impediment",
+            "label": ""
+          },
+          {
+            "id": "ABav53FQEet-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "ABav53FQEet-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "ABav53FQEet-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "ABav53FQEet-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "DAYHjahImpm-module",
+            "label": "mRDT"
+          },
+          {
+            "id": "DAYHjahImpm-section",
+            "flex": 2,
+            "label": "C.3 Testing Site Availability"
+          },
+          {
+            "id": "DAYHjahImpm-score",
+            "label": ""
+          },
+          {
+            "id": "DAYHjahImpm-impediment",
+            "label": ""
+          },
+          {
+            "id": "DAYHjahImpm-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "DAYHjahImpm-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "DAYHjahImpm-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "DAYHjahImpm-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "S1ttcPAKGsg-module",
+            "label": "mRDT"
+          },
+          {
+            "id": "S1ttcPAKGsg-section",
+            "flex": 2,
+            "label": "C.4 mRDT Availability at the Testing Site"
+          },
+          {
+            "id": "S1ttcPAKGsg-score",
+            "label": ""
+          },
+          {
+            "id": "S1ttcPAKGsg-impediment",
+            "label": ""
+          },
+          {
+            "id": "S1ttcPAKGsg-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "S1ttcPAKGsg-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "S1ttcPAKGsg-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "S1ttcPAKGsg-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "IcHzti6PnEq-module",
+            "label": "mRDT"
+          },
+          {
+            "id": "IcHzti6PnEq-section",
+            "flex": 2,
+            "label": "C.5  Reference Material Score"
+          },
+          {
+            "id": "IcHzti6PnEq-score",
+            "label": ""
+          },
+          {
+            "id": "IcHzti6PnEq-impediment",
+            "label": ""
+          },
+          {
+            "id": "IcHzti6PnEq-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "IcHzti6PnEq-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "IcHzti6PnEq-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "IcHzti6PnEq-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "Hg8EoWp2WoA-module",
+            "label": "mRDT"
+          },
+          {
+            "id": "Hg8EoWp2WoA-section",
+            "flex": 2,
+            "label": "C.6 mRDT Data Collection Tools Readiness Score"
+          },
+          {
+            "id": "Hg8EoWp2WoA-score",
+            "label": ""
+          },
+          {
+            "id": "Hg8EoWp2WoA-impediment",
+            "label": ""
+          },
+          {
+            "id": "Hg8EoWp2WoA-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "Hg8EoWp2WoA-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "Hg8EoWp2WoA-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "Hg8EoWp2WoA-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "hpFPORxxzOx-module",
+            "label": "mRDT"
+          },
+          {
+            "id": "hpFPORxxzOx-section",
+            "flex": 2,
+            "label": "D: mRDT Observation Score"
+          },
+          {
+            "id": "hpFPORxxzOx-score",
+            "label": ""
+          },
+          {
+            "id": "hpFPORxxzOx-impediment",
+            "label": ""
+          },
+          {
+            "id": "hpFPORxxzOx-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "hpFPORxxzOx-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "hpFPORxxzOx-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "hpFPORxxzOx-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "lRCFQWIaY3u-module",
+            "label": "mRDT"
+          },
+          {
+            "id": "lRCFQWIaY3u-section",
+            "flex": 2,
+            "label": "E: Consistency Check Score"
+          },
+          {
+            "id": "lRCFQWIaY3u-score",
+            "label": ""
+          },
+          {
+            "id": "lRCFQWIaY3u-impediment",
+            "label": ""
+          },
+          {
+            "id": "lRCFQWIaY3u-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "lRCFQWIaY3u-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "lRCFQWIaY3u-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "lRCFQWIaY3u-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "Y0O1kccOJbw-module",
+            "label": "mRDT"
+          },
+          {
+            "id": "Y0O1kccOJbw-section",
+            "flex": 2,
+            "label": "F.1 mRDT Retaining System Score"
+          },
+          {
+            "id": "Y0O1kccOJbw-score",
+            "label": ""
+          },
+          {
+            "id": "Y0O1kccOJbw-impediment",
+            "label": ""
+          },
+          {
+            "id": "Y0O1kccOJbw-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "Y0O1kccOJbw-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "Y0O1kccOJbw-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "Y0O1kccOJbw-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "KpF0tiMDy6p-module",
+            "label": "OPD"
+          },
+          {
+            "id": "KpF0tiMDy6p-section",
+            "flex": 2,
+            "label": "C.1 Staff Training"
+          },
+          {
+            "id": "KpF0tiMDy6p-score",
+            "label": ""
+          },
+          {
+            "id": "KpF0tiMDy6p-impediment",
+            "label": ""
+          },
+          {
+            "id": "KpF0tiMDy6p-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "KpF0tiMDy6p-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "KpF0tiMDy6p-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "KpF0tiMDy6p-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "PdaiwcokXoZ-module",
+            "label": "OPD"
+          },
+          {
+            "id": "PdaiwcokXoZ-section",
+            "flex": 2,
+            "label": "C.2 OPD Reference Material Scores"
+          },
+          {
+            "id": "PdaiwcokXoZ-score",
+            "label": ""
+          },
+          {
+            "id": "PdaiwcokXoZ-impediment",
+            "label": ""
+          },
+          {
+            "id": "PdaiwcokXoZ-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "PdaiwcokXoZ-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "PdaiwcokXoZ-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "PdaiwcokXoZ-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "AQscOqiCQj9-module",
+            "label": "OPD"
+          },
+          {
+            "id": "AQscOqiCQj9-section",
+            "flex": 2,
+            "label": "C.3 Tools and Equipment Score"
+          },
+          {
+            "id": "AQscOqiCQj9-score",
+            "label": ""
+          },
+          {
+            "id": "AQscOqiCQj9-impediment",
+            "label": ""
+          },
+          {
+            "id": "AQscOqiCQj9-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "AQscOqiCQj9-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "AQscOqiCQj9-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "AQscOqiCQj9-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "OO7p2qxP5EN-module",
+            "label": "OPD"
+          },
+          {
+            "id": "OO7p2qxP5EN-section",
+            "flex": 2,
+            "label": "D.1 General Clinical History"
+          },
+          {
+            "id": "OO7p2qxP5EN-score",
+            "label": ""
+          },
+          {
+            "id": "OO7p2qxP5EN-impediment",
+            "label": ""
+          },
+          {
+            "id": "OO7p2qxP5EN-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "OO7p2qxP5EN-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "OO7p2qxP5EN-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "OO7p2qxP5EN-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "cS0YwfeMbVE-module",
+            "label": "OPD"
+          },
+          {
+            "id": "cS0YwfeMbVE-section",
+            "flex": 2,
+            "label": "D.2 Signs & Symptoms of Severe Malaria"
+          },
+          {
+            "id": "cS0YwfeMbVE-score",
+            "label": ""
+          },
+          {
+            "id": "cS0YwfeMbVE-impediment",
+            "label": ""
+          },
+          {
+            "id": "cS0YwfeMbVE-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "cS0YwfeMbVE-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "cS0YwfeMbVE-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "cS0YwfeMbVE-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "zCUyTyXKOvo-module",
+            "label": "OPD"
+          },
+          {
+            "id": "zCUyTyXKOvo-section",
+            "flex": 2,
+            "label": "D.3 Physical Examination"
+          },
+          {
+            "id": "zCUyTyXKOvo-score",
+            "label": ""
+          },
+          {
+            "id": "zCUyTyXKOvo-impediment",
+            "label": ""
+          },
+          {
+            "id": "zCUyTyXKOvo-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "zCUyTyXKOvo-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "zCUyTyXKOvo-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "zCUyTyXKOvo-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "YSXIqEQPexv-module",
+            "label": "OPD"
+          },
+          {
+            "id": "YSXIqEQPexv-section",
+            "flex": 2,
+            "label": "D.4 Diagnosis"
+          },
+          {
+            "id": "YSXIqEQPexv-score",
+            "label": ""
+          },
+          {
+            "id": "YSXIqEQPexv-impediment",
+            "label": ""
+          },
+          {
+            "id": "YSXIqEQPexv-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "YSXIqEQPexv-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "YSXIqEQPexv-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "YSXIqEQPexv-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "h973oysgA5O-module",
+            "label": "OPD"
+          },
+          {
+            "id": "h973oysgA5O-section",
+            "flex": 2,
+            "label": "D.5(a) Treatment Antimalaria Drug"
+          },
+          {
+            "id": "h973oysgA5O-score",
+            "label": ""
+          },
+          {
+            "id": "h973oysgA5O-impediment",
+            "label": ""
+          },
+          {
+            "id": "h973oysgA5O-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "h973oysgA5O-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "h973oysgA5O-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "h973oysgA5O-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "GijwrwsvdQF-module",
+            "label": "OPD"
+          },
+          {
+            "id": "GijwrwsvdQF-section",
+            "flex": 2,
+            "label": "D.5(b) Treatment Antibiotics Drug"
+          },
+          {
+            "id": "GijwrwsvdQF-score",
+            "label": ""
+          },
+          {
+            "id": "GijwrwsvdQF-impediment",
+            "label": ""
+          },
+          {
+            "id": "GijwrwsvdQF-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "GijwrwsvdQF-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "GijwrwsvdQF-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "GijwrwsvdQF-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "szXMw6OPoJl-module",
+            "label": "OPD"
+          },
+          {
+            "id": "szXMw6OPoJl-section",
+            "flex": 2,
+            "label": "D.5(c) Treatment Using IMCI Guidelines"
+          },
+          {
+            "id": "szXMw6OPoJl-score",
+            "label": ""
+          },
+          {
+            "id": "szXMw6OPoJl-impediment",
+            "label": ""
+          },
+          {
+            "id": "szXMw6OPoJl-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "szXMw6OPoJl-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "szXMw6OPoJl-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "szXMw6OPoJl-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "sNF8kHTxC12-module",
+            "label": "OPD"
+          },
+          {
+            "id": "sNF8kHTxC12-section",
+            "flex": 2,
+            "label": "D.6 (a) Communication Uncomplicated Disease"
+          },
+          {
+            "id": "sNF8kHTxC12-score",
+            "label": ""
+          },
+          {
+            "id": "sNF8kHTxC12-impediment",
+            "label": ""
+          },
+          {
+            "id": "sNF8kHTxC12-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "sNF8kHTxC12-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "sNF8kHTxC12-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "sNF8kHTxC12-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "bRlnt926HFa-module",
+            "label": "OPD"
+          },
+          {
+            "id": "bRlnt926HFa-section",
+            "flex": 2,
+            "label": "D.6 (b) Communication Severe Disease"
+          },
+          {
+            "id": "bRlnt926HFa-score",
+            "label": ""
+          },
+          {
+            "id": "bRlnt926HFa-impediment",
+            "label": ""
+          },
+          {
+            "id": "bRlnt926HFa-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "bRlnt926HFa-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "bRlnt926HFa-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "bRlnt926HFa-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "hlM0vQjydhe-module",
+            "label": "OPD"
+          },
+          {
+            "id": "hlM0vQjydhe-section",
+            "flex": 2,
+            "label": "E: Artesunate Administration"
+          },
+          {
+            "id": "hlM0vQjydhe-score",
+            "label": ""
+          },
+          {
+            "id": "hlM0vQjydhe-impediment",
+            "label": ""
+          },
+          {
+            "id": "hlM0vQjydhe-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "hlM0vQjydhe-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "hlM0vQjydhe-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "hlM0vQjydhe-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "q0XpK1lyQdO-module",
+            "label": "OPD"
+          },
+          {
+            "id": "q0XpK1lyQdO-section",
+            "flex": 2,
+            "label": "F: Client Satisfaction"
+          },
+          {
+            "id": "q0XpK1lyQdO-score",
+            "label": ""
+          },
+          {
+            "id": "q0XpK1lyQdO-impediment",
+            "label": ""
+          },
+          {
+            "id": "q0XpK1lyQdO-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "q0XpK1lyQdO-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "q0XpK1lyQdO-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "q0XpK1lyQdO-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "zGLprd14k9W-module",
+            "label": "SME"
+          },
+          {
+            "id": "zGLprd14k9W-section",
+            "flex": 2,
+            "label": "C.1 MEEDS/MCN focal person score"
+          },
+          {
+            "id": "zGLprd14k9W-score",
+            "label": ""
+          },
+          {
+            "id": "zGLprd14k9W-impediment",
+            "label": ""
+          },
+          {
+            "id": "zGLprd14k9W-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "zGLprd14k9W-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "zGLprd14k9W-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "zGLprd14k9W-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "TM4QdgqCota-module",
+            "label": "SME"
+          },
+          {
+            "id": "TM4QdgqCota-section",
+            "flex": 2,
+            "label": "C.2 MEEDS/MCN staff training readiness score"
+          },
+          {
+            "id": "TM4QdgqCota-score",
+            "label": ""
+          },
+          {
+            "id": "TM4QdgqCota-impediment",
+            "label": ""
+          },
+          {
+            "id": "TM4QdgqCota-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "TM4QdgqCota-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "TM4QdgqCota-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "TM4QdgqCota-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "BYfyYYFSEUF-module",
+            "label": "SME"
+          },
+          {
+            "id": "BYfyYYFSEUF-section",
+            "flex": 2,
+            "label": "C.3 Malaria Data collection tools availability score"
+          },
+          {
+            "id": "BYfyYYFSEUF-score",
+            "label": ""
+          },
+          {
+            "id": "BYfyYYFSEUF-impediment",
+            "label": ""
+          },
+          {
+            "id": "BYfyYYFSEUF-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "BYfyYYFSEUF-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "BYfyYYFSEUF-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "BYfyYYFSEUF-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "XVH9ejpQdVt-module",
+            "label": "SME"
+          },
+          {
+            "id": "XVH9ejpQdVt-section",
+            "flex": 2,
+            "label": "D.1 Average MCR completeness filling score (average of each row %)"
+          },
+          {
+            "id": "XVH9ejpQdVt-score",
+            "label": ""
+          },
+          {
+            "id": "XVH9ejpQdVt-impediment",
+            "label": ""
+          },
+          {
+            "id": "XVH9ejpQdVt-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "XVH9ejpQdVt-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "XVH9ejpQdVt-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "XVH9ejpQdVt-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "moAim7YimYq-module",
+            "label": "SME"
+          },
+          {
+            "id": "moAim7YimYq-section",
+            "flex": 2,
+            "label": "D.2 Sum of total for raw available data/days"
+          },
+          {
+            "id": "moAim7YimYq-score",
+            "label": ""
+          },
+          {
+            "id": "moAim7YimYq-impediment",
+            "label": ""
+          },
+          {
+            "id": "moAim7YimYq-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "moAim7YimYq-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "moAim7YimYq-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "moAim7YimYq-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "ioiSbiKct6c-module",
+            "label": "SME"
+          },
+          {
+            "id": "ioiSbiKct6c-section",
+            "flex": 2,
+            "label": "D.3 Verification score"
+          },
+          {
+            "id": "ioiSbiKct6c-score",
+            "label": ""
+          },
+          {
+            "id": "ioiSbiKct6c-impediment",
+            "label": ""
+          },
+          {
+            "id": "ioiSbiKct6c-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "ioiSbiKct6c-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "ioiSbiKct6c-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "ioiSbiKct6c-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "CI27R1jh8Mm-module",
+            "label": "SME"
+          },
+          {
+            "id": "CI27R1jh8Mm-section",
+            "flex": 2,
+            "label": "D.4 MEEDS Timeline Score"
+          },
+          {
+            "id": "CI27R1jh8Mm-score",
+            "label": ""
+          },
+          {
+            "id": "CI27R1jh8Mm-impediment",
+            "label": ""
+          },
+          {
+            "id": "CI27R1jh8Mm-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "CI27R1jh8Mm-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "CI27R1jh8Mm-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "CI27R1jh8Mm-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "WG5xmG61LEx-module",
+            "label": "SME"
+          },
+          {
+            "id": "WG5xmG61LEx-section",
+            "flex": 2,
+            "label": "D.5 Consistence in dates of MEEDS system and MEEDS booklet reporting date score"
+          },
+          {
+            "id": "WG5xmG61LEx-score",
+            "label": ""
+          },
+          {
+            "id": "WG5xmG61LEx-impediment",
+            "label": ""
+          },
+          {
+            "id": "WG5xmG61LEx-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "WG5xmG61LEx-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "WG5xmG61LEx-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "WG5xmG61LEx-timeFrame",
+            "label": ""
+          }
+        ],
+        [
+          {
+            "id": "Mn0221J0YZf-module",
+            "label": "SME"
+          },
+          {
+            "id": "Mn0221J0YZf-section",
+            "flex": 2,
+            "label": "D: MCN/MEEDS DQA Score"
+          },
+          {
+            "id": "Mn0221J0YZf-score",
+            "label": ""
+          },
+          {
+            "id": "Mn0221J0YZf-impediment",
+            "label": ""
+          },
+          {
+            "id": "Mn0221J0YZf-actionPlan",
+            "label": ""
+          },
+          {
+            "id": "Mn0221J0YZf-impedimentAction",
+            "label": ""
+          },
+          {
+            "id": "Mn0221J0YZf-responsiblePerson",
+            "label": ""
+          },
+          {
+            "id": "Mn0221J0YZf-timeFrame",
+            "label": ""
+          }
+        ]
+      ],
+      "insttuction": ""
+    }
+  ],
+  "isQipForm": true,
+  "minimumScore": 70,
+  "programStage": "MyiYgmWFC1n",
+  "qipDataSources": [
+    "kBa5O5ibLM7",
+    "F0VAhn3yWR4",
+    "chMSywu8dXD",
+    "UykZvAVKRb2",
+    "Ye0F1JADZrB",
+    "wkUnlxTP6pz",
+    "ypdmphAw65Q"
+  ],
+  "customDataElements": [
+    {
+      "id": "impediment",
+      "options": [],
+      "valueType": "LONG_TEXT"
+    },
+    {
+      "id": "impedimentAction",
+      "options": [],
+      "valueType": "LONG_TEXT"
+    },
+    {
+      "id": "actionPlan",
+      "options": [],
+      "valueType": "LONG_TEXT"
+    },
+    {
+      "id": "responsiblePerson",
+      "options": [],
+      "valueType": "LONG_TEXT"
+    },
+    {
+      "id": "timeFrame",
+      "options": [],
+      "valueType": "LONG_TEXT"
+    }
+  ]
 }
