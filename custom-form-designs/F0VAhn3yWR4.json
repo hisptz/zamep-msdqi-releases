@@ -45,7 +45,8 @@
                     [{
                             "id": "",
                             "flex": 3,
-                            "label": "Ownership"
+                            "label": "Ownership",
+                            "isBold": true
                         },
                         {
                             "id": "Cuv6P4FX7kW",
@@ -75,7 +76,7 @@
                     [{
                             "id": "",
                             "flex": 2,
-                            "label": "Health Care Provider Cadre"
+                            "label": "Title (Qualification)"
                         },
                         {
                             "id": "j5HcCaVtxON",
@@ -85,45 +86,23 @@
                             "id": "",
                             "label": "",
                             "subInputs": [{
-                                    "id": "",
+                                    "id": "UZEABJZa8Mw",
                                     "label": "Mobile"
                                 },
                                 {
-                                    "id": "",
+                                    "id": "bFUSAB6R3fJ",
                                     "label": "Email"
                                 }
                             ]
-                        },
-                        {
-                            "id": "",
-                            "label": "",
-                            "subInputs": [{
-                                    "id": "UZEABJZa8Mw",
-                                    "label": ""
-                                },
-                                {
-                                    "id": "bFUSAB6R3fJ",
-                                    "label": ""
-                                }
-                            ]
                         }
                     ],
                     [{
                             "id": "",
-                            "label": "Specify other cadre"
-                        },
-                        {
-                            "id": "U7YQ2hQLgYp",
-                            "label": ""
-                        }
-                    ],
-                    [{
-                            "id": "",
-                            "flex": 3,
                             "label": "Name of supervisor/assessor"
                         },
                         {
                             "id": "tcW1VUAvzmu",
+                            "flex": 3,
                             "label": ""
                         }
                     ],
@@ -203,6 +182,14 @@
                             {
                                 "id": "",
                                 "label": "C.4 Emergency Care Medicines"
+                            },
+                            {
+                                "id": "",
+                                "label": "C.5 Essential Equipment and Supplies"
+                            },
+                            {
+                                "id": "",
+                                "label": "C.6  IPD Data Collection Tools"
                             }
                         ]
                     }
@@ -242,10 +229,10 @@
                         [{
                                 "id": "",
                                 "flex": 3,
-                                "label": "How many have been trained on severe Malaria Case Management using Artesunate injection?"
+                                "label": "Number of clinical staff (doctors and nurses) who received on formal  (centralized) training on severe Malaria case management using Artesunate injection"
                             },
                             {
-                                "id": "IHMQPKLWOlz",
+                                "id": "s3SkRcaO1rc",
                                 "label": "B."
                             }
                         ],
@@ -257,7 +244,44 @@
                             },
                             {
                                 "id": "Rt7LrUDN4O5",
-                                "label": "B/A*100"
+                                "label": "C. B/A"
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Number of clinical staff (doctors and nurses) who received on job training  (mentorship) on severe Malaria case management using Artesunate injection"
+                            },
+                            {
+                                "id": "oQqJnPNVHN6",
+                                "label": "D."
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "eqfcdWk76Ti",
+                                "label": "E. D/A"
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE: C.1 Staff Training",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "",
+                                "label": "C+E/2",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "HUpwgR7DvXU",
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
@@ -318,7 +342,9 @@
                             },
                             {
                                 "id": "MaleWhFjQVx",
-                                "label": "[ ]/8*100"
+                                "label": "[ ]/8",
+                                "isBolded": true,
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
@@ -386,12 +412,33 @@
                         [{
                                 "id": "",
                                 "flex": 3,
+                                "label": "Infusion pump"
+                            },
+                            {
+                                "id": "lJQnaz2W7Bi",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Given/transfusion set"
+                            },
+                            {
+                                "id": "fAVg7s3Px4L",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
                                 "label": "SUB-SCORE: C.3 Materials and Furniture Score",
                                 "isBolded": true
                             },
                             {
                                 "id": "v2MaY8VwmtO",
-                                "label": "[ ]/10*100"
+                                "label": "[ ]/14",
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
@@ -429,7 +476,7 @@
                         [{
                                 "id": "",
                                 "flex": 3,
-                                "label": "Diazepam injection"
+                                "label": "Diazepam injection/inj Phenobarbitone/inj Phenytoin"
                             },
                             {
                                 "id": "Fvt1GZXhj5L",
@@ -469,17 +516,7 @@
                         [{
                                 "id": "",
                                 "flex": 3,
-                                "label": "Benzylpenicillin or Ampicillin injection"
-                            },
-                            {
-                                "id": "TlGUM4arBvS",
-                                "label": ""
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Adrenaline injection"
+                                "label": "Adrenaline injection/IV Noraadrenaline"
                             },
                             {
                                 "id": "naHVxbEh79b",
@@ -519,12 +556,54 @@
                         [{
                                 "id": "",
                                 "flex": 3,
-                                "label": "SUB-SCORE: C.4 Emergence Care Medicines Score",
+                                "label": "IV Potassium Chloride "
+                            },
+                            {
+                                "id": "PEImAoolpUW",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "IV Magnesium Sulphate"
+                            },
+                            {
+                                "id": "MzUANaZO0Uv",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "IV Atropine"
+                            },
+                            {
+                                "id": "cam6xQTczUy",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "IV Puff/Sublingual Nitroglycerine"
+                            },
+                            {
+                                "id": "B7s2TWuoA1X",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "SUB-SCORE: C.4 Emergency Care Medicines Score",
                                 "isBolded": true
                             },
                             {
                                 "id": "lZplMvmG8zF",
-                                "label": "[ ]/11*100"
+                                "label": "[ ]/14",
+                                "isBolded": true,
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
@@ -632,10 +711,40 @@
                         [{
                                 "id": "",
                                 "flex": 3,
-                                "label": "Surgical gloves"
+                                "label": "Surgical Gloves Clean gloves"
                             },
                             {
                                 "id": "gveLv3DBFDW",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "BP machine"
+                            },
+                            {
+                                "id": "iYTBOLae7FW",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Stethoscope"
+                            },
+                            {
+                                "id": "oVn2I9lv5Eu",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "Weighing scale "
+                            },
+                            {
+                                "id": "ko4UWWrCJ4G",
                                 "label": ""
                             }
                         ],
@@ -647,7 +756,9 @@
                             },
                             {
                                 "id": "okP2GftSjOU",
-                                "label": "[ ]/10*100"
+                                "label": "[ ]/13",
+                                "isBolded": true,
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
@@ -703,34 +814,108 @@
                         ],
                         [{
                                 "id": "",
+                                "flex": 2,
+                                "label": "Death Audit Report/Review Form"
+                            },
+                            {
+                                "id": "yYSWFR7tB0p",
+                                "label": ""
+                            },
+                            {
+                                "id": "RQ1hDITQsf5",
+                                "label": ""
+                            }
+                        ],
+                        [{
+                                "id": "",
                                 "flex": 3,
-                                "label": "SUB-SCORE: C.6 IPD Data Collection HMIS Tools score",
+                                "label": "SUB-SCORE: C.6  IPD HMIS Tools score",
                                 "isBolded": true
                             },
                             {
                                 "id": "yOcVHuNxJi2",
-                                "label": "[ ]/8*100"
+                                "label": "[ ]/12",
+                                "isBolded": true,
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
                     "instruction": "Does the facility have the followings data collection tools for malaria?"
                 },
                 {
-                    "title": "",
+                    "title": "Section C.: IPD Readiness Score",
                     "inputRows": [
                         [{
                                 "id": "",
+                                "label": " C.1 Staff Training",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "",
+                                "label": "C.2 IPD Reference Materials",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "",
+                                "label": "C.3 Materials & Furniture",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "",
+                                "label": "C.4 Emergency Care Medicines",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "",
+                                "label": "C.5 Essential Equipment’s & Supplies",
+                                "isBolded": true
+                            },
+                            {
+                                "id": "",
+                                "label": "C.6  IPD Data Collection Tools",
+                                "isBolded": true
+                            }
+                        ],
+                        [{
+                                "id": "HUpwgR7DvXU",
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "MaleWhFjQVx",
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "v2MaY8VwmtO",
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "lZplMvmG8zF",
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "okP2GftSjOU",
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "yOcVHuNxJi2",
+                                "suffixLabel": "%"
+                            }
+                        ],
+                        [{
+                                "id": "",
                                 "flex": 3,
-                                "label": "Section C:IPD Readiness Score",
+                                "label": " SCORE: Section C. IPD Readiness Score",
                                 "isBolded": true
                             },
                             {
                                 "id": "Ji78NQMd5PB",
-                                "label": "[C1-C6]/6"
+                                "label": "[ ]/6",
+                                "isBolded": true,
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
-                    "instruction": ""
+                    "instruction": "Instructions: Calculate Total Section Score by averaging  section Scores"
                 }
             ]
         },
@@ -913,7 +1098,7 @@
                     [{
                             "id": "",
                             "flex": 2,
-                            "label": "Step 11: Discarded al the syringes and needles into safety box immediately after use"
+                            "label": "Step 11: Discarded all the syringes and needles into safety box immediately after use"
                         },
                         {
                             "id": "t93cEDhJm45",
@@ -930,27 +1115,27 @@
                             "label": "Absence of any diluted Artesunate not used within one hour from reconstitution in the injection area"
                         },
                         {
-                            "id": "DB5j5nErw20",
+                            "id": "S8CrPFAi0zc",
                             "label": ""
                         },
                         {
-                            "id": "YNoGB9D5sQA",
+                            "id": "WVQfa3aYshn",
                             "label": ""
                         }
                     ],
                     [{
                             "id": "",
                             "flex": 2,
-                            "label": "Artesunate Administration Observation sub-score",
+                            "label": "",
                             "isBolded": true
                         },
                         {
                             "id": "d6NgzCbfb44",
-                            "label": "[ ]/10*100"
+                            "label": ""
                         },
                         {
                             "id": "OQi1yUXBbfu",
-                            "label": "[ ]/10*100"
+                            "label": ""
                         }
                     ],
                     [{
@@ -961,11 +1146,13 @@
                         },
                         {
                             "id": "jmrg0VTlALb",
-                            "label": "[ ]/20"
+                            "label": "[ ]/20",
+                            "isBolded": true,
+                            "suffixLabel": "%"
                         }
                     ]
                 ],
-                "instruction": "Instructions: Observe a staff person who regularly treats severe malaria patients while they prepare and administer injectable Artesunate - either through demonstration or observation of actual patient interaction. Do not interrupt unless the patient is critically ill and needs immediate intervention/attention or if the practice of the clinician will put the patient in danger. If you are not able to observe, please fill out the reason at the end of this observation and complete the knowledge section below. If there is no client with severe malaria during a facility visit, simulation should be done.                "
+                "instruction": "Instructions: Observe a staff person who regularly treats severe malaria patients while they prepare and administer injectable Artesunate – either through demonstration or observation of an actual patient interaction. Do not interrupt unless the patient is critically ill and needs immediate intervention/attention or if the practice of the clinician will put the patient in danger. If you are not able to observe, please fill out the reason at the end of this observation and complete the knowledge section below. If there is no client with severe malaria during facility visit, simulation should be done"
             }]
         },
         {
@@ -985,5 +1172,10 @@
             "instruction": ""
         }
     ],
-    "programStage": "Dtb7qyKaMLX"
+    "formTitle": "Inpatient Department (IPD)",
+    "programStage": "Dtb7qyKaMLX",
+    "mandatoryFields": [{
+        "id": "eventDate",
+        "name": "Date of Visit"
+    }]
 }

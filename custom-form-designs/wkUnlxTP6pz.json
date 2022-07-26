@@ -113,12 +113,12 @@
                     [{
                             "id": "",
                             "flex": 2,
-                            "label": "Health Care Provider Cadre",
+                            "label": "Title (Qualification):",
                             "isBolded": false,
                             "subInputs": []
                         },
                         {
-                            "id": "j5HcCaVtxON",
+                            "id": "MjuOQoKrrnS",
                             "flex": 1,
                             "label": "",
                             "isBolded": false,
@@ -165,21 +165,6 @@
                                     "subInputs": []
                                 }
                             ]
-                        }
-                    ],
-                    [{
-                            "id": "",
-                            "flex": 1,
-                            "label": "Specify other cadre",
-                            "isBolded": false,
-                            "subInputs": []
-                        },
-                        {
-                            "id": "U7YQ2hQLgYp",
-                            "flex": 1,
-                            "label": "",
-                            "isBolded": false,
-                            "subInputs": []
                         }
                     ],
                     [{
@@ -310,7 +295,7 @@
                                 {
                                     "id": "",
                                     "flex": 1,
-                                    "label": "C.3 Tools and Equipment",
+                                    "label": "C.3 Tools and Equipment's",
                                     "isBolded": false,
                                     "subInputs": []
                                 }
@@ -388,7 +373,7 @@
                                 {
                                     "id": "",
                                     "flex": 1,
-                                    "label": "D.6b. Communication: Complicated Disease",
+                                    "label": "D.6b. Communication: Severe Disease",
                                     "isBolded": false,
                                     "subInputs": []
                                 }
@@ -424,6 +409,36 @@
                             "isBolded": false,
                             "subInputs": []
                         }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 1,
+                            "label": "G. OPD Sample Register Review",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "G1. OPD Register Completeness Review",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "G2. Register review, case management and follow up",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
                     ]
                 ],
                 "instruction": "",
@@ -455,7 +470,7 @@
                         [{
                                 "id": "",
                                 "flex": 3,
-                                "label": "How many clinical staff have been trained on Malaria Case Management",
+                                "label": "How many clinical staff have received formal (centralized) training on Malaria Case Management within two years?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -470,6 +485,51 @@
                         [{
                                 "id": "",
                                 "flex": 3,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "bxAvYnAHzu4",
+                                "flex": 1,
+                                "label": "C:B/A",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "How many clinical staff have received on job training (mentorship) on Malaria Case Management within two years?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "IYCj9O7sbUs",
+                                "flex": 1,
+                                "label": "D.",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "U69zkLtMZ10",
+                                "flex": 1,
+                                "label": "E:D/A",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 3,
                                 "label": "SUB-SCORE: C.1 Staff Training",
                                 "isBolded": true,
                                 "subInputs": []
@@ -477,13 +537,14 @@
                             {
                                 "id": "KpF0tiMDy6p",
                                 "flex": 1,
-                                "label": "B/A.",
+                                "label": "C+E/2",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
-                    "instruction": "Supervisor, enquire about staff who have received training on malaria case management",
+                    "instruction": "Instruction: Supervisor, enquire about staff who have received  training on malaria case management",
                     "subSections": []
                 },
                 {
@@ -602,7 +663,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Are the Pharmacovigilance forms present?",
+                                "label": "Are the Pharmacovigilance forms present?\n IEC/BCC materials on malaria prevention available at the facility",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -647,7 +708,7 @@
                             "id": "",
                             "flex": 4,
                             "label": "Are the following available & functional in the ward on the day of the visit?",
-                            "isBolded": false,
+                            "isBolded": true,
                             "subInputs": []
                         }],
                         [{
@@ -739,25 +800,79 @@
                                 "isBolded": false,
                                 "subInputs": []
                             }
+                        ]
+                    ],
+                    "instruction": "Instructions: Verify that each of the following tools/equipment’s are available & functional at the facility. These should be visible at the site",
+                    "subSections": []
+                },
+                {
+                    "title": "Section C.: OPD Readiness Score",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.1 Staffing Training",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.2 OPD Reference Materials",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.3 Tools & equipment’s",
+                                "isBolded": true,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "KpF0tiMDy6p",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "PdaiwcokXoZ",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "AQscOqiCQj9",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            }
                         ],
                         [{
                                 "id": "",
                                 "flex": 3,
-                                "label": "SCORE: Section C .OPD Readiness Score",
+                                "label": "SCORE: Section C. OPD Readiness Score",
                                 "isBolded": true,
                                 "subInputs": []
                             },
                             {
                                 "id": "fIjulldAKRz",
                                 "flex": 1,
-                                "label": "[C1-C3]/3",
+                                "label": "[]/3",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
-                    "instruction": "Instructions: Verify that each of the following tools/equipment’s are available & functional at the facility. These should be visible at the site",
-                    "subSections": []
+                    "instruction": "Instructions: Calculate Total Section Score by averaging  section Scores"
                 }
             ]
         },
@@ -837,7 +952,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Other (Specify)",
+                                "label": "other specify",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -859,7 +974,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Has this health provider received formal training in malaria case management",
+                                "label": "Has this health provider received formal or OJT or mentorship training on malaria case management within two years",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -879,7 +994,7 @@
                             }
                         ]
                     ],
-                    "instruction": "Instructions: Observe the health service provider while attending to a client with fever. The health service provider should not be interrupted unless the patient is severely ill or if the practice of the clinician will put the patient in danger. Note, if there are more than one clinician at OPD then observations should be done on different clinicians. If there is only one clinician available, then make all two observations on him/her.",
+                    "instruction": "Instructions: Observe the health service provider while attending to a client with fever. The health service provider should not be interrupted unless the patient is severely ill or if the practice of the clinician will put the patient in danger. Note, if there are more than one clinician at OPD then observations should be done on different clinicians. If there is only one clinician available, then make all two observations on him/her. If there is no client during facility visit, simulation should be done.",
                     "subSections": []
                 },
                 {
@@ -1196,7 +1311,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "General Clinical History observation sub score",
+                                "label": "",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -1227,11 +1342,12 @@
                                 "flex": 1,
                                 "label": "[ ]/26",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
-                    "instruction": "Instruction: Observe the health service provider while attending to a client with fever. The health service provider should not be interrupted unless the patient is severely ill or if the practice of the clinician will put the patient in danger. Note, if there are more than one clinician at OPD then observations should be done on different clinicians. If there is only one clinician available, then make all two observations on him/her. If there is no client during facility visit, simulation should be done.\nDid the health service provider ask for?",
+                    "instruction": "Instructions: Observe the health service provider while attending to a client with fever. The health service provider should not be interrupted unless the patient is severely ill or if the practice of the clinician will put the patient in danger. Note, if there are more than one clinician at OPD then observations should be done on different clinicians. If there is only one clinician available, then make all two observations on him/her. If there is no client during facility visit, simulation should be done.\nDid the health service provider ask for?",
                     "subSections": []
                 },
                 {
@@ -1262,7 +1378,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Change in behavior or altered consciousness or coma",
+                                "label": "Change in behavior or altered consciousness or coma or vomiting everything in children",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -1460,7 +1576,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Signs & Symptoms of Severe Malaria observation sub score",
+                                "label": "",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -1491,11 +1607,12 @@
                                 "flex": 1,
                                 "label": "[ ]/18",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
-                    "instruction": "Instructions: Observe the health service provider while attending to a client with fever. The health service provider should not be interrupted unless the patient is severely ill or if the practice of the clinician will put the patient in danger. Note, if there are more than one clinician at OPD then observations should be done on different clinicians. If there is only one clinician available, then make all two observations on him/her\nDid the health service provider ask for?",
+                    "instruction": "Instructions: Observe the health service provider while attending to a client with fever. The health service provider should not be interrupted unless the patient is severely ill or if the practice of the clinician will put the patient in danger. Note, if there are more than one clinician at OPD then observations should be done on different clinicians. If there is only one clinician available, then make all two observations on him/her. If there is no client during facility visit, simulation should be done.\nDid the health service provider ask for?",
                     "subSections": []
                 },
                 {
@@ -1803,7 +1920,7 @@
                             }
                         ]
                     ],
-                    "instruction": "Instructions: Observe the health service provider while attending to a client with fever. The health service provider should not be interrupted unless the patient is severely ill or if the practice of the clinician will put the patient in danger. Note, if there are more than one clinician at OPD then observations should be done on different clinicians. If there is only one clinician available, then make all two observations on him/her\nDoes the health worker conduct a general physical exam including;",
+                    "instruction": "Instructions: Observe the health service provider while attending to a client with fever. The health service provider should not be interrupted unless the patient is severely ill or if the practice of the clinician will put the patient in danger. Note, if there are more than one clinician at OPD then observations should be done on different clinicians. If there is only one clinician available, then make all two observations on him/her. If there is no client during facility visit, simulation should be done.\nDoes the health worker conduct a general physical exam including;",
                     "subSections": []
                 },
                 {
@@ -1856,7 +1973,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Supervisor, do you agree with the health worker&rsquo;s decision to order or not order a malaria test?",
+                                "label": "Supervisor, do you agree with the health worker’s decision to order or not order a malaria test?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -1900,7 +2017,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Diagnosis sub score",
+                                "label": "",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -1921,17 +2038,18 @@
                         ],
                         [{
                                 "id": "",
-                                "flex": 3,
+                                "flex": 2,
                                 "label": "SUB-SCORE: D.4 Diagnosis",
                                 "isBolded": true,
                                 "subInputs": []
                             },
                             {
                                 "id": "YSXIqEQPexv",
-                                "flex": 1,
+                                "flex": 2,
                                 "label": "[ ]/20",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
@@ -1988,7 +2106,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "If yes, indicate first antimalarial given by selecting the option below, If no, skip to D.5 (b)",
+                                "label": "If yes, indicate first antimalarial given by selecting the option below, If no, skip to D.5 (b)\n\n*SLD is single low dose",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2000,7 +2118,7 @@
                                 "subInputs": []
                             },
                             {
-                                "id": "mJUbgqGllU2",
+                                "id": "GYheQ82Burg",
                                 "flex": 1,
                                 "label": "",
                                 "isBolded": false,
@@ -2010,7 +2128,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Other antimalaria drugs given",
+                                "label": "Other specify",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2032,7 +2150,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Supervisor: Do you agree with the health worker&#39;s decision to provide an antimalarial?",
+                                "label": "Supervisor: Do you agree with the health worker's decision to provide or not provide an antimalarial?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2076,7 +2194,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Treatment Antimalaria Drug observation sub score",
+                                "label": "",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -2098,7 +2216,7 @@
                         [{
                                 "id": "",
                                 "flex": 3,
-                                "label": "SUB-SCORE: D.5(a) Treatment Antimalaria Drug",
+                                "label": "SUB-SCORE: D.5a Treatment Antimalaria Drug",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -2107,11 +2225,12 @@
                                 "flex": 1,
                                 "label": "[ ]/20",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
-                    "instruction": "Instructions: Observe the health service provider while attending to a client with fever. The health service provider should not be interrupted unless the patient is severely ill or if the practice of the clinician will put the patient in danger. Note, if there are more than one clinician at OPD then observations should be done on different clinicians. If there is only one clinician available, then make all two observations on him/her. If there is no client during facility visit, simulation should be done.",
+                    "instruction": "Instructions: Observe the health service provider while attending to a client with fever. The health service provider should not be interrupted unless the patient is severely ill or if the practice of the clinician will put the patient in danger. Note, if there are more than one clinician at OPD then observations should be done on different clinicians. If there is only one clinician available, then make all two observations on him/her. If there is no client during facility visit, simulation should be done. If anti malaria was not prescribed for the patient, ask the health service provider antimalarial dose for a given weight in order to test his/her knowledge.",
                     "subSections": []
                 },
                 {
@@ -2164,7 +2283,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "If yes, indicate antibiotic given by selecting the option below, If no, skip to D.5 (b)",
+                                "label": "If yes, indicate antibiotic given by circling the numbers below, If no skip to section 5.C for children, 6.A for adults",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2186,7 +2305,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Other antibiotics given",
+                                "label": "Other oral antibiotics-specify",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2252,7 +2371,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Treatment Antibiotics Drug observation sub score",
+                                "label": "",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -2281,20 +2400,21 @@
                             {
                                 "id": "GijwrwsvdQF",
                                 "flex": 1,
-                                "label": "",
+                                "label": "[ ]/20",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
-                    "instruction": "Instructions: Observe the health service provider while attending to a client with fever. The health service provider should not be interrupted unless the patient is severely ill or if the practice of the clinician will put the patient in danger. Note, if there are more than on clinicians at OPD then observations should be done on different clinicians. If there is only one clinician available, then make all two observations on him/her. If there is no client during facility visit, simulation should be done.",
+                    "instruction": "Instructions: Observe the health service provider while attending to a client with fever. The health service provider should not be interrupted unless the patient is severely ill or if the practice of the clinician will put the patient in danger. Note, if there are more than one clinicians at OPD then observations should be done on different clinicians. If there is only one clinician available, then make all two observations on him/her. If there is no client during facility visit, simulation should be done. If antibiotic was not prescribed for the patient, ask the health service provider one of mentioned antibiotics’ dose for a given weight in order to test his/her knowledge",
                     "subSections": []
                 },
                 {
-                    "title": "D.5 (c) Treatment - With reference to IMCI guidelines, continue the following section if the patient is a child under five years of age diagnosed to have acute watery diarrhoea (AWD) or pneumonia.",
+                    "title": "D.5 (c) Treatment - With reference to IMCI guidelines, continue the following section if the patient is a child under five years of age diagnosed to have acute watery diarrhoea or pneumonia.",
                     "inputRows": [
                         [{
-                                "id": "",
+                                "id": "Child diagnosed to have Acute Watery Diarrhea",
                                 "flex": 2,
                                 "label": "",
                                 "isBolded": false,
@@ -2318,7 +2438,7 @@
                         [{
                             "id": "",
                             "flex": 4,
-                            "label": "Child diagnosed to have Acute watery diarrhea ",
+                            "label": "Child diagnosed to have Acute Watery Diarrhea",
                             "isBolded": true,
                             "subInputs": []
                         }],
@@ -2442,7 +2562,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Treatment Using IMCI Guidelines observation sub score",
+                                "label": "",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -2464,7 +2584,7 @@
                         [{
                                 "id": "",
                                 "flex": 3,
-                                "label": "SUB-SCORE: D.5(c) Treatment Using IMCI Guidelines",
+                                "label": "SUB-SCORE: D.5c Treatment Using IMCI Guidelines",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -2473,7 +2593,8 @@
                                 "flex": 1,
                                 "label": "[ ]/40",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
@@ -2640,7 +2761,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Communication Uncomplicated Disease observation sub score",
+                                "label": "",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -2671,11 +2792,12 @@
                                 "flex": 1,
                                 "label": "[ ]/20",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
-                    "instruction": "Instructions: Observe the health service provider while attending to a client with fever. The health service provider should not be interrupted unless the patient is severely ill or if the practice of the clinician will put the patient in danger. Note, if there are more than one clinician at OPD then observations should be done on different clinicians. If there is only one clinician available, then make all two observations on him/her.\nNote: Supervisor to observe the provider either in the consultation room or dispensing window.",
+                    "instruction": "Instructions: Observe the health service provider while attending to a client with fever. The health service provider should not be interrupted unless the patient is severely ill or if the practice of the clinician will put the patient in danger. Note, if there are more than one clinician at OPD then observations should be done on different clinicians. If there is only one clinician available, then make all two observations on him/her. If there is no client during facility visit or client not diagnosed to have uncomplicated disease, simulation should be done.\nNote: Supervisor to observe the provider either in the consultation room or dispensing window.",
                     "subSections": []
                 },
                 {
@@ -2711,7 +2833,7 @@
                                 "subInputs": []
                             },
                             {
-                                "id": "O2ae43uUCBV",
+                                "id": "vYlOqMoV5gG",
                                 "flex": 1,
                                 "label": "",
                                 "isBolded": false,
@@ -2728,19 +2850,19 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Caregiver/patient informed on what is wrong with the patient",
+                                "label": "Was caregiver/patient informed on what is wrong with the patient?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
                             {
-                                "id": "fBWAO8M6rlh",
+                                "id": "teWUmbSiElW",
                                 "flex": 1,
                                 "label": "",
                                 "isBolded": false,
                                 "subInputs": []
                             },
                             {
-                                "id": "voxAhKTQ6aM",
+                                "id": "FRRypPovIak",
                                 "flex": 1,
                                 "label": "",
                                 "isBolded": false,
@@ -2750,7 +2872,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Caregiver/patient informed of referral or admission",
+                                "label": "Was caregiver/patient informed of referral or admission?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2772,7 +2894,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Caregiver/patient given reason for referral or admission",
+                                "label": "Was caregiver/patient given reason for referral or admission?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2794,7 +2916,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Caregiver/patient informed about what will be done",
+                                "label": "Was caregiver/patient informed about what will be done?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2816,7 +2938,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Caregiver/patient asked if there are any questions",
+                                "label": "Was caregiver/patient asked if there are any questions?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2838,7 +2960,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Communication Severe Disease sub score observations",
+                                "label": "",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -2869,7 +2991,332 @@
                                 "flex": 1,
                                 "label": "[ ]/20",
                                 "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            }
+                        ]
+                    ],
+                    "instruction": "Instructions: Observe the health service provider while attending to a client with fever. The health service provider should not be interrupted unless the patient is severely ill or if the practice of the clinician will put the patient in danger. Note, if there are more than one clinician at OPD then observations should be done on different clinicians. If there is only one clinician available, then make all two observations on him/her. If there is no client during facility visit or client not diagnosed to have severe disease, simulation should be done.\nNote: Supervisor to observe the provider either in the consultation room or dispensing window.",
+                    "subSections": []
+                },
+                {
+                    "title": "Section D. OPD Observations: Score",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
                                 "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Obs 1",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Obs 2",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Total",
+                                "isBolded": true,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "D.1 Clinical history",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "CLq39PTV6u0",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "NYWQBDRoneK",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "OO7p2qxP5EN",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "D.2 Signs/symptoms of severe malaria",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "zoYGhfXCR8t",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "pXdaiWq60pj",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "cS0YwfeMbVE",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "D.3 Physical examination",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "vLpOmdZ7e76",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "HvJQxrx163P",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "zCUyTyXKOvo",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "D.4 Diagnosis",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "y73iMpU6Are",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "LACC8uabc0o",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "YSXIqEQPexv",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "D.5a Treatment-antimalarial drug",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "xwtuUX5CNUX",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "W2Owp6CVsqW",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "h973oysgA5O",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "D.5b Treatment-antibiotics",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "xwtuUX5CNUX",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "W2Owp6CVsqW",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "GijwrwsvdQF",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "D.5c Treatment-reference to IMCI guidelines",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "pQvDJ4FOIEv",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "zGPWI86Blzh",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "szXMw6OPoJl",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "D.6a Communication: Uncomplicated Disease",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "mVdFAp6dhpQ",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "lUQj6RSDmvu",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "sNF8kHTxC12",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "D.6b Communication: Complicated Disease",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "mVdFAp6dhpQ",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "fYmkbBePXaJ",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "bRlnt926HFa",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ],
                         [{
@@ -2882,353 +3329,352 @@
                             {
                                 "id": "dGoO3CKlIFw",
                                 "flex": 1,
-                                "label": "[D1-D6]/9",
+                                "label": "[D1-D6b]/9",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
-                    "instruction": "Instructions: Observe the health service provider while attending to a client with fever. The health service provider should not be interrupted unless the patient is severely ill or if the practice of the clinician will put the patient in danger. Note, if there are more than one clinician at OPD then observations should be done on different clinicians. If there is only one clinician available, then make all two observations on him/her.\nNote: Supervisor to observe the provider either in the consultation room or dispensing window.",
-                    "subSections": []
+                    "instruction": "Instructions: Calculate Total Section Score by averaging section Scores (N= number of observations)"
                 }
             ]
         },
         {
             "title": "Section E. Pre-Referral Management of Severe Malaria",
-            "inputRows": [
-                [{
-                    "id": "",
-                    "flex": 2,
-                    "label": "Preparation & Administration of Injectable Artesunate for Severe Malaria",
-                    "isBolded": false,
-                    "subInputs": []
-                }],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "Observation 1",
-                        "isBolded": true,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "Observation 2",
-                        "isBolded": true,
-                        "subInputs": []
-                    }
+            "inputRows": [],
+            "instruction": "",
+            "subSections": [{
+                "title": "Preparation & Administration of Injectable Artesunate for Severe Malaria",
+                "inputRows": [
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "Observation 1",
+                            "isBolded": true,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 1,
+                            "label": "Observation 2",
+                            "isBolded": true,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 1: Gets the contents correctly out of the package (check for the availability of the following three items: sodium bicarbonate ampoule, Artesunate vials and 5% Dextrose/0.9 saline ampoule)",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "dh9ctpgTbvO",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "yyWbYQmuj8c",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 2: Draws 1ml of sodium bicarbonate into the syringe",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "F0odt2JgQTP",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "Bg27tRgvfkg",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 3: Adds 1ml of sodium bicarbonate into Artesunate vials (60mg)",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "p24pBws3iVO",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "SbxJ4VUUVRo",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 4: Shakes for 2-3 minutes",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "v504EDFpSLC",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "hTOtqdAMieV",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 5: Waits until completely dissolve and solution is clear",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "Gexf0k66HIx",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "SU7vVOvIZnH",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 6: Draws into syringe 5% Dextrose/0.9 saline (2ml for IM; 5ml for IV)",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "KsyJ0LsVsZY",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "m0luuV5iBPt",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 7: Adds the contents into Artesunate vial",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "bsAEQLHqjKp",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "yxFnuvZmLRN",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 8: Shakes for 30 seconds",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "s5Qr8BJ3pIG",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "oXB1hnK1Blh",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 9: Determines the dose (round up to the nearest ml)",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "wmHv6mJF3u7",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "RSoJbrG7id5",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 10: Draws the required dose into the syringe",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "AFcmkQO4nXQ",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "RS09muP79mf",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Step 11: Discarded all the syringes and needles into safety box immediately after use",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "fllfJRd3jdZ",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "eau6QBRa3m5",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Absence of any diluted Artesunate not used within one hour from reconstitution in the injection area",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "S8CrPFAi0zc",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "WVQfa3aYshn",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "",
+                            "isBolded": true,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "tVDZt7HmarH",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "IhfZDSNi8bt",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "SECTION E.Artesunate Administration",
+                            "isBolded": true,
+                            "subInputs": []
+                        },
+                        {
+                            "id": " hlM0vQjydhe",
+                            "flex": 1,
+                            "label": "[ ]/20",
+                            "isBolded": false,
+                            "subInputs": [],
+                            "suffixLabel": "%"
+                        }
+                    ]
                 ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Step 1: Gets the contents correctly out of the package (check for the availability of the following three items: sodium bicarbonate ampoule, Artesunate vials and 5% Dextrose/0.9 saline ampoule)",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "dh9ctpgTbvO",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "yyWbYQmuj8c",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Step 2: Draws 1ml of sodium bicarbonate into the syringe",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "F0odt2JgQTP",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "Bg27tRgvfkg",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Step 3: Adds 1ml of sodium bicarbonate into Artesunate vials (60mg)",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "p24pBws3iVO",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "SbxJ4VUUVRo",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Step 4: Shakes for 2-3 minutes",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "v504EDFpSLC",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "hTOtqdAMieV",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Step 5: Waits until completely dissolve and solution is clear",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "Gexf0k66HIx",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "SU7vVOvIZnH",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Step 6: Draws into syringe 5% Dextrose/0.9 saline (2ml for IM; 5ml for IV)",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "KsyJ0LsVsZY",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "m0luuV5iBPt",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Step 7: Adds the contents into Artesunate vial",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "bsAEQLHqjKp",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "yxFnuvZmLRN",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Step 8: Shakes for 30 seconds",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "s5Qr8BJ3pIG",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "oXB1hnK1Blh",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Step 9: Determines the dose (round up to the nearest ml)",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "wmHv6mJF3u7",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "RSoJbrG7id5",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Step 10: Draws the required dose into the syringe",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "AFcmkQO4nXQ",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "RS09muP79mf",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Step 11: Discarded al the syringes and needles into safety box immediately after use",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "fllfJRd3jdZ",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "eau6QBRa3m5",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Absence of any diluted Artesunate not used within one hour from reconstitution in the injection area",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "S8CrPFAi0zc",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "WVQfa3aYshn",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 2,
-                        "label": "Artesunate Administration sub score observations",
-                        "isBolded": true,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "tVDZt7HmarH",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "IhfZDSNi8bt",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 3,
-                        "label": "SECTION E.Artesunate Administration",
-                        "isBolded": true,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "hlM0vQjydhe",
-                        "flex": 1,
-                        "label": "[ ]/20",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ]
-            ],
-            "instruction": "Instructions: Observe a staff person who regularly treats severe malaria patients while they prepare and administer injectable Artesunate – either through demonstration or observation of an actual patient interaction. Do not interrupt unless the patient is critically ill and needs immediate intervention/attention or if the practice of the clinician will put the patient in danger. If you are not able to observe, please fill out the reason at the end of this observation and complete the knowledge section below.\nNote: Pre referral/pre admission management to be provided and assessed at emergency medicine department or OPD for referral hospitals",
-            "subSections": []
+                "instruction": "Instructions: Observe a staff person who regularly treats severe malaria patients while they prepare and administer injectable Artesunate – either through demonstration or observation of an actual patient interaction. Do not interrupt unless the patient is critically ill and needs immediate intervention/attention or if the practice of the clinician will put the patient in danger. If there is no client with severe malaria during facility visit, simulation should be done.\nNote: Pre referral/pre admission management to be provided and assessed at emergency medicine department or OPD for referral hospitals",
+                "subSections": []
+            }]
         },
         {
             "title": "Section F. Exit Interview - Client Satisfaction",
@@ -3421,447 +3867,648 @@
                         "flex": 1,
                         "label": "[ ]/20",
                         "isBolded": false,
-                        "subInputs": []
+                        "subInputs": [],
+                        "suffixLabel": "%"
                     }
                 ]
             ],
-            "instruction": "Instructions: Conduct exit interview to two clients who have just received services at OPD before they leave a facility to assess client satisfaction.",
+            "instruction": " N* =Number of observations\nInstructions: Conduct exit interview to two clients who have just received services at OPD before they leave a facility to assess client satisfaction.",
             "subSections": []
         },
         {
-            "title": "G. Register review, case management and follow up.",
-            "inputRows": [
-                [{
-                        "id": "",
-                        "flex": 5,
-                        "label": "OPD",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "Lab",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "National Malaria Case Register (NMCR)",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "Dispensing",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "Check G.1",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "Check G.2",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "Check G.3",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 1,
-                        "label": "Malaria Suspect  [N]",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "Malaria Test Ordered [A]",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "OPD Diagnosis [B]",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "OPD Test results [C]",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "OPD Medication [D]",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "Malaria Test Results [E]",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "Patient ID Code filled (Column 16 of NMCR) [F]",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "Anti-malaria dispensed [G]",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "OPD Diagnosis matches Lab Malaria Test Results [B] = [E]",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "OPD medication matches dispensing drug [D] =[G]",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 1,
-                        "label": "OPD Malaria Tests Results matches lab test results [C] = [E]",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 1,
-                        "label": "Patient 1",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "WkLfMcQHr9O",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "XjYEZ0z8RAj",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "bwXCBLP8hpl",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "JhuwO9MGhdw",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "Jy5kHGhrkUZ",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "tddZmtjIpNh",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "RqhoVDf9A9S",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "tevUodrDmMD",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "o8S2eUdXmG4",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "CEGFCIfOZGx",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 1,
-                        "label": "Patient 2",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "sGvU3NZDVYN",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "fq9pI4TY0Hx",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "ONmCbb9ysQl",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "F6TqTMLxwJy",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "d9H4R5MbJWN",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "vJjsnFSiofP",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "vhVAl3DGQzf",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "CL5eb4JK8lj",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "HMwgSy4Wogw",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "vnpT4dz7Jlo",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 1,
-                        "label": "Patient 3",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "ciTWOO9fnPB",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "Y6NMZSQwzmj",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "SIRJxOf0YNy",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "OVb0VijSOKw",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "Vxq5vo5qJLa",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "Nxm4pGEs7cN",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "SMLuEqGWF66",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "cfDuVyZXk35",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "MpUFwshFV6b",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "inVdfqZY8Xq",
-                        "flex": 1,
-                        "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 8,
-                        "label": "Register review, case management and follow up sub-score",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "uXDm2eybrfu",
-                        "flex": 1,
-                        "label": "G.1: [____] =",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "XS83woTzoGW",
-                        "flex": 1,
-                        "label": "G.2: [____] =",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "MtgdMsTGIwE",
-                        "flex": 1,
-                        "label": "G.3: [____] =",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 8,
-                        "label": "Register review, case management and follow up score",
-                        "isBolded": true,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "DvsqfGGJdG2",
-                        "flex": 1,
-                        "label": "[G.1+G.2+G.3]/18 * 100 =",
-                        "isBolded": true,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                    "id": "",
-                    "flex": 11,
-                    "label": "",
-                    "isBolded": true,
-                    "subInputs": []
-                }],
-                [{
-                        "id": "",
-                        "flex": 6,
-                        "label": "End Time",
-                        "isBolded": true,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "fxr66P7d4AL",
-                        "flex": 5,
-                        "label": "",
-                        "isBolded": true,
-                        "subInputs": []
-                    }
-                ]
-            ],
-            "instruction": "Instruction: Select three patients who were suspected to have malaria from the OPD register for the last six months. Follow these patients in daily dispensing register, National Malaria Case Register and laboratory register using their names and dates. Fill the information in the table",
-            "subSections": []
+            "title": "Section G: OPD Sample Register Review",
+            "inputRows": [],
+            "instruction": "",
+            "subSections": [{
+                    "title": "Section G1: OPD Register Completeness Review",
+                    "inputRows": [
+                        [{
+                            "id": "",
+                            "flex": 4,
+                            "label": "Are the following columns in the OPD register filled",
+                            "isBolded": true,
+                            "subInputs": []
+                        }],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "OPD Reference number",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "yeV8v9yawPy",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Malaria suspect",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "KNZvncvXnJ5",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Malaria test",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "K4oJ5Y2jWne",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Malaria result",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "NKmbYV5MeE0",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "Treatment",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "SALOFGqR8M9",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "SUB-SCORE: G1. OPD Register Completeness Review Score",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "nkkC4T3JojY",
+                                "flex": 2,
+                                "label": "[ ]/5",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            }
+                        ]
+                    ],
+                    "instruction": "Instructions: Verify that each of the following columns in the OPD register is accurately and completely filled. Review the last complete month"
+                },
+                {
+                    "title": "G2. Register review, case management and follow up.",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 5,
+                                "label": "OPD",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Lab",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "(NMCR)",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Dispensing",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Check G.1",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Check G.2",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Check G.3",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Check G.4",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Malaria Suspect  [N]",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Malaria Test Ordered [A]",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "OPD Diagnosis [B]",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "OPD Test results [C]",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "OPD Medication [D]",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Malaria Test Results [E]",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Patient ID Code filled (Column 16 of NMCR) [F]",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Anti-malaria dispensed [G]",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "OPD Diagnosis matches Lab Malaria Test Results [B] = [E]",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "OPD medication matches dispensing drug [D] =[G]",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Primaquine prescribed to patient with Malaria[B]≡[D.2]",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "OPD Malaria Tests Results matches lab test results [C] = [E]",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Patient 1",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "WkLfMcQHr9O",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "XjYEZ0z8RAj",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "bwXCBLP8hpl",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "JhuwO9MGhdw",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Jy5kHGhrkUZ",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "tddZmtjIpNh",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "RqhoVDf9A9S",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "tevUodrDmMD",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "o8S2eUdXmG4",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ajAsi6adjUz",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "CEGFCIfOZGx",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Patient 2",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "sGvU3NZDVYN",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "fq9pI4TY0Hx",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ONmCbb9ysQl",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "F6TqTMLxwJy",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "d9H4R5MbJWN",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "vJjsnFSiofP",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "vhVAl3DGQzf",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "CL5eb4JK8lj",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "HMwgSy4Wogw",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "lnYnqFD6ul8",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "vnpT4dz7Jlo",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Patient 3",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ciTWOO9fnPB",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Y6NMZSQwzmj",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "SIRJxOf0YNy",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "OVb0VijSOKw",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Vxq5vo5qJLa",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "Nxm4pGEs7cN",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "SMLuEqGWF66",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "cfDuVyZXk35",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "MpUFwshFV6b",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "vUlziJfCsNE",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "inVdfqZY8Xq",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 8,
+                                "label": " ",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "G.1: [____] =",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "G.2: [____] =",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "G.3: [____] =",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "G.4: [____] =",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 8,
+                                "label": "G2. Register review, case management and follow up score",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "DvsqfGGJdG2",
+                                "flex": 1,
+                                "label": "[G.1+G.2+G.3+G.4]/24",
+                                "isBolded": true,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            }
+                        ]
+                    ],
+                    "instruction": "Select three patients who were suspected to have malaria from the OPD register for the last six months. Follow these patients in laboratory register, National Malaria Case Register (NMCR) and daily dispensing register using their names and dates. Fill the information in the table. "
+                },
+                {
+                    "title": "Section G: OPD Sample Register Review Score",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "G1. OPD Register Completeness Review Score",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "G2. Register review, case management and follow up score",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "nkkC4T3JojY",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "DvsqfGGJdG2",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "SCORE: Section G: OPD Sample Register Review",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "mwikTPkwn7i",
+                                "flex": 2,
+                                "label": "[__]/2",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "End time of the supervision visit ",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "fxr66P7d4AL",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": true,
+                                "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": "Instructions: Calculate Total Section Score by averaging  section Scores"
+                }
+            ]
         }
     ],
     "programStage": "SDe9P4g1ysp"

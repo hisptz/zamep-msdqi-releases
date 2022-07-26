@@ -91,7 +91,7 @@
                     [{
                             "id": "",
                             "flex": 4,
-                            "label": "Name of health care provider assessed",
+                            "label": "Name of health Provider",
                             "isBolded": false,
                             "subInputs": []
                         },
@@ -106,12 +106,12 @@
                     [{
                             "id": "",
                             "flex": 1,
-                            "label": "Health Care Provider Cadre",
+                            "label": "Cadre",
                             "isBolded": false,
                             "subInputs": []
                         },
                         {
-                            "id": "JsAveUjpAev",
+                            "id": "EhFVGKMxAwC",
                             "flex": 1,
                             "label": "",
                             "isBolded": false,
@@ -158,21 +158,14 @@
                     ],
                     [{
                             "id": "",
-                            "flex": 1,
-                            "label": "Specify other cadre",
+                            "flex": 4,
+                            "label": "Other (specify) ",
                             "isBolded": false,
                             "subInputs": []
                         },
                         {
-                            "id": "U7YQ2hQLgYp",
-                            "flex": 1,
-                            "label": "",
-                            "isBolded": false,
-                            "subInputs": []
-                        },
-                        {
-                            "id": "",
-                            "flex": 6,
+                            "id": "dzcUa9q9pzv",
+                            "flex": 4,
                             "label": "",
                             "isBolded": false,
                             "subInputs": []
@@ -209,7 +202,7 @@
                         },
                         {
                             "id": "",
-                            "flex": 1,
+                            "flex": 2,
                             "label": "",
                             "isBolded": false,
                             "subInputs": [{
@@ -256,15 +249,15 @@
                 [{
                         "id": "",
                         "flex": 2,
-                        "label": "Core QI Indicators",
-                        "isBolded": false,
+                        "label": "Core Indicators",
+                        "isBolded": true,
                         "subInputs": []
                     },
                     {
                         "id": "",
                         "flex": 6,
                         "label": "Auxiliary Indicators",
-                        "isBolded": false,
+                        "isBolded": true,
                         "subInputs": []
                     }
                 ],
@@ -402,7 +395,7 @@
                             },
                             {
                                 "id": "",
-                                "label": "E.2 PT Slide reading",
+                                "label": "E.2 External Quality Assurance",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -459,7 +452,7 @@
                         [{
                                 "id": "",
                                 "flex": 4,
-                                "label": "If yes:Are there at least two (2) Laboratory Technician available at this lab?",
+                                "label": "If yes:\n Are there at least two (2) Laboratory Technician available at this lab?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -489,7 +482,7 @@
                         [{
                                 "id": "",
                                 "flex": 4,
-                                "label": "If yes:Are there at least four(4) Laboratory Technicians available at this lab?",
+                                "label": "If yes: \n Are there at least four(4) Laboratory Technicians available at this lab?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -519,7 +512,7 @@
                         [{
                                 "id": "",
                                 "flex": 4,
-                                "label": "If yes:Are there at least ten (10)Laboratory Techinician available at this lab?",
+                                "label": "If yes: \nAre there at least ten (10)Laboratory Techinician available at this lab?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -541,13 +534,14 @@
                             {
                                 "id": "qnmFhFD2CEU",
                                 "flex": 4,
-                                "label": "[__]/2*100",
+                                "label": "[__]/2",
                                 "isBolded": true,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
-                    "instruction": "Instructions:Determine the number of staff members present on the day of the visit for the facility depending on its level.Note:Minimum staffing level:PHCU,Dispensary,Private Clinic,FBO Clinic-2 Lab personnel;Minimum staffing level:District Hospital,PHCC/Cottage,Military -4 Lab personnel;Minimum staffing level:Referral Hospital-10 Lab personnel."
+                    "instruction": "Instructions: Determine the number of staff members present on the day of the visit for the facility depending on its level. Note: Minimum staffing level: PHCU, Dispensary, Private Clinic, FBO Clinic – 2 Lab personnel; Minimum staffing level:  District Hospital, PHCC/Cottage, Military – 4 Lab personnel; Minimum staffing level: Referral Hospital-10 Lab personnel."
                 },
                 {
                     "title": "C.2 Staff training",
@@ -570,7 +564,7 @@
                         [{
                                 "id": "",
                                 "flex": 4,
-                                "label": "Number of lab Technician trained on malaria microscopy",
+                                "label": "How many laboratory practitioner have received formal (centralized) training on malaria microscopy",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -585,6 +579,51 @@
                         [{
                                 "id": "",
                                 "flex": 4,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ci24vOQVqpT",
+                                "flex": 4,
+                                "label": "C:B/A",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "How many laboratory practitioner have received On Job training (mentorship) on malaria microscopy?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "YH1aAE5hNXC",
+                                "flex": 4,
+                                "label": "D.",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "NmxOMAD3OVC",
+                                "flex": 4,
+                                "label": "E:D/A",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
                                 "label": "SUB-SCORE: C.2 Staff training level score",
                                 "isBolded": true,
                                 "subInputs": []
@@ -592,261 +631,14 @@
                             {
                                 "id": "NFFyuCDoEgb",
                                 "flex": 4,
-                                "label": "B/A*100",
+                                "label": "C+E/2",
                                 "isBolded": true,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
                     "instruction": "Instruction:Supervisor, enquire about staff who have received microscopy training"
-                },
-                {
-                    "title": "C.3 List of lab technician employed at this facility that have  not received malaria microscopy training",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "Name of untrained",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 2,
-                                "label": "Sex",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 4,
-                                "label": "Cadre",
-                                "isBolded": true,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "XfO5AE1Yyb1",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "kiIWXH1oQlx",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "Ttjx4amdEZe",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "F0O3DuFCuU9",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "rouXMLhltAr",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "b7gGo8gGWu4",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "v0ACbMFaDCp",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "KddSZRjg7P5",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "YRmlLPgNJvW",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "IJuaTu4ikVq",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "jM0ESiYJxQQ",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "b2b9r8nZNwO",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "PaFBktXe1SZ",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "u43ic0fHZ6K",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "P9hUz7oW6E1",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "xHiwE47GvnJ",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "zKpsqrTetQy",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "sHesMiiQxuo",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "zpZMyrEThC2",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "GfwqiqjYRM8",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "xlqD4L4sqKg",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "FN2OngYZz21",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "Ehb0bwOACsx",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "x6T2mAK8aso",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "Z70feC8D3Yh",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "iO6uqyc8vJZ",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "FSJyEicL5kD",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "rgYdWunHJoP",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "IBsIwDBoL69",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "g37XUKzKkGQ",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ]
-                    ],
-                    "instruction": ""
                 },
                 {
                     "title": "C.4 Laboratory Set-up and Safety",
@@ -899,7 +691,7 @@
                         [{
                                 "id": "",
                                 "flex": 4,
-                                "label": "Fire extinguisher",
+                                "label": "Fire extinguisher \n(Instruction: At PHCU+ level, score YES if the facility has a fire extinguisher not necessarily allocatein in the laboratory)",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -1026,9 +818,10 @@
                             {
                                 "id": "u03kbpuLODz",
                                 "flex": 4,
-                                "label": "[__]/11*100",
+                                "label": "[__]/11",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
@@ -1257,9 +1050,10 @@
                             {
                                 "id": "ZmLclkQvbWe",
                                 "flex": 4,
-                                "label": "[__]/28*100 ",
+                                "label": "[__]/28 ",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
@@ -1503,9 +1297,10 @@
                             {
                                 "id": "qkp11icJ0Wy",
                                 "flex": 4,
-                                "label": "[__]/21*100",
+                                "label": "[__]/21",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
@@ -1518,21 +1313,21 @@
                                 "id": "",
                                 "flex": 2,
                                 "label": "Information System ",
-                                "isBolded": false,
+                                "isBolded": true,
                                 "subInputs": []
                             },
                             {
                                 "id": "",
                                 "flex": 2,
                                 "label": "Available",
-                                "isBolded": false,
+                                "isBolded": true,
                                 "subInputs": []
                             },
                             {
                                 "id": "",
                                 "flex": 4,
                                 "label": "Standard Format",
-                                "isBolded": false,
+                                "isBolded": true,
                                 "subInputs": []
                             }
                         ],
@@ -1605,22 +1400,115 @@
                         [{
                                 "id": "",
                                 "flex": 4,
-                                "label": "SUB-SCORE: C.7 Malaria Microscope Data Collection Tool",
+                                "label": "SUB-SCORE: C.7 Malaria Microscope Data Collection Tool Readiness ",
                                 "isBolded": true,
                                 "subInputs": []
                             },
                             {
                                 "id": "uOFuDylOqT8",
                                 "flex": 4,
-                                "label": "[__]/12*100",
+                                "label": "[__]/12",
                                 "isBolded": true,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            }
+                        ]
+                    ],
+                    "instruction": "Check the following information system tools"
+                },
+                {
+                    "title": "SECTION C.:Health Facility Microscope Readiness Score",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.1 Staffing Levels",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.2 Staff Training",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.4 Laboratory Setup & Safety",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.5 Essential Equipment",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.6 Laboratory Consumables",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.7 Malaria Microscope data collection tool readiness",
+                                "isBolded": true,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "qnmFhFD2CEU",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "NFFyuCDoEgb",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "u03kbpuLODz",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ZmLclkQvbWe",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "qkp11icJ0Wy",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "uOFuDylOqT8",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
                                 "subInputs": []
                             }
                         ],
                         [{
                                 "id": "",
                                 "flex": 4,
-                                "label": "SECTION C :Health Facility Microscope Readiness Score",
+                                "label": "SCORE: Section C. Microcopy Readiness Score ",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -1629,11 +1517,12 @@
                                 "flex": 4,
                                 "label": "[C1,C2,C4,C5,C6,C7]/6",
                                 "isBolded": true,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
-                    "instruction": "Check the following information system tools"
+                    "instruction": "Instructions: Calculate Total Section Score by averaging  section Scores"
                 }
             ]
         },
@@ -1647,7 +1536,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "",
+                                "label": "Did Microscopist do the following?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -1691,7 +1580,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Is the label slide sample correctly using appropriate labels?",
+                                "label": "Label slide sample correctly using appropriate labels?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -1740,14 +1629,14 @@
                                 "subInputs": []
                             },
                             {
-                                "id": "mI6D0AsEIg3",
+                                "id": "ksjCYfZwYhb",
                                 "flex": 2,
                                 "label": "",
                                 "isBolded": false,
                                 "subInputs": []
                             },
                             {
-                                "id": "Pt1p3kZpBt0",
+                                "id": "v73AHtR4tQS",
                                 "flex": 4,
                                 "label": "",
                                 "isBolded": false,
@@ -1778,28 +1667,6 @@
                         ],
                         [{
                                 "id": "",
-                                "flex": 2,
-                                "label": "Specimen Collection observation sub score",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "BdyeUw4VOnf",
-                                "flex": 2,
-                                "label": "A.",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "ppABtOGcmhg",
-                                "flex": 4,
-                                "label": "B.",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "",
                                 "flex": 4,
                                 "label": "SUB-SCORE: D.1 Specimen Collection",
                                 "isBolded": true,
@@ -1808,13 +1675,13 @@
                             {
                                 "id": "TvGd69jc9sE",
                                 "flex": 4,
-                                "label": "[A+B]/10",
+                                "label": "[A+B]/20",
                                 "isBolded": true,
                                 "subInputs": []
                             }
                         ]
                     ],
-                    "instruction": "Instructions: Observe the microscopist performing blood slide that is sample collection, fixation, staining, examination, and interpretation. If a facility has more than one microscopists observations should be made to different microscopists.If there is only one microscopist then all observations should be done on that microscopist. If there is no patient for observation, simulation can be done. Did Microscopist do the following?"
+                    "instruction": "Instructions: Observe the microscopist performing blood slide that is sample collection, fixation, staining, examination, and interpretation. If a facility has more than one microscopists observations should be made to different microscopists.If there is only one microscopist then all observations should be done on that microscopist. If there is no patient for observation, simulation can be done."
                 },
                 {
                     "title": "D.2 Fixation and Staining of Blood Films",
@@ -1844,7 +1711,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Does this facility use a Giemsa?",
+                                "label": "Does this facility use a Giemsa? If response is No, skip the rest of section D",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -1874,7 +1741,7 @@
                                 "id": "",
                                 "flex": 2,
                                 "label": "For thin blood smear fixes by spraying methanol for 1 second?",
-                                "isBolded": true,
+                                "isBolded": false,
                                 "subInputs": []
                             },
                             {
@@ -2005,7 +1872,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Fixation and Staining of Blood Films observation sub score",
+                                "label": "",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -2034,13 +1901,14 @@
                             {
                                 "id": "fCJzwRQjMZd",
                                 "flex": 4,
-                                "label": "[A+B]/12*100",
+                                "label": "[A+B]/12",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
-                    "instruction": "Observe the microscopist performing blood slide that is sample collection, fixation, staining, examination and interpretation. If a facility has more than one microscopist observations should be made to different microscopists. If there is only one microscopist then all observations should be done on that microscopist. If there is no patient for observation, stored blood sample in the lab can be used. Did the health provider do the following?"
+                    "instruction": "Instruction: Observe the microscopist performing blood slide that is sample collection, fixation, staining, examination and interpretation. If a facility has more than one microscopist observations should be made to different microscopists. If there is only one microscopist then all observations should be done on that microscopist. If there is no patient for observation, stored blood sample in the lab can be used.  "
                 },
                 {
                     "title": "D.3 Preparation of Stain",
@@ -2048,7 +1916,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "",
+                                "label": "Did the health provider do the following?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2136,7 +2004,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "the pH of buffer used for dilution is 7.2.",
+                                "label": "pH of buffer used for dilution is 7.2.",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2180,7 +2048,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Preparation of Stain observation sub score",
+                                "label": "",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -2209,19 +2077,20 @@
                             {
                                 "id": "KVVMQjvi0Zu",
                                 "flex": 4,
-                                "label": "[A+B]/10*100",
+                                "label": "[A+B]/10",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
-                    "instruction": "If there is no patient for observation, stored blood sample in the lab can be used. Did the health provider do the following?"
+                    "instruction": "If there is no patient for observation, stored blood sample in the lab can be used"
                 },
                 {
                     "title": "D.4 Slide Staining",
                     "inputRows": [
                         [{
-                                "id": "",
+                                "id": "Did the health provider do the following?",
                                 "flex": 2,
                                 "label": "",
                                 "isBolded": false,
@@ -2355,7 +2224,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Slide Staining observation sub score",
+                                "label": "",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -2384,13 +2253,14 @@
                             {
                                 "id": "GA2wwg0oRV2",
                                 "flex": 4,
-                                "label": "[A+B]/10*100",
+                                "label": "[A+B]/10",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
-                    "instruction": "If there is no patient for observation, stored blood sample in the lab can be used. Did the health provider do the following?"
+                    "instruction": "If there is no patient for observation, stored blood sample in the lab can be used"
                 },
                 {
                     "title": "D.5 Slide Examination",
@@ -2398,7 +2268,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "",
+                                "label": "Did the health provider do the following?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2464,7 +2334,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Focus with x40 objective before focus with x100 oil immersion objective",
+                                "label": "Focus with x 10 or x40 objective before focus with x100 oil immersion objective",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2486,7 +2356,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Slide Examination observation sub score",
+                                "label": "",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -2515,13 +2385,14 @@
                             {
                                 "id": "Nvbp9d27FBY",
                                 "flex": 4,
-                                "label": "[A+B]/6*100",
+                                "label": "[A+B]/6",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
-                    "instruction": "If there is no patient for observation, stored blood sample in the lab can be used. Did the health provider do the following?"
+                    "instruction": "If there is no patient for observation, stored blood sample in the lab can be used"
                 },
                 {
                     "title": "D.6 Slide Reading",
@@ -2571,9 +2442,16 @@
                             }
                         ],
                         [{
+                            "id": "",
+                            "flex": 8,
+                            "label": "If negative:",
+                            "isBolded": true,
+                            "subInputs": []
+                        }],
+                        [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "If negative:  200 fields examined before declaring slide negative",
+                                "label": "200 fields examined before declaring slide negative",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2593,9 +2471,16 @@
                             }
                         ],
                         [{
+                            "id": "",
+                            "flex": 8,
+                            "label": "If positive:",
+                            "isBolded": true,
+                            "subInputs": []
+                        }],
+                        [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "If positive:   Parasite density quantified >10 by counting 200+ white blood cells",
+                                "label": "Parasite density quantified >10 by counting 200+ white blood cells",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2668,7 +2553,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Slide Reading observation sub score",
+                                "label": "",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -2697,9 +2582,10 @@
                             {
                                 "id": "aoG8K666YCY",
                                 "flex": 4,
-                                "label": "[A+B]/10*100",
+                                "label": "[A+B]/10",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
@@ -2843,7 +2729,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Result Reporting observation subscore",
+                                "label": "",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -2872,9 +2758,10 @@
                             {
                                 "id": "h0l8SjRYOkd",
                                 "flex": 4,
-                                "label": "[A+B]/10*100",
+                                "label": "[A+B]/10",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
@@ -2996,7 +2883,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Slide Cleaning & Microscope storage observation sub score",
+                                "label": "",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -3025,30 +2912,322 @@
                             {
                                 "id": "OgrYlZxkdXg",
                                 "flex": 4,
-                                "label": "[A+B]/8*100",
+                                "label": "[A+B]/8",
                                 "isBolded": true,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 4,
-                                "label": "Section D.Microscopy Observations",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "qotvf1RZgJU",
-                                "flex": 4,
-                                "label": "[D1-D8]/8",
-                                "isBolded": true,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
                     "instruction": "Did the health provider do the following?"
                 }
             ]
+        },
+        {
+            "title": "Section D. Microscopy Observations: Score",
+            "inputRows": [
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 2,
+                        "label": "Obs 1",
+                        "isBolded": true,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 2,
+                        "label": "Obs 2",
+                        "isBolded": true,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "",
+                        "flex": 2,
+                        "label": "Total",
+                        "isBolded": true,
+                        "subInputs": []
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "D.1 Specimen Collection",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "BdyeUw4VOnf",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    },
+                    {
+                        "id": "ppABtOGcmhg",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    },
+                    {
+                        "id": "TvGd69jc9sE",
+                        "flex": 2,
+                        "label": "[O1+O2]/N",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "D.2 Fixation & Staining of Blood Films",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "pue6cQq8X3R",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    },
+                    {
+                        "id": "oh6yibCLNS3",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    },
+                    {
+                        "id": "fCJzwRQjMZd",
+                        "flex": 2,
+                        "label": "[O1+O2]/N",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "D.3 Preparation of Stain",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "nsBvj7vFIfA",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    },
+                    {
+                        "id": "bxlcRliaBLY",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    },
+                    {
+                        "id": "KVVMQjvi0Zu",
+                        "flex": 2,
+                        "label": "[O1+O2]/N",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "D.4 Slide Staining",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "HzQ5Obmwk4d",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    },
+                    {
+                        "id": "NzIQBEBMcy1",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    },
+                    {
+                        "id": "GA2wwg0oRV2",
+                        "flex": 2,
+                        "label": "[O1+O2]/N",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "D.5 Slide Examination",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "eRpVNU2kmtD",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    },
+                    {
+                        "id": "Hh28jV4YY50",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    },
+                    {
+                        "id": "Nvbp9d27FBY",
+                        "flex": 2,
+                        "label": "[O1+O2]/N",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "D.6 Slide Reading",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "ffVf81MeufS",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    },
+                    {
+                        "id": "jh1hT2Sy9Ft",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    },
+                    {
+                        "id": "aoG8K666YCY",
+                        "flex": 2,
+                        "label": "[O1+O2]/N",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "D.7 Result Reporting",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "pObtRB8DGoV",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    },
+                    {
+                        "id": "U3NpkOgfPgK",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    },
+                    {
+                        "id": "h0l8SjRYOkd",
+                        "flex": 2,
+                        "label": "[O1+O2]/N",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "D.8 Slide Cleaning and Slide/Micro storage",
+                        "isBolded": false,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "Nw2i3rIW0Ob",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    },
+                    {
+                        "id": "MNkjf9ZvSlK",
+                        "flex": 2,
+                        "label": "",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    },
+                    {
+                        "id": "OgrYlZxkdXg",
+                        "flex": 2,
+                        "label": "[O1+O2]/N",
+                        "isBolded": false,
+                        "subInputs": [],
+                        "suffixLabel": "%"
+                    }
+                ],
+                [{
+                        "id": "",
+                        "flex": 4,
+                        "label": "Section D.Microscopy Observations",
+                        "isBolded": true,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "qotvf1RZgJU",
+                        "flex": 4,
+                        "label": "[D1-D8]/8",
+                        "isBolded": true,
+                        "subInputs": []
+                    }
+                ]
+            ],
+            "instruction": "Instructions: Calculate Total Section Score by averaging section Scores (N= number of observations)"
         },
         {
             "title": "SECTION E. Quality Assurance & Quality Control",
@@ -3060,7 +3239,7 @@
                         [{
                                 "id": "",
                                 "flex": 4,
-                                "label": "Does the facility receive prepared and stained blood smears? (If no complete the rest of the section by answering No)",
+                                "label": "Does the facility receive prepared and stained blood smears? \n (If no complete the rest of the section by answering No)",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -3215,7 +3394,7 @@
                                 "subInputs": []
                             },
                             {
-                                "id": "tu87wn1BCNx",
+                                "id": "gLQWsIAb2Dr",
                                 "flex": 4,
                                 "label": "",
                                 "isBolded": false,
@@ -3232,703 +3411,96 @@
                             {
                                 "id": "NsWjMLyIxfs",
                                 "flex": 4,
-                                "label": "[__]/8*100",
+                                "label": "[__]/8",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
                     "instruction": ""
                 },
                 {
-                    "title": "E.2 PT slide reading",
+                    "title": "E.2 External Quality Assurance (EQC)",
                     "inputRows": [
                         [{
                                 "id": "",
-                                "flex": 1,
-                                "label": "Name of technician",
+                                "flex": 4,
+                                "label": "Does the facility store stained blood films for external quality monitoring?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "dm7cni0FDUb",
+                                "flex": 4,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "Are 10% of negative blood films and all positive blood films picked randomly and sent to the ZAMEP reference laboratory for second reading?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "OytGuPss5cV",
+                                "flex": 4,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "Are the results of cross checked blood films entered in to the log sheet?Verify",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "hUcFWiaAJDa",
+                                "flex": 4,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "Does the facility do corrective actions in case of result discrepancy? ",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "tu87wn1BCNx",
+                                "flex": 4,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "SUB-SCORE: E.2 EQC",
                                 "isBolded": true,
                                 "subInputs": []
                             },
                             {
-                                "id": "",
-                                "flex": 1,
-                                "label": "No of slides read  A",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "Agreement    B",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "False positive  C",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "False negative  D",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "% agreement B/AX100%",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "% false positive C/AX100%",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "% false negative D/A X100%",
-                                "isBolded": true,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "sjRr8t7oakb",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "s1nbzh08M6M",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "WrfuINUUSM9",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "xGczrC8xe9N",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "R6WihWsZEFe",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "wHyQw3WtmwI",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "CjlairU1Mq7",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "rxD7qJGHPES",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "MPfnB24qghg",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "z39smRnruIV",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "yNyoWOW2jMH",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "s2nC2c9YSIq",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "eTmBL5lH1i3",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "zCPbjLjjdow",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "AHIXg72i0MG",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "esI4gbvN6sy",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "sZfODb2pYal",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "tfw1bn6kGoQ",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "m3WzP4SFo01",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "iC9OFk0tkwF",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "FrNF1Mzael2",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "r8dC946xWAm",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "nY9GbkwhghU",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "zlqlpbi3QJJ",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "l3XPakm6PmX",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "Ubasgwl8VrT",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "l7l7UXCSl00",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "zrELmha1b0R",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "ZtvgA3BpY49",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "Qo5u7P6Ji44",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "DdKvC5yp45k",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "XekfrfhYq2F",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "Gt5AdUywXRN",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "FjJuZNrwD10",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "ZuWZuBFYmo9",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "oprDFoxr9wX",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "nUbNRKjrLyq",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "EmTohB43m59",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "VvvWStniB6k",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "blPMErL3U0L",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "tjGzNZC6Vf7",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "khtQb7VbS86",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "u1nXMc0RDPQ",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "A36bk3LWGE1",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "gpUNpfVsBFW",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "OLz0e2MDjyf",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "m9IFoHoZs7X",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "xPKlYO3mOn9",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "PJbWlsedeh5",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "XbmrJuFwen5",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "O6cbCIPeXzQ",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "SzwogAft4FB",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "GqlEfekURaf",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "eEr0EN50uNX",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "dAIbKe5RtQ9",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "MmmH4P4WeMj",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "RGYC7JE1gKo",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "KS3Atz2HkWz",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "AFVo5FmI4Fb",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "qGCB64F0c6H",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "DPiQlKZaSbh",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "Sj4pSLLS15x",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "WSGLhrwqIgo",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "fmNxXoJcS0w",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "uJb0aOedc8J",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "gCnCDBD6Dn9",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "EtJiP2hqe3Z",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "F0FEF5c62Z3",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "OwY1rCoaLwW",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "whjT1xFvR2q",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "z7dPs7u3AHu",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "Xj2o6QwapUF",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "aNFOetIh7Ko",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "yJOLrVJo01e",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "Yto5GBdhclY",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "E1SBzArJy0F",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "ksh6vzpaRVh",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "R1DPIWp1LMn",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "WkSPjjt8fCb",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "fUuNkGR4y9X",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 1,
-                                "label": "Total",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "EqyueJyuosr",
-                                "flex": 1,
-                                "label": "Sum A:",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "uQbCgoDN44k",
-                                "flex": 1,
-                                "label": "Sum B:",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "k9Yv6G2Ib0E",
-                                "flex": 1,
-                                "label": "Sum C:",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "njquTbXTufU",
-                                "flex": 1,
-                                "label": "Sum D:",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
+                                "id": "Q6k7bjpxQCI",
+                                "flex": 4,
+                                "label": "[ ]/5",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ]
                     ],
-                    "instruction": "Instruction: For this section, Supervisor select 10 PT slides, 4 slides for Detection, 3 slides for Speciation and 3 slides for Quantification. These should come from ZAMEP SLIDE BANK reference Laboratory during day of visit. Identify PT slides by writing the slide number and reexamine them using the set of saved PT slides. Let the available Lab Technician examine all 10 PT slides. Compare your results from slide bank answer sheet with those Technician and fill the PT assessment form below.   Note: On agreement column fill the total score agreement of slide read on detection, Speciation and Quantification.     Instruction: Fill the assessment after PT slide reading"
+                    "instruction": ""
                 },
                 {
                     "title": "E.3 Internal Quality Control (IQC)",
@@ -3966,12 +3538,12 @@
                         [{
                                 "id": "",
                                 "flex": 4,
-                                "label": "Are 10% of the slides picked randomly, cross-checked by three readers and reported in log sheet daily? Select N/A if at least two readers not available",
+                                "label": "Does the facility performed weekly internal assessment and pick two random blood films daily and filled in a log sheet? Verify",
                                 "isBolded": false,
                                 "subInputs": []
                             },
                             {
-                                "id": "HkPlV2keCSh",
+                                "id": "AMga8UDMRXH",
                                 "flex": 4,
                                 "label": "",
                                 "isBolded": false,
@@ -3981,31 +3553,70 @@
                         [{
                                 "id": "",
                                 "flex": 4,
-                                "label": "If there are less than two laboratory staff, is repeatability done? Verify. Select N/A if at least two readers are available.",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "yxW0iM60z01",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 4,
-                                "label": "SUB-SCORE: E.3 Internal Quality Control (IQC)",
+                                "label": "SUB-SCORE: E.3 IQC",
                                 "isBolded": true,
                                 "subInputs": []
                             },
                             {
                                 "id": "sSUAP3QFeaZ",
                                 "flex": 4,
-                                "label": "[__]/4*100",
+                                "label": "[__]/4",
                                 "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            }
+                        ]
+                    ],
+                    "instruction": ""
+                },
+                {
+                    "title": "Section E.: Quality Assurance Score",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "E.1 Proficiency",
+                                "isBolded": true,
                                 "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "E.2 External Quality Assurance",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "E.3 Internal Quality Control",
+                                "isBolded": true,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "NsWjMLyIxfs",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "Q6k7bjpxQCI",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "sSUAP3QFeaZ",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ],
                         [{
@@ -4018,13 +3629,13 @@
                             {
                                 "id": "OvlJpkEhmTy",
                                 "flex": 4,
-                                "label": "[E1-E2]/2",
+                                "label": "[E.1+E.2 +E.3]/3",
                                 "isBolded": false,
                                 "subInputs": []
                             }
                         ]
                     ],
-                    "instruction": ""
+                    "instruction": "Instructions: Calculate Total Section Score by averaging  section Scores"
                 }
             ]
         },
@@ -4033,697 +3644,114 @@
             "inputRows": [],
             "instruction": "",
             "subSections": [{
-                    "title": "F.1. Laboratory Malaria Register Data Consistency Check",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 1,
-                                "label": "Month/Year",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "NjravBsDIKX",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "Data Elements",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "Malaria Test Register (A)",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 2,
-                                "label": "Malaria Case Register (MCR) Positive (B)",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 2,
-                                "label": "Check if Register=MCR       A=B",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "Total Malaria BS Positive",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "qhEmfDuIJ2O",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "tcA518pUs4x",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "ShtVswBocUk",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 4,
-                                "label": "SCORE:Section F1. Consistency check",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "Ks89DOPBLpT",
-                                "flex": 4,
-                                "label": "[__]/2*100",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ]
+                "title": "F.1. Laboratory Malaria Register Data Consistency Check",
+                "inputRows": [
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Month/Year",
+                            "isBolded": true,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 2,
+                            "label": "Data Elements",
+                            "isBolded": true,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 2,
+                            "label": "Malaria Test Register (A)",
+                            "isBolded": true,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 2,
+                            "label": "Malaria Case Register (MCR) Positive (B)",
+                            "isBolded": true,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 2,
+                            "label": "Check if Register=MCR   A=B",
+                            "isBolded": true,
+                            "subInputs": []
+                        }
                     ],
-                    "instruction": "Choose the most previous three month data from Malaria register and National malaria case register for positive cases. Laboratory Register, NMCR and write the values in each of the blank squares. Compare the values A and B as directed in the table below. Give 2 point for each of the matching numbers"
-                },
-                {
-                    "title": "F.2 Slide data collection",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 1,
-                                "label": "Total number of slides examined in the last month",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": [{
-                                        "id": "",
-                                        "label": "Male",
-                                        "isBolded": false,
-                                        "subInputs": []
-                                    },
-                                    {
-                                        "id": "",
-                                        "label": "Female",
-                                        "isBolded": false,
-                                        "subInputs": []
-                                    }
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": [{
-                                        "id": "XGsNoS5oRnA",
-                                        "label": "",
-                                        "isBolded": false,
-                                        "subInputs": []
-                                    },
-                                    {
-                                        "id": "riBm1EffuRR",
-                                        "label": "",
-                                        "isBolded": false,
-                                        "subInputs": []
-                                    }
-                                ]
-                            },
-                            {
-                                "id": "Kz1qXOnAlca",
-                                "flex": 1,
-                                "label": "[F+M]=",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 1,
-                                "label": "Total number of slides examined in the last month",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": [{
-                                        "id": "",
-                                        "label": "Male",
-                                        "isBolded": false,
-                                        "subInputs": []
-                                    },
-                                    {
-                                        "id": "",
-                                        "label": "Female",
-                                        "isBolded": false,
-                                        "subInputs": []
-                                    }
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": [{
-                                        "id": "b9ikO2KMUPj",
-                                        "label": "",
-                                        "isBolded": false,
-                                        "subInputs": []
-                                    },
-                                    {
-                                        "id": "GSUT69kt2xY",
-                                        "label": "",
-                                        "isBolded": false,
-                                        "subInputs": []
-                                    }
-                                ]
-                            },
-                            {
-                                "id": "NsHGBqBY4P6",
-                                "flex": 1,
-                                "label": "[F+M]=",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 1,
-                                "label": "Total number of slides for under five years examined",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": [{
-                                        "id": "",
-                                        "label": "Male",
-                                        "isBolded": false,
-                                        "subInputs": []
-                                    },
-                                    {
-                                        "id": "",
-                                        "label": "Female",
-                                        "isBolded": false,
-                                        "subInputs": []
-                                    }
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": [{
-                                        "id": "WfLJOSapJMe",
-                                        "label": "",
-                                        "isBolded": false,
-                                        "subInputs": []
-                                    },
-                                    {
-                                        "id": "DaoOiEoqs2x",
-                                        "label": "",
-                                        "isBolded": false,
-                                        "subInputs": []
-                                    }
-                                ]
-                            },
-                            {
-                                "id": "dzC7wvPgJcn",
-                                "flex": 1,
-                                "label": "[F+M]=",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 1,
-                                "label": "Number of slides positive for under five years",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": [{
-                                        "id": "",
-                                        "label": "Male",
-                                        "isBolded": false,
-                                        "subInputs": []
-                                    },
-                                    {
-                                        "id": "",
-                                        "label": "Female",
-                                        "isBolded": false,
-                                        "subInputs": []
-                                    }
-                                ]
-                            },
-                            {
-                                "id": "",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": [{
-                                        "id": "D5TLwl10x2y",
-                                        "label": "",
-                                        "isBolded": false,
-                                        "subInputs": []
-                                    },
-                                    {
-                                        "id": "IUiwwsG6Xbs",
-                                        "label": "",
-                                        "isBolded": false,
-                                        "subInputs": []
-                                    }
-                                ]
-                            },
-                            {
-                                "id": "cJTP2u4zIGl",
-                                "flex": 1,
-                                "label": "[F+M]=",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Number of Positive slides sent for quality control",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "CMqq9MZBtev",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "Number of Negative slides sent for quality control",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "vryqzfnRJWl",
-                                "flex": 4,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ]
+                    [{
+                            "id": "yJXI8jLY4RJ",
+                            "flex": 2,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 2,
+                            "label": "Total Malaria BS Positive",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "qhEmfDuIJ2O",
+                            "flex": 2,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "tcA518pUs4x",
+                            "flex": 2,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "ShtVswBocUk",
+                            "flex": 2,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
                     ],
-                    "instruction": "Fill the monthly summary report from the lab register to the data collection form."
-                },
-                {
-                    "title": "",
-                    "inputRows": [
-                        [{
-                                "id": "",
-                                "flex": 1,
-                                "label": "Slide ID No",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "Date of exams",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "1st Reader Results",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "2nd Reader Result",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 1,
-                                "label": "Agreement",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 3,
-                                "label": "Discordant",
-                                "isBolded": true,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "fOktyLYpzys",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "ejFJDqPQmrl",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "P8IBoC8kFIp",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "rMdnY13KA1w",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "xjp1iZ9qrCu",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "JAQnTvI3WiD",
-                                "flex": 3,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "qyASgk6AwJ9",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "kpavi94jQjN",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "oIPff6QKvvc",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "L9Cd0gPWtrl",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "IvtctqHI5S3",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "awPzcMxZQQJ",
-                                "flex": 3,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "GBBt8O3Aitt",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "UniGXHQaihb",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "qEPNpjwBLTc",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "efXhWScxuJs",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "kUpoNHTnUuD",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "M13jtyF9C4Y",
-                                "flex": 3,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "Fe8BP7PlilQ",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "dr8HGCeCcU9",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "ZY4VfCB2Bam",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "ruYXI8TQLG8",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "nJGonajs2BT",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "g3EH1dVQnD4",
-                                "flex": 3,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "d1PCEmpmQDD",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "iuuHO7sJlFa",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "PyPy1JxkhF2",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "ifbSbnKv6Ln",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "iJGptfZF4Bw",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "zPKlvhB6SaM",
-                                "flex": 3,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "pmHMVedJrmA",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "FNQapStBqpj",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "xmKqtVycORf",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "av11iamhzq8",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "E5LCkMoLh2e",
-                                "flex": 1,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "wRsNoIbh6or",
-                                "flex": 3,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
-                                "label": "End Time",
-                                "isBolded": true,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "fxr66P7d4AL",
-                                "flex": 5,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ]
+                    [{
+                            "id": "",
+                            "flex": 4,
+                            "label": "SCORE:Section F Consistency check",
+                            "isBolded": true,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "Ks89DOPBLpT",
+                            "flex": 4,
+                            "label": "[__]/2",
+                            "isBolded": false,
+                            "subInputs": [],
+                            "suffixLabel": "%"
+                        }
                     ],
-                    "instruction": "Instructions: Collect 10% of negative and 100% of positive slides regarding as a first reader and send to re- examine at the ZAMEP reference laboratory for cross check at the end supervisor compare the result of first reader and second reader to provide score"
-                }
-            ]
+                    [{
+                            "id": "",
+                            "flex": 14,
+                            "label": "End time of the supervision visit ",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "fxr66P7d4AL",
+                            "flex": 6,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ]
+                ],
+                "instruction": "Instructions: Choose the most previous three-month data from Malaria register and National malaria case register for positive cases. Laboratory Register, NMCR and write the values in each of the blank squares. Compare the values A and B as directed in the table below. Give 2 point for each of the matching numbers."
+            }]
         }
     ],
     "programStage": "djCyUeYFHTT"

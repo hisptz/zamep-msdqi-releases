@@ -36,7 +36,7 @@
                             "subInputs": []
                         },
                         {
-                            "id": "ehAyC9CL5IT",
+                            "id": "CL8cOTy1hi1",
                             "flex": 1,
                             "label": "",
                             "isBolded": false,
@@ -91,7 +91,7 @@
                     [{
                             "id": "",
                             "flex": 3,
-                            "label": "Name of health care provider assessed",
+                            "label": "Name of health facility health care provider assessed:",
                             "isBolded": false,
                             "subInputs": []
                         },
@@ -106,12 +106,12 @@
                     [{
                             "id": "",
                             "flex": 1,
-                            "label": "Health Care Provider Cadre",
+                            "label": "Title (Qualification):",
                             "isBolded": false,
                             "subInputs": []
                         },
                         {
-                            "id": "JsAveUjpAev",
+                            "id": "j5HcCaVtxON",
                             "flex": 1,
                             "label": "",
                             "isBolded": false,
@@ -154,28 +154,6 @@
                                     "subInputs": []
                                 }
                             ]
-                        }
-                    ],
-                    [{
-                            "id": "",
-                            "flex": 1,
-                            "label": "Specify other cadre",
-                            "isBolded": false,
-                            "subInputs": []
-                        },
-                        {
-                            "id": "U7YQ2hQLgYp",
-                            "flex": 1,
-                            "label": "",
-                            "isBolded": false,
-                            "subInputs": []
-                        },
-                        {
-                            "id": "",
-                            "flex": 2,
-                            "label": "",
-                            "isBolded": false,
-                            "subInputs": []
                         }
                     ],
                     [{
@@ -288,7 +266,7 @@
                             },
                             {
                                 "id": "",
-                                "label": "C.2 Staff Training",
+                                "label": "C.2 Staff Training only Public health facility",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -300,7 +278,7 @@
                             },
                             {
                                 "id": "",
-                                "label": "C.4  Logistic Health Management Information System Tools Availability",
+                                "label": "C.4 Logistic Health Management Information System Tools Availability only Public health facility",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -319,6 +297,12 @@
                             {
                                 "id": "",
                                 "label": "C.7  Essential Equipment – Dispensing Site/Area",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "label": "C.8  General mRDT storage conditions scores",
                                 "isBolded": false,
                                 "subInputs": []
                             }
@@ -402,13 +386,13 @@
                         "isBolded": false,
                         "subInputs": [{
                                 "id": "",
-                                "label": "G.1  Logistics-DQA  Readiness",
+                                "label": "G.1 Logistics-DQA Readiness  only Public health facility",
                                 "isBolded": false,
                                 "subInputs": []
                             },
                             {
                                 "id": "",
-                                "label": "G.2 Logistic Register Review and Verification",
+                                "label": "G.2   Logistic Register Review and Verification only Public health facility",
                                 "isBolded": false,
                                 "subInputs": []
                             }
@@ -436,7 +420,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "1. Is this facility a",
+                                "label": "1. Is this facility a PHCU/PHCU+ ",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -449,9 +433,16 @@
                             }
                         ],
                         [{
+                            "id": "",
+                            "flex": 4,
+                            "label": "If No go to question 2",
+                            "isBolded": false,
+                            "subInputs": []
+                        }],
+                        [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "2. If yes is there clinician for dispensing medication",
+                                "label": "If yes is there clinician for dispensing medication",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -466,7 +457,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "3. If yes is there at least one Pharmaceutical Technician",
+                                "label": "If yes is there at least one Pharmaceutical Technician",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -481,7 +472,22 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "4. If yes is there at least one Pharmacist",
+                                "label": "2. Is this facility a District/Regional/Referral Hospital",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "eu1SlYRQhZf",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "If yes is there at least one Pharmacist",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -509,7 +515,7 @@
                             }
                         ]
                     ],
-                    "instruction": "Determine the number of staff members present at the facility on the day of the visit depending on the level"
+                    "instruction": "Instructions: Determine the number of staff members present at the facility on the day of the visit depending on the level "
                 },
                 {
                     "title": "C.2 Staff Training",
@@ -532,7 +538,7 @@
                         [{
                                 "id": "",
                                 "flex": 3,
-                                "label": "Number of staff working at the dispensing/pharmacy who have received training on electronic Logistics Management System (eLMIS)",
+                                "label": "Number of staff working at the dispensing/pharmacy who have received training on electronic Logistics Management System (eLMIS) \neLMIS not applicable for Private sector",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -547,7 +553,7 @@
                         [{
                                 "id": "",
                                 "flex": 3,
-                                "label": "SUB-SCORE: C.2 Proportion of staff trained on electronic Logistics Management System (eLMIS)",
+                                "label": "SUB-SCORE: C.2 Proportion of staff trained on electronic Logistics Management System (eLMIS) ",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -560,7 +566,7 @@
                             }
                         ]
                     ],
-                    "instruction": "Supervisor, enquire about staff who have received eLMIS training"
+                    "instruction": "Instruction: Supervisor, enquire about staff who have received eLMIS training"
                 },
                 {
                     "title": "C.3 Reference Materials",
@@ -743,7 +749,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "R and R forms",
+                                "label": "R and R forms(Not applicable for Private)",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -917,21 +923,6 @@
                         [{
                                 "id": "",
                                 "flex": 3,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            },
-                            {
-                                "id": "",
-                                "flex": 2,
-                                "label": "",
-                                "isBolded": false,
-                                "subInputs": []
-                            }
-                        ],
-                        [{
-                                "id": "",
-                                "flex": 3,
                                 "label": "Premise neat and clean",
                                 "isBolded": false,
                                 "subInputs": []
@@ -947,7 +938,7 @@
                         [{
                                 "id": "",
                                 "flex": 3,
-                                "label": "Lock and key for the store?",
+                                "label": "Lock and key for the store",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -1110,7 +1101,7 @@
                             }
                         ]
                     ],
-                    "instruction": "Verify that each of the following essential equipment’s/supplies is available at the facility"
+                    "instruction": "Instructions: Verify that each of the following essential equipment’s/supplies are available at the facility. "
                 },
                 {
                     "title": "C.6 Essential Equipment-Injection Room",
@@ -1227,7 +1218,7 @@
                             }
                         ]
                     ],
-                    "instruction": "Verify that each of the following essential equipment’s/supplies are available at injection room."
+                    "instruction": "Instructions: Verify that each of the following essential equipment’s/supplies are available at the injection room."
                 },
                 {
                     "title": "C.7 Essential Equipment-Dispensing Site/Area",
@@ -1301,7 +1292,7 @@
                         [{
                                 "id": "",
                                 "flex": 3,
-                                "label": "Spoon (for medicine counting)",
+                                "label": "Spoon/Scissors (for medicine counting)",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -1329,7 +1320,7 @@
                             }
                         ]
                     ],
-                    "instruction": "Verify that each of the following essential equipment’s/supplies is available at the facility."
+                    "instruction": "Instructions: Verify that each of the following essential equipment’s/supplies are available at the dispensing site/area. "
                 },
                 {
                     "title": "C.8 General mRDT Storage Conditions",
@@ -1453,6 +1444,110 @@
                                 "isBolded": false,
                                 "subInputs": []
                             }
+                        ]
+                    ],
+                    "instruction": ""
+                },
+                {
+                    "title": "Section C.: Health Facility Logistics Readiness Score",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.1 Staffing Levels",
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.2 Staff Training",
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.3 Reference Materials",
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.4 Logistics HMIS tools",
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.5 Store Room",
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.6 Injection Room",
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.7 Dispensing Site",
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "C.8 General mRDT Storage Condition",
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "k6Ko9J8zKGa",
+                                "flex": 1,
+                                "label": "",
+                                "subInputs": []
+                            },
+                            {
+                                "id": "eHLu7SiMdoN",
+                                "flex": 1,
+                                "label": "",
+                                "subInputs": []
+                            },
+                            {
+                                "id": "mXWYjZLL9GW",
+                                "flex": 1,
+                                "label": "",
+                                "subInputs": []
+                            },
+                            {
+                                "id": "f4fEGNSz2Y7",
+                                "flex": 1,
+                                "label": "",
+                                "subInputs": []
+                            },
+                            {
+                                "id": "VXhPFskKW1x",
+                                "flex": 1,
+                                "label": "",
+                                "subInputs": []
+                            },
+                            {
+                                "id": "bvg9IyaczYj",
+                                "flex": 1,
+                                "label": "",
+                                "subInputs": []
+                            },
+                            {
+                                "id": "UjQaj7e6Tu6",
+                                "flex": 1,
+                                "label": "",
+                                "subInputs": []
+                            },
+                            {
+                                "id": "xXIS7DtTiCn",
+                                "flex": 1,
+                                "label": "",
+                                "subInputs": []
+                            }
                         ],
                         [{
                                 "id": "",
@@ -1470,19 +1565,13 @@
                             }
                         ]
                     ],
-                    "instruction": ""
+                    "instruction": "Instructions: Calculate Total Section Score by averaging  section  Scores"
                 }
             ]
         },
         {
             "title": "Section D. Dispensing Observations",
             "inputRows": [
-                [{
-                    "id": "",
-                    "label": "Did the health provider do the following?",
-                    "isBolded": true,
-                    "subInputs": []
-                }],
                 [{
                         "id": "",
                         "flex": 2,
@@ -1719,7 +1808,7 @@
                     }
                 ]
             ],
-            "instruction": " Observe the dispenser while dispensing medicines to patients with fever. If a facility has more than one dispenser observations should be made to different dispensers, if there is only one dispenser then all observations should be done on that dispenser. Do not interrupt unless the patient is severely ill or if the practice of the dispenser would put the patient in danger. If a patient is severely ill then the supervisor should help refer the patient to relevant clinicians for care.",
+            "instruction": "Instructions: Observe the dispenser while dispensing medicines to patients with fever. If a facility has more than one dispenser observations should be made to different dispensers, if there is only one dispenser then all observations should be done on that dispenser. Do not interrupt unless the patient is severely ill or if the practice of the dispenser would put the patient in danger. If a patient is severely ill, then the supervisor should help refer patient to relevant clinicians for care. If there is no client, simulation should be done.\nDid the health provider do the following?",
             "subSections": []
         },
         {
@@ -1727,34 +1816,34 @@
             "inputRows": [],
             "instruction": "",
             "subSections": [{
-                    "title": "E.1  Stock Status for 1st Line ACTs, Primaquine & mRDT",
+                    "title": "E.1 Stock Availability for 1st Line ACTs, Primaquine & mRDT\n*N =availability on visit day or past 3 months",
                     "inputRows": [
                         [{
                                 "id": "",
                                 "flex": 2,
                                 "label": "Verify availability of 1st Line ACTs",
-                                "isBolded": false,
+                                "isBolded": true,
                                 "subInputs": []
                             },
                             {
                                 "id": "",
                                 "flex": 2,
                                 "label": "Available on the day of the visit?",
-                                "isBolded": false,
+                                "isBolded": true,
                                 "subInputs": []
                             },
                             {
                                 "id": "",
                                 "flex": 2,
                                 "label": "Was there no stock out in the last 3 months?",
-                                "isBolded": false,
+                                "isBolded": true,
                                 "subInputs": []
                             },
                             {
                                 "id": "",
                                 "flex": 3,
                                 "label": "If there was stock out, write total stock out days in the last three months",
-                                "isBolded": false,
+                                "isBolded": true,
                                 "subInputs": []
                             }
                         ],
@@ -2282,7 +2371,7 @@
                             {
                                 "id": "grFy2phOgjH",
                                 "flex": 2,
-                                "label": "[ ]/16",
+                                "label": "[ ]/15",
                                 "isBolded": false,
                                 "subInputs": []
                             }
@@ -2297,28 +2386,28 @@
                                 "id": "",
                                 "flex": 2,
                                 "label": "Verify availability of 2nd Line ACTs, injectable and other supportive medicines for severe malaria",
-                                "isBolded": false,
+                                "isBolded": true,
                                 "subInputs": []
                             },
                             {
                                 "id": "",
                                 "flex": 1,
                                 "label": "Available on the day of the visit?",
-                                "isBolded": false,
+                                "isBolded": true,
                                 "subInputs": []
                             },
                             {
                                 "id": "",
                                 "flex": 1,
                                 "label": "Was there no stock out in the last 3 months?",
-                                "isBolded": false,
+                                "isBolded": true,
                                 "subInputs": []
                             },
                             {
                                 "id": "",
                                 "flex": 2,
                                 "label": "If there was stock out, write total stock out days in the last three months",
-                                "isBolded": false,
+                                "isBolded": true,
                                 "subInputs": []
                             }
                         ],
@@ -2441,7 +2530,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Stock Status Artemether Lumefantrine Score per event",
+                                "label": "Sub score: stock status of 2nd Line Artemether Lumefantrine",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -2481,6 +2570,56 @@
                                 "isBolded": false,
                                 "subInputs": []
                             }
+                        ]
+                    ],
+                    "instruction": ""
+                },
+                {
+                    "title": "Section E.: Stock Out Level Score",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 2,
+                                "label": "E.1  Stock Status Antimalarial",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "E.2  Stock Status Artesunate Injection",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": " Stock Status for 2nd Line AL",
+                                "isBolded": true,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "dw9KqX7RZaF",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "grFy2phOgjH",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "zYbaJJVxj0u",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
                         ],
                         [{
                                 "id": "",
@@ -2498,7 +2637,7 @@
                             }
                         ]
                     ],
-                    "instruction": ""
+                    "instruction": "Instructions: Calculate Total Section Score by averaging  section Scores"
                 }
             ]
         },
@@ -2507,22 +2646,15 @@
             "inputRows": [
                 [{
                         "id": "",
-                        "flex": 5,
+                        "flex": 7,
                         "label": "Qtr: write months of the quarter reviewed ",
                         "isBolded": false,
                         "subInputs": []
                     },
                     {
-                        "id": "QiclgpIZJrF",
-                        "flex": 2,
-                        "label": "Start month",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "rK4djE3Dg5n",
+                        "id": "nKb6niTq2Al",
                         "flex": 3,
-                        "label": "End month",
+                        "label": "",
                         "isBolded": false,
                         "subInputs": []
                     }
@@ -2537,73 +2669,79 @@
                     {
                         "id": "",
                         "flex": 4,
-                        "label": "Stock Status",
-                        "isBolded": false,
-                        "subInputs": []
+                        "label": "",
+                        "isBolded": true,
+                        "subInputs": [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Stock Status",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "Store Ledger",
+                                "isBolded": true,
+                                "subInputs": []
+                            }
+                        ]
                     },
                     {
-                        "id": "",
-                        "flex": 3,
-                        "label": "Expiry Status",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
                         "id": "",
                         "flex": 3,
                         "label": "",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 4,
-                        "label": "Store Ledger",
-                        "isBolded": false,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "",
-                        "flex": 3,
-                        "label": "Was the quantity of commodities that were expiring within three months greater than the quantity of consumable stocks?",
-                        "isBolded": false,
-                        "subInputs": []
+                        "isBolded": true,
+                        "subInputs": [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "Expiry Status",
+                                "isBolded": true,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "",
+                                "isBolded": true,
+                                "subInputs": []
+                            }
+                        ]
                     }
                 ],
                 [{
                         "id": "",
                         "flex": 2,
                         "label": "Product",
-                        "isBolded": false,
+                        "isBolded": true,
                         "subInputs": []
                     },
                     {
                         "id": "",
                         "flex": 1,
                         "label": "Unit of measure",
-                        "isBolded": false,
+                        "isBolded": true,
                         "subInputs": []
                     },
                     {
                         "id": "",
                         "flex": 2,
                         "label": "Was there a stock out of the item for 7 days or more in the last 3 months?",
-                        "isBolded": false,
+                        "isBolded": true,
                         "subInputs": []
                     },
                     {
                         "id": "",
                         "flex": 2,
                         "label": "Was there a stock out of the item on the day of the visit?",
-                        "isBolded": false,
+                        "isBolded": true,
                         "subInputs": []
                     },
                     {
                         "id": "",
                         "flex": 3,
-                        "label": "",
-                        "isBolded": false,
+                        "label": "Were the quantity of commodities that were expiring within three months greater than the quantity of consumable stocks?",
+                        "isBolded": true,
                         "subInputs": []
                     }
                 ],
@@ -2826,7 +2964,7 @@
                 [{
                         "id": "",
                         "flex": 3,
-                        "label": "F.1 No stock-outs of malaria commodities",
+                        "label": "SCORE \n F.1 No stock-outs of malaria commodities",
                         "isBolded": true,
                         "subInputs": []
                     },
@@ -2847,37 +2985,29 @@
                     {
                         "id": "",
                         "flex": 3,
-                        "label": "",
-                        "isBolded": false,
+                        "label": "F.2 No expired commodities",
+                        "isBolded": true,
                         "subInputs": []
                     }
                 ],
                 [{
                         "id": "",
-                        "flex": 7,
-                        "label": "F.2 No expired commodities",
+                        "flex": 3,
+                        "label": "SUB-SCORES (Averages)",
                         "isBolded": true,
+                        "subInputs": []
+                    },
+                    {
+                        "id": "H631KimKXiO",
+                        "flex": 4,
+                        "label": "[ ]/12",
+                        "isBolded": false,
                         "subInputs": []
                     },
                     {
                         "id": "QRqKzbEwY06",
                         "flex": 3,
                         "label": "[ ]/6",
-                        "isBolded": false,
-                        "subInputs": []
-                    }
-                ],
-                [{
-                        "id": "",
-                        "flex": 7,
-                        "label": "SUB-SCORES (Averages)  Commodities",
-                        "isBolded": true,
-                        "subInputs": []
-                    },
-                    {
-                        "id": "H631KimKXiO",
-                        "flex": 3,
-                        "label": "[ ]/12",
                         "isBolded": false,
                         "subInputs": []
                     }
@@ -2890,12 +3020,12 @@
             "inputRows": [],
             "instruction": "",
             "subSections": [{
-                    "title": "G.1 Logistics DQA Readiness",
+                    "title": "G.1 Logistics DQA Readiness(Not applicable for Private facilities)",
                     "inputRows": [
                         [{
                                 "id": "",
                                 "flex": 4,
-                                "label": "Is there a staff assigned for recording monthly/quarterly summary forms for eLMIS?",
+                                "label": "Is there a staff assigned for recording monthly or summary forms for eLMIS?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2910,7 +3040,37 @@
                         [{
                                 "id": "",
                                 "flex": 4,
-                                "label": "Is there a staff designated for reviewing filled R&R prior to submission to the council level?",
+                                "label": "Is the R&R filled accordingly at the health facility?",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "ONq9QMbnUKt",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "Is there separate staff who create R&R ",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "BFZMB7L5bbf",
+                                "flex": 2,
+                                "label": "",
+                                "isBolded": false,
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "Is there a staff designated for reviewing filled and authorize R&R prior to submission to the DHMT level?",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2955,7 +3115,7 @@
                         [{
                                 "id": "",
                                 "flex": 4,
-                                "label": "Do the Medicine and Therapeutic committee of the facility use Logistic data for Planning and decision making? (Applicable for Cottage and Referral hospitals)",
+                                "label": "Does the Medicine and Therapeutic committee of the facility use Logistic data for Planning and decision making? (Applicable for Cottage ,District, Regional  and Referral hospitals)",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -2983,11 +3143,33 @@
                             }
                         ]
                     ],
-                    "instruction": "Interviews the person or person(s) involved in Logistics data entry and management at the facility to complete this section."
+                    "instruction": "Instructions: Interviews the person or person(s) involved in Logistics data entry and management at the facility to complete this section. "
                 },
                 {
-                    "title": "G.2 Ledger Documentation and Consistency Check",
+                    "title": "G.2 Ledger Documentation and Consistency Check(Not applicable at Private sector)",
                     "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 4,
+                                "label": "review period",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "QiclgpIZJrF",
+                                "flex": 2,
+                                "label": "Start month",
+                                "isBolded": false,
+                                "subInputs": []
+                            },
+                            {
+                                "id": "rK4djE3Dg5n",
+                                "flex": 2,
+                                "label": "End month",
+                                "isBolded": true,
+                                "subInputs": []
+                            }
+                        ],
                         [{
                                 "id": "",
                                 "flex": 2,
@@ -3097,7 +3279,7 @@
                             {
                                 "id": "",
                                 "flex": 2,
-                                "label": "Check #1: Received items (MSD-sales ledger/invoice)",
+                                "label": "Check #1: Received items (CMS sales ledger/invoice)",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -3168,14 +3350,14 @@
                             {
                                 "id": "",
                                 "flex": 2,
-                                "label": "IS A=C",
+                                "label": "IS A=C?",
                                 "isBolded": true,
                                 "subInputs": []
                             },
                             {
                                 "id": "",
                                 "flex": 2,
-                                "label": "IS B=D",
+                                "label": "IS B=D?",
                                 "isBolded": true,
                                 "subInputs": []
                             },
@@ -3403,7 +3585,7 @@
                         [{
                                 "id": "",
                                 "flex": 2,
-                                "label": "Primaquine",
+                                "label": "Primaquine 7.5 mg",
                                 "isBolded": false,
                                 "subInputs": []
                             },
@@ -3535,7 +3717,7 @@
                                 "subInputs": []
                             },
                             {
-                                "id": "bDfodVWKn5z",
+                                "id": "WVCVjNuFGSv",
                                 "flex": 2,
                                 "label": "",
                                 "isBolded": false,
@@ -3623,23 +3805,26 @@
                             {
                                 "id": "Nv7GvuCWLjN",
                                 "flex": 2,
-                                "label": "[__]/6% = ",
+                                "label": "[__]/6",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             },
                             {
                                 "id": "xRWlhvrduew",
                                 "flex": 2,
-                                "label": "[__]/6% = ",
+                                "label": "[__]/6",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             },
                             {
                                 "id": "JbkYyLNf85o",
                                 "flex": 2,
-                                "label": "[__]/6% = ",
+                                "label": "[__]/6",
                                 "isBolded": false,
-                                "subInputs": []
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             },
                             {
                                 "id": "",
@@ -3647,6 +3832,40 @@
                                 "label": "",
                                 "isBolded": false,
                                 "subInputs": []
+                            }
+                        ]
+                    ],
+                    "instruction": "Instructions: Review the information system record from the last quarter and enter the number of products in the below table.: Write months of the review period    Note: To complete this table scroll left"
+                },
+                {
+                    "title": "Section G.:  Logistics DQA Score",
+                    "inputRows": [
+                        [{
+                                "id": "",
+                                "flex": 1,
+                                "label": "G.1   Logistics DQA Readiness",
+                                "subInputs": []
+                            },
+                            {
+                                "id": "",
+                                "flex": 1,
+                                "label": "G.2 Ledger Documentation and Consistency Check",
+                                "subInputs": []
+                            }
+                        ],
+                        [{
+                                "id": "v9e7d1OxqAR",
+                                "flex": 1,
+                                "label": "",
+                                "subInputs": [],
+                                "suffixLabel": "%"
+                            },
+                            {
+                                "id": "Ct6RVe2N3P5",
+                                "flex": 1,
+                                "label": "",
+                                "subInputs": [],
+                                "suffixLabel": "%"
                             }
                         ],
                         [{
@@ -3680,7 +3899,7 @@
                             }
                         ]
                     ],
-                    "instruction": "Review the information system record from the last quarter and enter the number of products in the below table.: Write months of the review period    Note: To complete this table scroll left"
+                    "instruction": "Instructions: Calculate Total Section Score by averaging  section Scores"
                 }
             ]
         }

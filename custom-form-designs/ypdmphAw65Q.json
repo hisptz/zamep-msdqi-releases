@@ -97,7 +97,7 @@
                     [{
                             "id": "",
                             "flex": 3,
-                            "label": "Name of health care provider assessed",
+                            "label": "Name of health care provider assessed:",
                             "isBolded": false,
                             "subInputs": []
                         },
@@ -112,12 +112,12 @@
                     [{
                             "id": "",
                             "flex": 2,
-                            "label": "Health Care Provider Cadre",
+                            "label": "Title (Qualification):",
                             "isBolded": false,
                             "subInputs": []
                         },
                         {
-                            "id": "j5HcCaVtxON",
+                            "id": "ysiyEwNWBup",
                             "flex": 1,
                             "label": "",
                             "isBolded": false,
@@ -164,21 +164,6 @@
                                     "subInputs": []
                                 }
                             ]
-                        }
-                    ],
-                    [{
-                            "id": "",
-                            "flex": 1,
-                            "label": "Specify other cadre",
-                            "isBolded": false,
-                            "subInputs": []
-                        },
-                        {
-                            "id": "U7YQ2hQLgYp",
-                            "flex": 1,
-                            "label": "",
-                            "isBolded": false,
-                            "subInputs": []
                         }
                     ],
                     [{
@@ -262,8 +247,23 @@
                     [{
                             "id": "",
                             "flex": 2,
-                            "label": "Facility MEEDS/MCN readiness",
+                            "label": "Core QI Indicators",
                             "isBolded": true,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "",
+                            "flex": 4,
+                            "label": "Auxiliary Indicators",
+                            "isBolded": true,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 2,
+                            "label": "Facility MCN/IDSR readiness",
+                            "isBolded": false,
                             "subInputs": []
                         },
                         {
@@ -273,17 +273,17 @@
                             "isBolded": true,
                             "subInputs": [{
                                     "id": "",
-                                    "label": "C.1 MEEDS/MCN Staffing",
+                                    "label": "C.1 IDSR/MCN Staffing",
                                     "isBolded": false
                                 },
                                 {
                                     "id": "",
-                                    "label": "C.2 Availability of MEEDS/MCN trained staffs",
+                                    "label": "C.2 Availability of MCN/IDSR trained staffs",
                                     "isBolded": false
                                 },
                                 {
                                     "id": "",
-                                    "label": "C.3 Availability of  MEEDS and MCN data collection tools",
+                                    "label": "C.3 Availability of  IDSR, MCN and IDSR data collection tools",
                                     "isBolded": false
                                 }
                             ]
@@ -292,7 +292,7 @@
                     [{
                             "id": "",
                             "flex": 2,
-                            "label": "MCN/MEEDS DQA",
+                            "label": "MCN/IDSR/IDSR DQA",
                             "isBolded": false,
                             "subInputs": []
                         },
@@ -308,22 +308,22 @@
                                 },
                                 {
                                     "id": "",
-                                    "label": "D.2 MEEDS completeness",
+                                    "label": "D.2 IDSR completeness",
                                     "isBolded": false
                                 },
                                 {
                                     "id": "",
-                                    "label": "D.3 Verification of MEEDS booklet",
+                                    "label": "D.3 Verification of IDSR booklet",
                                     "isBolded": false
                                 },
                                 {
                                     "id": "",
-                                    "label": "D.4 MEEDS reporting timeliness",
+                                    "label": "D.4 IDSR reporting timeliness",
                                     "isBolded": false
                                 },
                                 {
                                     "id": "",
-                                    "label": "D.5  Verification of the reporting date of MEEDS system and MEEDS booklet",
+                                    "label": "D.5  Verification of the reporting date of IDSR system and IDSR booklet",
                                     "isBolded": false
                                 },
                                 {
@@ -339,15 +339,15 @@
                 "subSections": []
             },
             {
-                "title": "SECTION C. MEEDS/MCN Readiness",
+                "title": "SECTION C. MCN/IDSR Readiness",
                 "instruction": "",
                 "subSections": [{
-                        "title": "C. 1 Facility readiness to provide MEEDS/MCN service",
+                        "title": "C. 1 Facility readiness to provide MCN/IDSR service",
                         "inputRows": [
                             [{
                                     "id": "",
                                     "flex": 4,
-                                    "label": "Is there a health worker who has been assigned for MEED/MCN  reporting",
+                                    "label": "Is there a health worker who has been assigned for MCN  reporting",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
@@ -362,23 +362,39 @@
                             [{
                                     "id": "",
                                     "flex": 4,
-                                    "label": "SUB-SCORE: C.1 MEEDS/MCN focal person score",
+                                    "label": "Is there a health worker has been assigned for IDSR reporting",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "YhcSZetKLMg",
+                                    "flex": 2,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "SUB-SCORE: C.1 MCN/IDSR focal person score",
                                     "isBolded": true,
                                     "subInputs": []
                                 },
                                 {
                                     "id": "zGLprd14k9W",
                                     "flex": 2,
-                                    "label": "[__]/5*100",
+                                    "label": "[__]/10",
                                     "isBolded": false,
-                                    "subInputs": []
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
                                 }
                             ]
                         ],
-                        "instruction": " "
+                        "instruction": ""
                     },
                     {
-                        "title": "C.2 MEEDS/MCN Staff training",
+                        "title": "C.2 MCN/IDSR Staff Reporting capacity",
                         "inputRows": [
                             [{
                                     "id": "",
@@ -398,12 +414,12 @@
                             [{
                                     "id": "",
                                     "flex": 4,
-                                    "label": "Number of staff working at this facility who have received training on MEEDS/MCN system?",
+                                    "label": "Number of staff working at this facility who have the capacity to generate malaria report. ",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "FUMLxZi3Zwn",
+                                    "id": "Dwg7puWyl3j",
                                     "flex": 2,
                                     "label": "B.",
                                     "isBolded": false,
@@ -413,20 +429,66 @@
                             [{
                                     "id": "",
                                     "flex": 4,
-                                    "label": "SUB-SCORE: C.2 MEEDS/MCN staff training readiness score",
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "e4NG7Qc9UwC",
+                                    "flex": 2,
+                                    "label": "C.B/A:",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "Number of staffs working at this facility who have capacity to report in IDSR system ",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "BlF52o51Ua8",
+                                    "flex": 2,
+                                    "label": "D.",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "Fd2QPY9RHXI",
+                                    "flex": 2,
+                                    "label": "E.D/A:",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "SUB-SCORE: C.2 MCN/IDSR Reporting Capacity score:",
                                     "isBolded": true,
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "TM4QdgqCota",
+                                    "id": "F4feKUq3bZZ",
                                     "flex": 2,
-                                    "label": "B/A*100",
+                                    "label": "D+E/2",
                                     "isBolded": false,
-                                    "subInputs": []
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
                                 }
                             ]
                         ],
-                        "instruction": "Supervisor, enquire about staff who have received MEEDS/MCN training"
+                        "instruction": "Instruction: Supervisor, enquire about staff capacity MCN/IDSR reporting"
                     },
                     {
                         "title": "C.3 Does the facility have the following data collection tools for malaria?",
@@ -464,21 +526,6 @@
                             [{
                                     "id": "",
                                     "flex": 4,
-                                    "label": "MEEDS weekly data collection booklet",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "eKkD6qKK5XJ",
-                                    "flex": 3,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                }
-                            ],
-                            [{
-                                    "id": "",
-                                    "flex": 4,
                                     "label": "MCR (malaria cases register)",
                                     "isBolded": false,
                                     "subInputs": []
@@ -494,12 +541,27 @@
                             [{
                                     "id": "",
                                     "flex": 4,
-                                    "label": "Functioning MEEDS/MCN mobile phone on the day of visit",
+                                    "label": "Weekly Disease Surveillance Report (IDSR)",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "MDYkLio0Wq7",
+                                    "id": "CHDVH6NBUJI",
+                                    "flex": 3,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 4,
+                                    "label": "Functioning IDSR electronic devices (Computer, tablet, phone)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "sX6gvsWKTSX",
                                     "flex": 3,
                                     "label": "",
                                     "isBolded": false,
@@ -513,72 +575,6 @@
                                 "subInputs": []
                             }],
                             [{
-                                "id": "",
-                                "label": "Why is the Mobile Phone not functioning?",
-                                "isBolded": false,
-                                "subInputs": []
-                            }],
-                            [{
-                                    "id": "",
-                                    "flex": 4,
-                                    "label": "A. Defective Battery",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "zswOZvBSPkZ",
-                                    "flex": 3,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                }
-                            ],
-                            [{
-                                    "id": "",
-                                    "flex": 4,
-                                    "label": "B. Failure of Line",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "YXVzV3e4Sje",
-                                    "flex": 3,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                }
-                            ],
-                            [{
-                                    "id": "",
-                                    "flex": 4,
-                                    "label": "C. Broken Phone",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "oXBeaiAbjrW",
-                                    "flex": 3,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                }
-                            ],
-                            [{
-                                    "id": "",
-                                    "flex": 4,
-                                    "label": "D. Unfunctioning Charger",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "WAyV1kefZJl",
-                                    "flex": 3,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                }
-                            ],
-                            [{
                                     "id": "",
                                     "flex": 4,
                                     "label": "SUB-SCORE: C.3 Malaria Data collection tools availability score",
@@ -588,72 +584,124 @@
                                 {
                                     "id": "BYfyYYFSEUF",
                                     "flex": 3,
-                                    "label": "[__]/30*100",
+                                    "label": "[__]/30",
+                                    "isBolded": false,
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
+                                }
+                            ]
+                        ],
+                        "instruction": ""
+                    },
+                    {
+                        "title": "Section C.: Health Facility SME Readiness Score",
+                        "inputRows": [
+                            [{
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "C.1 Staffing Levels",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "C.2  MCN/ IDSR Reporting Capacity",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "C.3 SME HMIS Readiness",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "zGLprd14k9W",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "F4feKUq3bZZ",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "BYfyYYFSEUF",
+                                    "flex": 1,
+                                    "label": "",
                                     "isBolded": false,
                                     "subInputs": []
                                 }
                             ],
                             [{
                                     "id": "",
-                                    "flex": 4,
-                                    "label": "Section C.: Health Facility SME Readiness Score",
+                                    "flex": 3,
+                                    "label": "SCORE: Section C. SME Readiness Score",
                                     "isBolded": true,
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "",
-                                    "flex": 3,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                }
-                            ],
-                            [{
                                     "id": "cwIJ7XHXz2S",
-                                    "flex": 4,
+                                    "flex": 1,
                                     "label": "[C1-C3]/3",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "",
-                                    "flex": 3,
-                                    "label": "",
                                     "isBolded": false,
                                     "subInputs": []
                                 }
                             ]
                         ],
-                        "instruction": ""
+                        "instruction": "Instructions: Calculate Total Section Score by averaging  section Scores"
                     }
                 ]
             },
             {
-                "title": "SECTION D. MEEDS/MCN DQA",
-                "inputRows": [],
-                "instruction": " Supervisor, review completeness of the following columns in the National Malaria Case Register (MCR) of the previous quarter. If there was no malaria case recorded in the quarter, go to question 4: MEEDS timeliness.",
+                "title": "SECTION D. MCN/IDSR DQA",
+                "inputRows": [
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Does the facility have malaria cases?",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "JKSwQtrLp2G",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ],
+                    [{
+                            "id": "",
+                            "flex": 3,
+                            "label": "Write down the total number of malaria cases obtained in the review period (N) ",
+                            "isBolded": false,
+                            "subInputs": []
+                        },
+                        {
+                            "id": "WmhHQ1s3lec",
+                            "flex": 1,
+                            "label": "",
+                            "isBolded": false,
+                            "subInputs": []
+                        }
+                    ]
+                ],
+                "instruction": "Instruction: Supervisor, review completeness of the following columns in the National Malaria Case Register (MCR) of the previous quarter. If there was no malaria case recorded in the quarter, click N/A :",
                 "subSections": [{
                         "title": "D.1 Completeness of National Malaria Case Register (MCR)",
                         "inputRows": [
                             [{
                                     "id": "",
                                     "flex": 4,
-                                    "label": "Write total number of malaria cases obtained in the review period (N)",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "NO30LV0vwGg",
-                                    "flex": 4,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                }
-                            ],
-                            [{
-                                    "id": "",
-                                    "flex": 4,
-                                    "label": "A Date of positive results (1)",
+                                    "label": "A. Date of positive results (1)",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
@@ -667,15 +715,16 @@
                                 {
                                     "id": "AAsWMhn6iWP",
                                     "flex": 2,
-                                    "label": "A/N*100",
+                                    "label": "A/N",
                                     "isBolded": false,
-                                    "subInputs": []
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
                                 }
                             ],
                             [{
                                     "id": "",
                                     "flex": 4,
-                                    "label": "B Reference number in the OPD register",
+                                    "label": "B. Reference number in the OPD register",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
@@ -689,15 +738,16 @@
                                 {
                                     "id": "rZ50DnkP7tZ",
                                     "flex": 2,
-                                    "label": "B/N*100 ",
+                                    "label": "B/N",
                                     "isBolded": false,
-                                    "subInputs": []
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
                                 }
                             ],
                             [{
                                     "id": "",
                                     "flex": 4,
-                                    "label": "C Names of the patient (three names) (2)",
+                                    "label": "C. Names of the patient (three names) (2)",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
@@ -711,15 +761,16 @@
                                 {
                                     "id": "sAKI4TR7KX9",
                                     "flex": 2,
-                                    "label": "C/N*100 ",
+                                    "label": "C/N",
                                     "isBolded": false,
-                                    "subInputs": []
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
                                 }
                             ],
                             [{
                                     "id": "",
                                     "flex": 4,
-                                    "label": "D Age (3)",
+                                    "label": "D. Age (3)",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
@@ -733,15 +784,16 @@
                                 {
                                     "id": "XLfoZBJkfOp",
                                     "flex": 2,
-                                    "label": "D/N*100",
+                                    "label": "D/N",
                                     "isBolded": false,
-                                    "subInputs": []
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
                                 }
                             ],
                             [{
                                     "id": "",
                                     "flex": 4,
-                                    "label": "E Village (6)",
+                                    "label": "E. Village (6)",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
@@ -755,15 +807,16 @@
                                 {
                                     "id": "epvrypeG5di",
                                     "flex": 2,
-                                    "label": "E/N*100",
+                                    "label": "E/N",
                                     "isBolded": false,
-                                    "subInputs": []
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
                                 }
                             ],
                             [{
                                     "id": "",
                                     "flex": 4,
-                                    "label": "F Contact mobile number (patient or relative) (10)",
+                                    "label": "F. Contact mobile number (patient or relative) (10)",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
@@ -777,16 +830,17 @@
                                 {
                                     "id": "FPoTc1jhqG5",
                                     "flex": 2,
-                                    "label": "F/N*100",
+                                    "label": "F/N",
                                     "isBolded": false,
-                                    "subInputs": []
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
                                 }
                             ],
                             [{
                                     "id": "",
                                     "flex": 4,
-                                    "label": "G Shehia (5)",
-                                    "isBolded": true,
+                                    "label": "G. Shehia (5)",
+                                    "isBolded": false,
                                     "subInputs": []
                                 },
                                 {
@@ -799,15 +853,16 @@
                                 {
                                     "id": "XsObAfcPluL",
                                     "flex": 2,
-                                    "label": "G/N*100",
+                                    "label": "G/N",
                                     "isBolded": false,
-                                    "subInputs": []
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
                                 }
                             ],
                             [{
                                     "id": "",
                                     "flex": 6,
-                                    "label": "Average MCR completeness filling score (average of each row %)",
+                                    "label": "Average MCR completeness filling score (average of each row %)(A+B+C+D+E+F+G) / 7 ",
                                     "isBolded": true,
                                     "subInputs": []
                                 },
@@ -816,367 +871,611 @@
                                     "flex": 2,
                                     "label": "[A-G]/7",
                                     "isBolded": false,
-                                    "subInputs": []
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
                                 }
                             ]
                         ],
                         "instruction": "Note: Make an Average of MCR completeness filling score for all the cases obtained in the period.( Ex. A/N *100)"
                     },
                     {
-                        "title": "D.2 Completeness of Malaria Early Epidemic Detection System (MEEDS) weekly data collection booklet",
+                        "title": "D.2 Completeness of IDSR weekly data collection booklet",
                         "inputRows": [
                             [{
                                     "id": "",
-                                    "flex": 2,
+                                    "flex": 3,
                                     "label": "",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
                                 {
                                     "id": "",
-                                    "flex": 6,
-                                    "label": "Under 5 Years",
-                                    "isBolded": true,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "",
-                                    "flex": 6,
-                                    "label": "5 Year and Above",
-                                    "isBolded": true,
-                                    "subInputs": []
-                                }
-                            ],
-                            [{
-                                    "id": "",
-                                    "flex": 2,
-                                    "label": "Monday",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "lOFlkSwkVEx",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "hj3qVPGLsxv",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "TKVq51PZ7Kc",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "sSkfCJ4zqeT",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "DPDnV4dX0mP",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "ohLMQr4oUCy",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                }
-                            ],
-                            [{
-                                    "id": "",
-                                    "flex": 2,
-                                    "label": "Tuesday",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "XOfFzW3ZthF",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "VOCkthx2vsr",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "aXeu1rnjYuH",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "btMjk3zD1rb",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "OWxVuMy2gtG",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "smN3GJwIjD6",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                }
-                            ],
-                            [{
-                                    "id": "",
-                                    "flex": 2,
-                                    "label": "Wednesday",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "orbxdzr53wT",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "DU7lLvXWWhF",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "gEspxTlOJcZ",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "JHtazt4joKV",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "eKdBrFob9aV",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "GzY0kiEa46u",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                }
-                            ],
-                            [{
-                                    "id": "",
-                                    "flex": 2,
-                                    "label": "Thursday",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "Qte5wtO9PAG",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "VSDs742iABx",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "lp0uFK4eArz",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "xpcAuYi8rMi",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "quuEYLbbBgF",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "L21C5Cwc8nC",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                }
-                            ],
-                            [{
-                                    "id": "",
-                                    "flex": 2,
-                                    "label": "Friday",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "taNmPQnTt5i",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "wjRNUbp8Gsz",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "LoEvAt9EFjd",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "FBK8IQNsVyw",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "FyOFQbgbKEn",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "jcfdZk5wyoY",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                }
-                            ],
-                            [{
-                                    "id": "",
-                                    "flex": 2,
-                                    "label": "Saturday/Sunday",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "q4e3prtgn2v",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "CFuW4SIz6kx",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "qPESFpAbQnZ",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "FAyjM4vCz8m",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "BJ7ffbeDk7K",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "LdVpHBgFijx",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                }
-                            ],
-                            [{
-                                    "id": "",
-                                    "flex": 10,
-                                    "label": "SUB SCORE D.2 Sum of total for raw available data/days",
-                                    "isBolded": true,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "moAim7YimYq",
                                     "flex": 4,
-                                    "label": "[__]/36*100 ",
+                                    "label": "Case",
                                     "isBolded": false,
                                     "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 3,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "Male",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "Female",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 3,
+                                    "label": "Diagnosis/condition",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "< 5 yrs",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "5 yrs +",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "< 5 yrs",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "5 yrs +",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 3,
+                                    "label": "Headcounts (Weekly)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "KNfi4sH8bqt",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "TJ1arOwEqxK",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "MYc5AaW8Zho",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "tbY15TLgcTJ",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 3,
+                                    "label": "No. of Malaria suspected",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "znrhSSYHMhL",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "Vs1oHOt1ueM",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "ccVXQ84FnhC",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "IGvx262H1Em",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "No. of Malaria tested",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [{
+                                            "id": "",
+                                            "flex": 1,
+                                            "label": "mRDT",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "",
+                                            "flex": 1,
+                                            "label": "Microscope",
+                                            "isBolded": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [{
+                                            "id": "bYKxe60u1Ew",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "GNAPXjIdXLy",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [{
+                                            "id": "THXAq9HbY1d",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "TLDLWhvuEvS",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [{
+                                            "id": "BTErtP5XyNh",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "FV5YYDJzGC6",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [{
+                                            "id": "hh0ZNepvYB5",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "s9hjSRdE6rO",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        }
+                                    ]
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "Malaria confirmed (positive)",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [{
+                                            "id": "",
+                                            "flex": 1,
+                                            "label": "Uncomplicated",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "",
+                                            "flex": 1,
+                                            "label": "Severe",
+                                            "isBolded": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [{
+                                            "id": "dR46PV1YbYH",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "UnWc5dB7qVf",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [{
+                                            "id": "ZZBulV92MLG",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "s7GApBOl2jd",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [{
+                                            "id": "VcQgemtSOF3",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "npvJHhFwoak",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [{
+                                            "id": "hdQfQzQSk7S",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "Yntl89DiWJ4",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        }
+                                    ]
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 2,
+                                    "label": "No. of Patients with uncomplicated Malaria given",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [{
+                                            "id": "",
+                                            "flex": 1,
+                                            "label": "AsAq",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "",
+                                            "flex": 1,
+                                            "label": "ALU",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "",
+                                            "flex": 1,
+                                            "label": "Other  ACTs",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "",
+                                            "flex": 1,
+                                            "label": "Primaquine",
+                                            "isBolded": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [{
+                                            "id": "Tfmzst6vlyN",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "A2kYVgE6opu",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "E32QAPo5ZVz",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "Fe9k2nCHlfF",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [{
+                                            "id": "ZY5RHvf8iOv",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "XPJdoMonH6Q",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "SRO3KvZ4e5c",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "J1WNjGg9D60",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [{
+                                            "id": "PGOHxkylmVt",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "QeWujsNt0QG",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "M57RfCfU6Q8",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "sJYzk481vYV",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [{
+                                            "id": "EA2bzymlawk",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "geYzr01G7sA",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "n7kZIy3gzkE",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        },
+                                        {
+                                            "id": "EqqZCdhXZdk",
+                                            "flex": 1,
+                                            "label": "",
+                                            "isBolded": false
+                                        }
+                                    ]
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "SUB SCORE D.2 Sum of total for raw available data/days ",
+                                    "isBolded": true
+                                },
+                                {
+                                    "id": "n4ktvEC5Q3z",
+                                    "flex": 1,
+                                    "label": "[]/40",
+                                    "isBolded": false,
+                                    "suffixLabel": "%"
                                 }
                             ]
                         ],
-                        "instruction": "Assess completeness of the MEEDS weekly data collection booklet, refer to the last week of the previous quarter. Note: To complete this table scroll to the left"
+                        "instruction": ""
                     },
                     {
-                        "title": "D.4 MEEDS reporting timeliness",
+                        "title": "",
+                        "inputRows": [
+                            [{
+                                    "id": "",
+                                    "flex": 3,
+                                    "label": "Report prepared by",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "eZmnvhWgMMg",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 3,
+                                    "label": "Date report sent",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "svlYjLesjrE",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                }
+                            ],
+                            [{
+                                    "id": "",
+                                    "flex": 3,
+                                    "label": "SUB-SCORE: D.3 Verification score",
+                                    "isBolded": true,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "ioiSbiKct6c",
+                                    "flex": 1,
+                                    "label": "[___]/2 ",
+                                    "isBolded": false,
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
+                                }
+                            ]
+                        ],
+                        "instruction": "D.3 Instruction: Verify if the following variable are filled in the IDSR booklet on  the last week of the previous quarter"
+                    },
+                    {
+                        "title": "D.4 IDSR reporting timeliness",
                         "inputRows": [
                             [{
                                     "id": "",
                                     "flex": 4,
-                                    "label": "Select day on which the report was submitted (Refer to MEEDS system report)",
+                                    "label": "IDSR reporting timeliness",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "gLKTWTXihh4",
+                                    "id": "aaq16rlWLck",
                                     "flex": 2,
                                     "label": "",
                                     "isBolded": false,
@@ -1186,23 +1485,24 @@
                             [{
                                     "id": "",
                                     "flex": 4,
-                                    "label": "SUB-SCORE: D.4 MEEDS Timeline Score",
+                                    "label": "SUB-SCORE: D.4 IDSR Timeline Score",
                                     "isBolded": true,
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "CI27R1jh8Mm",
+                                    "id": "EjyfAL96VNw",
                                     "flex": 2,
-                                    "label": "[__]/5*100",
-                                    "isBolded": false,
-                                    "subInputs": []
+                                    "label": "[__]/5",
+                                    "isBolded": true,
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
                                 }
                             ]
                         ],
-                        "instruction": "Download and print out the MEEDS timeliness report of the last week (of the previous quarter) from the MEEDS system."
+                        "instruction": "Instruction: Download and print out the IDSR timeliness report of the last week (of the previous quarter) from the IDSR system.Tick the day on which the report was submitted (Refer to IDSR system report). "
                     },
                     {
-                        "title": "D.5 Verification of the reporting date of MEEDS system and MEEDS booklet",
+                        "title": "D.5 Verification of the reporting date of IDSR system and IDSR booklet",
                         "inputRows": [
                             [{
                                     "id": "",
@@ -1214,14 +1514,14 @@
                                 {
                                     "id": "",
                                     "flex": 3,
-                                    "label": "MEEDS weekly data collection booklet (A)",
+                                    "label": "IDSR weekly data collection booklet (A)",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
                                 {
                                     "id": "",
                                     "flex": 2,
-                                    "label": "ZAMEP MEEDS system  (B)",
+                                    "label": "IDSR system  (B)",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
@@ -1248,7 +1548,7 @@
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "GSwllskeXos",
+                                    "id": "xdKbCK9CRaa",
                                     "flex": 2,
                                     "label": "",
                                     "isBolded": false,
@@ -1265,20 +1565,21 @@
                             [{
                                     "id": "",
                                     "flex": 6,
-                                    "label": "SUB SCORE D.5 Consistence in dates of MEEDS system and MEEDS booklet reporting date score",
+                                    "label": "SUB SCORE D.5 Consistence in dates of IDSR system and IDSR booklet reporting date score",
                                     "isBolded": true,
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "WG5xmG61LEx",
+                                    "id": "lEHMwcqQLNR",
                                     "flex": 2,
-                                    "label": "[__]/5*100",
+                                    "label": "[__]/5",
                                     "isBolded": false,
-                                    "subInputs": []
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
                                 }
                             ]
                         ],
-                        "instruction": "Verify if the reporting date of MEEDS system and MEEDS booklet match for the last week (of the previous quarter)"
+                        "instruction": "Instruction: Verify if the reporting date of IDSR system and IDSR booklet match for the last week (of the previous quarter)"
                     },
                     {
                         "title": "D.6 Assess the data consistence of the following collection tools for the last week of the previous quarter",
@@ -1292,7 +1593,7 @@
                                 },
                                 {
                                     "id": "",
-                                    "flex": 1,
+                                    "flex": 2,
                                     "label": "",
                                     "isBolded": false,
                                     "subInputs": []
@@ -1307,21 +1608,21 @@
                                 {
                                     "id": "",
                                     "flex": 2,
-                                    "label": "MEEDS weekly Data collection booklet (B)",
+                                    "label": "Weekly surveillance form IDSR (B)",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
                                 {
                                     "id": "",
                                     "flex": 2,
-                                    "label": "ZMCP MEEDS system (C)",
+                                    "label": "Week surveillance data DHS2 (C)",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
                                 {
                                     "id": "",
                                     "flex": 2,
-                                    "label": "Malaria Laboratory book (sum mRDT and BS MPS) (D)",
+                                    "label": "Malaria Laboratory Book (sum mRDT  and BS MPS) (D)",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
@@ -1352,13 +1653,6 @@
                                     "label": "Consistency Check #2 is A =C",
                                     "isBolded": false,
                                     "subInputs": []
-                                },
-                                {
-                                    "id": "",
-                                    "flex": 2,
-                                    "label": "Consistency Check #3 is E =F",
-                                    "isBolded": false,
-                                    "subInputs": []
                                 }
                             ],
                             [{
@@ -1370,7 +1664,7 @@
                                 },
                                 {
                                     "id": "",
-                                    "flex": 1,
+                                    "flex": 2,
                                     "label": "Total OPD visits < 5",
                                     "isBolded": false,
                                     "subInputs": []
@@ -1383,14 +1677,14 @@
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "M2tUanI8CQu",
+                                    "id": "JjPchhN8HYu",
                                     "flex": 2,
                                     "label": "",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "vSVM07k0WgL",
+                                    "id": "",
                                     "flex": 2,
                                     "label": "",
                                     "isBolded": false,
@@ -1420,14 +1714,7 @@
                                 {
                                     "id": "M85pUVI0YmD",
                                     "flex": 2,
-                                    "label": "A = B = C ?",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "",
-                                    "flex": 2,
-                                    "label": "",
+                                    "label": "A = B ?",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
@@ -1448,7 +1735,7 @@
                                 },
                                 {
                                     "id": "",
-                                    "flex": 1,
+                                    "flex": 2,
                                     "label": "Total OPD visits > 5",
                                     "isBolded": false,
                                     "subInputs": []
@@ -1461,14 +1748,14 @@
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "txzTzRGst1G",
+                                    "id": "MiMQ8sQ4AG4",
                                     "flex": 2,
                                     "label": "",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "Hb7YUa0vim4",
+                                    "id": "",
                                     "flex": 2,
                                     "label": "",
                                     "isBolded": false,
@@ -1498,14 +1785,7 @@
                                 {
                                     "id": "ZgF5micAlhZ",
                                     "flex": 2,
-                                    "label": "A = B = C ?",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "",
-                                    "flex": 2,
-                                    "label": "",
+                                    "label": "A = B?",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
@@ -1526,7 +1806,7 @@
                                 },
                                 {
                                     "id": "",
-                                    "flex": 1,
+                                    "flex": 2,
                                     "label": "Malaria negative < 5",
                                     "isBolded": false,
                                     "subInputs": []
@@ -1539,14 +1819,14 @@
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "k9KG7X5p9Gn",
+                                    "id": "Y467FvWlbmg",
                                     "flex": 2,
                                     "label": "",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "khpKinvuguX",
+                                    "id": "wJmBpROunPO",
                                     "flex": 2,
                                     "label": "",
                                     "isBolded": false,
@@ -1576,19 +1856,12 @@
                                 {
                                     "id": "t6MPXtpSXrn",
                                     "flex": 2,
-                                    "label": "A = B = C = D?",
+                                    "label": "A = B = C = D ?",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
                                 {
                                     "id": "j1dBqerlwZK",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
-                                },
-                                {
-                                    "id": "",
                                     "flex": 2,
                                     "label": "",
                                     "isBolded": false,
@@ -1604,7 +1877,7 @@
                                 },
                                 {
                                     "id": "",
-                                    "flex": 1,
+                                    "flex": 2,
                                     "label": "Malaria negative > 5",
                                     "isBolded": false,
                                     "subInputs": []
@@ -1617,14 +1890,14 @@
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "k9EOaOTnlQz",
+                                    "id": "N6RAeRAYKKe",
                                     "flex": 2,
                                     "label": "",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "PCADVKi1Sj0",
+                                    "id": "YyG3c5DMDbo",
                                     "flex": 2,
                                     "label": "",
                                     "isBolded": false,
@@ -1664,13 +1937,6 @@
                                     "label": "",
                                     "isBolded": false,
                                     "subInputs": []
-                                },
-                                {
-                                    "id": "",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
                                 }
                             ],
                             [{
@@ -1682,7 +1948,7 @@
                                 },
                                 {
                                     "id": "",
-                                    "flex": 1,
+                                    "flex": 2,
                                     "label": "Malaria positive < 5",
                                     "isBolded": false,
                                     "subInputs": []
@@ -1695,14 +1961,14 @@
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "BQQO1YM0wUX",
+                                    "id": "gNxiag6QxDj",
                                     "flex": 2,
                                     "label": "",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "VnjBPawnjwt",
+                                    "id": "ca2nOCPmg39",
                                     "flex": 2,
                                     "label": "",
                                     "isBolded": false,
@@ -1742,13 +2008,6 @@
                                     "label": "",
                                     "isBolded": false,
                                     "subInputs": []
-                                },
-                                {
-                                    "id": "xj9ccYy7yi8",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
                                 }
                             ],
                             [{
@@ -1760,7 +2019,7 @@
                                 },
                                 {
                                     "id": "",
-                                    "flex": 1,
+                                    "flex": 2,
                                     "label": "Malaria positive > 5",
                                     "isBolded": false,
                                     "subInputs": []
@@ -1773,21 +2032,21 @@
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "m1XalQ83t3R",
+                                    "id": "e7nbXArFnGj",
                                     "flex": 2,
                                     "label": "",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "mO6hrP9JTSv",
+                                    "id": "PD2pkimoowx",
                                     "flex": 2,
                                     "label": "",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
                                 {
-                                    "id": "XNq4EQ3bmUQ",
+                                    "id": "oYA3c5IvSzI",
                                     "flex": 2,
                                     "label": "",
                                     "isBolded": false,
@@ -1820,41 +2079,133 @@
                                     "label": "",
                                     "isBolded": false,
                                     "subInputs": []
-                                },
-                                {
-                                    "id": "ZXhmr224zWf",
-                                    "flex": 2,
-                                    "label": "",
-                                    "isBolded": false,
-                                    "subInputs": []
                                 }
                             ],
                             [{
                                     "id": "",
-                                    "flex": 14,
-                                    "label": "Consistency Check Score (sum of totals for raw 1 to 6 divide by 12)",
+                                    "flex": 13,
+                                    "label": "Consistency Check Score (sum of totals for raw 1 to 6 divide by 10)",
                                     "isBolded": true,
                                     "subInputs": []
                                 },
                                 {
                                     "id": "xumrnP8es8m",
                                     "flex": 6,
-                                    "label": "[__]/12*100",
+                                    "label": "[__]/10",
+                                    "isBolded": false,
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
+                                }
+                            ]
+                        ],
+                        "instruction": "Instruction: Download and print out the IDSR system report, MCN system report and IDSR malaria data from DHIS2 of the last week of the previous quarter and use the data to measure consistence. For Hospitals Use Laboratory booklets (Take totals of all the laboratories in the hospital). Do not fill shaded cells"
+                    },
+                    {
+                        "title": "Section D.: MCN/IDSR/IDSR DQA Score",
+                        "inputRows": [
+                            [{
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "D.1 MCR Completeness",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "D.2 IDSR Completeness",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "D.3 Verification of IDSR Booklet ",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "D.4 IDSR Reporting Timeline",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "D.5 Verification of IDSR System & Booklet",
+                                    "isBolded": false,
+                                    "subInputs": []
+                                },
+                                {
+                                    "id": "",
+                                    "flex": 1,
+                                    "label": "D.6 Consistency Check Score",
                                     "isBolded": false,
                                     "subInputs": []
                                 }
                             ],
                             [{
+                                    "id": "XVH9ejpQdVt",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
+                                },
+                                {
+                                    "id": "n4ktvEC5Q3z",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
+                                },
+                                {
+                                    "id": "ioiSbiKct6c",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
+                                },
+                                {
+                                    "id": "EjyfAL96VNw",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
+                                },
+                                {
+                                    "id": "lEHMwcqQLNR",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
+                                },
+                                {
+                                    "id": "xumrnP8es8m",
+                                    "flex": 1,
+                                    "label": "",
+                                    "isBolded": false,
+                                    "subInputs": [],
+                                    "suffixLabel": "%"
+                                }
+                            ],
+                            [{
                                     "id": "",
                                     "flex": 14,
-                                    "label": "SCORE: Section D. MCN/MEEDS DQA Score",
+                                    "label": "SCORE: Section D. MCN/IDSR DQA Score",
                                     "isBolded": true,
                                     "subInputs": []
                                 },
                                 {
                                     "id": "Mn0221J0YZf",
                                     "flex": 6,
-                                    "label": "[D1-D6]/6 ",
+                                    "label": "[D1-D5]/5 ",
                                     "isBolded": false,
                                     "subInputs": []
                                 }
@@ -1862,7 +2213,7 @@
                             [{
                                     "id": "",
                                     "flex": 14,
-                                    "label": "End Time",
+                                    "label": "End time of the supervision visit ",
                                     "isBolded": false,
                                     "subInputs": []
                                 },
@@ -1875,7 +2226,7 @@
                                 }
                             ]
                         ],
-                        "instruction": "Download and print out the MEEDS system report and MCN system report of the last week of the previous quarter and use the data to measure consistence. For Hospitals Use Laboratory booklets (Take totals of all the laboratories in the hospital) Note: To complete this table, scroll left"
+                        "instruction": "Instructions: Calculate Total Section Score by averaging  section Scores"
                     }
                 ]
             }
